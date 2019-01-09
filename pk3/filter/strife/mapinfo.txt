@@ -1,0 +1,445 @@
+Intermission Inter_Strife_Good
+{
+	Image
+	{
+		Music = "D_HAPPY"
+		Background = "SS4F1"
+		Sound = "svox/rie01"
+		Time = 13
+	}
+	Image
+	{
+		Background = "SS4F2"
+		Sound = "svox/bbx01"
+		Time = 11
+	}
+	Image
+	{
+		Background = "SS4F3"
+		Sound = "svox/bbx02"
+		Time = 14
+	}
+	Image
+	{
+		Background = "SS4F4"
+		Time = 28
+	}
+	Wiper
+	{
+		WipeType = Crossfade
+	}
+	Image
+	{
+		Music = "D_FAST"
+		Background = "RUCREDIT"
+		Time = 10
+	}
+	Image
+	{
+		Music = "D_FAST"
+		Background = "CREDIT"
+	}
+}
+
+
+Intermission Inter_Strife_Sad
+{
+	Image
+	{
+		Music = "D_SAD"
+		Background = "SS6F1"
+		Sound = "svox/ss601a"
+		Time = 8
+	}
+	Image
+	{
+		Background = "SS6F2"
+		Sound = "svox/ss602a"
+		Time = 8
+	}
+	Image
+	{
+		Background = "SS6F3"
+		Sound = "svox/ss603a"
+		Time = 9
+	}
+	Wiper
+	{
+		WipeType = Crossfade
+	}
+	Image
+	{
+		Music = "D_FAST"
+		Background = "RUCREDIT"
+		Time = 10
+	}
+	Image
+	{
+		Music = "D_FAST"
+		Background = "CREDIT"
+	}
+}
+
+Intermission Inter_Strife_Lose
+{
+	Image
+	{
+		Music = "D_SAD"
+		Background = "SS5F1"
+		Sound = "svox/ss501b"
+		Time = 11
+	}
+	Image
+	{
+		Background = "SS5F2"
+		Sound = "svox/ss502b"
+		Time = 10
+	}
+	Image
+	{
+		Background = "SS5F3"
+		Sound = "svox/ss503b"
+		Time = 11
+	}
+	Wiper
+	{
+		WipeType = Crossfade
+	}
+	Image
+	{
+		Music = "D_FAST"
+		Background = "RUCREDIT"
+		Time = 10
+	}
+	Image
+	{
+		Music = "D_FAST"
+		Background = "CREDIT"
+	}
+}
+
+map MAP01 "Местность 1: Святилище"
+{
+	next = "MAP02"
+	sky1 = "SKYMNT02"
+	music = "D_ACTION"
+	cluster = 1
+}
+
+map MAP02 "Местность 2: Город"
+{
+	next = "MAP03"
+	sky1 = "SKYMNT02"
+	music = "D_TAVERN"
+	cluster = 1
+}
+
+map MAP03 "Местность 3: База сопротивления"
+{
+	next = "MAP04"
+	sky1 = "SKYMNT02"
+	music = "D_DANGER"
+	cluster = 1
+	noallies
+	redirect = "Sigil", "map30"
+	slideshow = "Inter_Strife_MAP03"
+}
+
+map MAP04 "Местность 4: Электростанция"
+{
+	next = "MAP05"
+	sky1 = "SKYMNT02"
+	music = "D_FAST"
+	cluster = 1
+}
+
+map MAP05 "Местность 5: Тюрьма"
+{
+	next = "MAP06"
+	sky1 = "SKYMNT02"
+	music = "D_INTRO"
+	cluster = 1
+}
+
+map MAP06 "Местность 6: Канализация"
+{
+	next = "MAP07"
+	sky1 = "SKYMNT02"
+	music = "D_DARKER"
+	cluster = 1
+}
+
+map MAP07 "Местность 7: Замок"
+{
+	next = "MAP08"
+	sky1 = "SKYMNT02"
+	music = "D_STRIKE"
+	cluster = 1
+	redirect = "Sigil", "map10"
+}
+
+map MAP08 "Местность 8: Приемная"
+{
+	next = "MAP09"
+	sky1 = "SKYMNT02"
+	music = "D_SLIDE"
+	cluster = 1
+}
+
+map MAP09 "Местность 9: Замок: Цитадель Программиста"
+{
+	next = "MAP10"
+	sky1 = "SKYMNT02"
+	music = "D_TRIBAL"
+	cluster = 1
+
+	// These are the sky changes for the first 8 maps
+
+	specialaction = "Programmer", "ACS_Execute", 0, 1, 256
+	specialaction = "Programmer", "ACS_Execute", 0, 2, 256
+	specialaction = "Programmer", "ACS_Execute", 0, 3, 256
+	specialaction = "Programmer", "ACS_Execute", 0, 4, 256
+	specialaction = "Programmer", "ACS_Execute", 0, 5, 256
+	specialaction = "Programmer", "ACS_Execute", 0, 6, 256
+	specialaction = "Programmer", "ACS_Execute", 0, 7, 256
+	specialaction = "Programmer", "ACS_Execute", 0, 8, 256
+	
+	// It seems that Strife was originally going to print the text
+	// from the C1TEXT lump when you move from map 9 to map 10, but
+	// that idea apparently got scrapped as the game developed. 
+}
+
+map MAP10 "Местность 10: Новая база сопротивления"
+{
+	next = "MAP11"
+	sky1 = "SKYMNT01"
+	music = "D_MARCH"
+	cluster = 1
+	slideshow = "Inter_Strife_MAP10"
+}
+
+map MAP11 "Местность 11: Пограничье"
+{
+	next = "MAP12"
+	sky1 = "SKYMNT01"
+	music = "D_DANGER"
+	cluster = 1
+}
+
+map MAP12 "Местность 12: Храм Оракула"
+{
+	next = "MAP13"
+	sky1 = "SKYMNT01"
+	music = "D_MOOD"
+	cluster = 1
+}
+
+map MAP13 "Местность 13: Катакомбы"
+{
+	next = "MAP14"
+	sky1 = "SKYMNT01"
+	music = "D_CASTLE"
+	cluster = 1
+}
+
+map MAP14 "Местность 14: Шахты"
+{
+	next = "MAP15"
+	sky1 = "SKYMNT01"
+	music = "D_DARKER"
+	cluster = 1
+}
+
+map MAP15 "Местность 15: Крепость: Администрация"
+{
+	next = "MAP16"
+	sky1 = "SKYMNT01"
+	music = "D_ACTION"
+	cluster = 1
+}
+
+map MAP16 "Местность 16: Крепость: Башня Епискора"
+{
+	next = "MAP17"
+	sky1 = "SKYMNT01"
+	music = "D_FIGHT"
+	cluster = 1
+}
+
+map MAP17 "Местность 17: Крепость: Двор"
+{
+	next = "MAP18"
+	sky1 = "SKYMNT01"
+	music = "D_SPENSE"
+	cluster = 1
+}
+
+map MAP18 "Местность 18: Крепость: Склады"
+{
+	next = "MAP19"
+	sky1 = "SKYMNT01"
+	music = "D_SLIDE"
+	cluster = 1
+}
+
+map MAP19 "Местность 19: Крепость: Охранный комплекс"
+{
+	next = "MAP20"
+	sky1 = "SKYMNT01"
+	music = "D_STRIKE"
+	cluster = 1
+}
+
+map MAP20 "Местность 20: Завод: Прием"
+{
+	next = "MAP21"
+	sky1 = "SKYMNT01"
+	music = "D_DARK"
+	cluster = 1
+}
+
+map MAP21 "Местность 21: Завод: Производство"
+{
+	next = "MAP22"
+	sky1 = "SKYMNT01"
+	music = "D_TECH"
+	cluster = 1
+}
+
+map MAP22 "Местность 22: Завод: Кузня"
+{
+	next = "MAP23"
+	sky1 = "SKYMNT01"
+	music = "D_SLIDE"
+	cluster = 1
+}
+
+map MAP23 "Местность 23: Поселение Ордена"
+{
+	next = "MAP24"
+	sky1 = "SKYMNT01"
+	music = "D_DRONE"
+	cluster = 1
+}
+
+map MAP24 "Местность 24: Карелла преображения"
+{
+	next = "MAP25"
+	sky1 = "SKYMNT01"
+	music = "D_PANTHR"
+	cluster = 1
+}
+
+map MAP25 "Местность 25: Катакомбы: Руины храма"
+{
+	next = "MAP26"
+	sky1 = "SKYMNT01"
+	music = "D_SAD"
+	cluster = 1
+}
+
+map MAP26 "Местность 26: Испытательный полигон"
+{
+	next = "MAP27"
+	sky1 = "SKYMNT01"
+	music = "D_INSTRY"
+	cluster = 1
+}
+
+map MAP27 "Местность 27: Лаборатория"
+{
+	next = "MAP28"
+	sky1 = "SKYMNT01"
+	music = "D_TECH"
+	cluster = 1
+}
+
+map MAP28 "Местность 28: Корабль пришельцев"
+{
+	next = "MAP29"
+	sky1 = "SKYMNT01"
+	music = "D_ACTION"
+	cluster = 1
+}
+
+map MAP29 "Местность 29: Логово сущности"
+{
+	next = "EndGameS"
+	sky1 = "SKYMNT01"
+	music = "D_INSTRY"
+	cluster = 1
+	deathsequence = "Inter_Strife_Lose"
+}
+
+map MAP30 "Местность 30: Заброшенная база сопротивления"
+{
+	next = "MAP31"
+	sky1 = "SKYMNT01"
+	music = "D_DRONE"
+	cluster = 1
+}
+
+map MAP31 "Местность 31: Тренировочный корпус"
+{
+	next = "MAP01"
+	sky1 = "SKYMNT01"
+	music = "D_FIGHT"
+	cluster = 1
+}
+
+map MAP32 "Местность 1: Святилище"
+{
+	next = "MAP33"
+	sky1 = "SKYMNT02"
+	music = "D_MAP1"
+	cluster = 2
+}
+
+map MAP33 "Местность 2: Город"
+{
+	next = "MAP34"
+	sky1 = "SKYMNT02"
+	music = "D_MAP2"
+	cluster = 2
+}
+
+map MAP34 "Местность 3: База сопротивления"
+{
+	next = "EndBuyStrife"
+	sky1 = "SKYMNT02"
+	music = "D_MAP3"
+	cluster = 2
+	noallies
+}
+
+map MAP35 "AREA 35: Factory: Production"
+{
+	next = "MAP01"
+	sky1 = "SKYMNT01"
+	music = "D_TRIBAL"
+	cluster = 1
+}
+
+map MAP36 "AREA 36: Castle Clash"
+{
+	next = "MAP37"
+	sky1 = "SKYMNT01"
+	music = "D_MARCH"
+	cluster = 3
+}
+
+map MAP37 "AREA 37: Killing Grounds"
+{
+	next = "MAP38"
+	sky1 = "SKYMNT01"
+	music = "D_STRIKE"
+	cluster = 3
+}
+
+map MAP38 "AREA 38: Ordered Chaos"
+{
+	next = "MAP36"
+	sky1 = "SKYMNT01"
+	music = "D_TRIBAL"
+	cluster = 3
+}
