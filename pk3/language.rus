@@ -84,7 +84,7 @@ GOTBERSERK = "Берсерк!";
 GOTINVIS = "Частичная невидимость.";
 GOTSUIT = "Костюм радиационной защиты.";
 GOTMAP = "Компьютерная карта уровня.";
-GOTVISOR = "Очки ночного видения."; // Визор усиления освещения
+GOTVISOR = "Очки ночного видения.";
 GOTMSPHERE = "Мегасфера!";
 GOTCLIP = "Подобран магазин.";
 GOTCLIPBOX = "Подобрана коробка патронов.";
@@ -95,27 +95,27 @@ GOTCELLBOX = "Подобран энергоаккумулятор.";
 GOTSHELLS = "Подобрано 4 патрона для дробовика.";
 GOTSHELLBOX = "Подобрана коробка патронов для дробовика.";
 GOTBACKPACK = "Подобран рюкзак, полный патронов!";
-GOTBFG9000 = "Подобрано BFG9000! О, да.";
+GOTBFG9000 = "Подобрано BFG9000! О, да!";
 GOTCHAINGUN = "Подобран пулемет!";
 GOTCHAINSAW = "Бензопила! Найди немного мяса!";
 GOTLAUNCHER = "Подобрана ракетница!";
 GOTPLASMA = "Подобран плазмомет!";
 GOTSHOTGUN = "Подобран дробовик!";
 GOTSHOTGUN2 = "Подобрана супер-дробовик!";
-PD_BLUEO = "Для активации нужен синий ключ";
-PD_REDO = "Для активации нужен красный ключ";
-PD_YELLOWO = "Для активации нужен желтый ключ";
+PD_BLUEO = "Для активации требуется синий ключ";
+PD_REDO = "Для активации требуется красный ключ";
+PD_YELLOWO = "Для активации требуется желтый ключ";
 PD_BLUEK = "Нужен синий ключ, чтобы открыть";
 PD_REDK = "Нужен красный ключ, чтобы открыть";
 PD_YELLOWK = "Нужен желтый ключ, чтобы открыть";
 PD_BLUECO = "Для активации нужен синий ключ";
-PD_REDCO = "Для активации нужен красный ключ";
-PD_YELLOWCO = "Для активации нужен желтый ключ";
-PD_BLUESO = "Для активации нужен синий ключ-череп.";
-PD_REDSO = "Для активации нужен красный ключ-череп.";
-PD_YELLOWSO = "Для активации нужен желтый ключ-череп.";
+PD_REDCO = "Для активации требуется красный ключ";
+PD_YELLOWCO = "Для активации требуется желтый ключ";
+PD_BLUESO = "Для активации требуется синий череп.";
+PD_REDSO = "Для активации требуется красный череп.";
+PD_YELLOWSO = "Для активации требуется желтый череп.";
 NEWSAVE = "<Новое сохранение>";
-GGSAVED = "Игра сохранена.";
+GGSAVED = "Игра сохранена!";
 HUSTR_MSGU = "[Сообщение не отправлено]";
 PICKUP_PISTOL_DROPPED = "Подобран пистолет.";
 BETA_BONUS1 = "Вы подобрали демонический кинжал.";
@@ -131,9 +131,9 @@ HUSTR_E1M4 = "E1M4: Командный Пункт";
 HUSTR_E1M5 = "E1M5: Лаборатория На Фобосе";
 HUSTR_E1M6 = "E1M6: Центральный Пункт Обработки";
 HUSTR_E1M7 = "E1M7: Вычислительный Центр";
-HUSTR_E1M8 = "E1M8: Аномалия На Фобосе";
+HUSTR_E1M8 = "E1M8: Аномалия Фобоса";
 HUSTR_E1M9 = "E1M9: Военная База";
-HUSTR_E2M1 = "E2M1: Аномалия На Деймосе";
+HUSTR_E2M1 = "E2M1: Аномалия Деймоса";
 HUSTR_E2M2 = "E2M2: Хранилище";
 HUSTR_E2M3 = "E2M3: Очистительный Завод";
 HUSTR_E2M4 = "E2M4: Лаборатория На Деймосе";
@@ -157,7 +157,7 @@ HUSTR_E4M3 = "E4M3: Отделить Злых";
 HUSTR_E4M4 = "E4M4: Неудержимое Зло";
 HUSTR_E4M5 = "E4M5: Они Покаются";
 HUSTR_E4M6 = "E4M6: Против Тебя Нечестиво";
-HUSTR_E4M7 = "E4M7: И Ад Следовал";
+HUSTR_E4M7 = "E4M7: И Последовал Ад";
 HUSTR_E4M8 = "E4M8: К Мучителю";
 HUSTR_E4M9 = "E4M9: Страх";
 
@@ -167,7 +167,7 @@ hustr_3 = "уровень 3: вызов брошен";
 hustr_4 = "уровень 4: средоточие";
 hustr_5 = "уровень 5: сточные туннели";
 hustr_6 = "уровень 6: пресс";
-hustr_7 = "уровень 7: смертельно простой";
+hustr_7 = "уровень 7: смертельно просто";
 hustr_8 = "уровень 8: уловки и ловушки";
 hustr_9 = "уровень 9: яма";
 hustr_10 = "уровень 10: заправочная база";
@@ -183,7 +183,7 @@ hustr_19 = "уровень 19: цитадель";
 hustr_20 = "уровень 20: попался!";
 hustr_21 = "уровень 21: нирвана";
 hustr_22 = "уровень 22: катакомбы";
-hustr_23 = "уровень 23: веселые бочки";
+hustr_23 = "уровень 23: бочки веселья";
 hustr_24 = "уровень 24: пропасть";
 hustr_25 = "уровень 25: кровопады";
 hustr_26 = "уровень 26: заброшенные шахты";
@@ -194,7 +194,7 @@ hustr_30 = "уровень 30: икона греха";
 hustr_31 = "уровень 31: вольфенштейн";
 hustr_32 = "уровень 32: гроссе";
 hustr_31b = "уровень 31: idkfa";
-hustr_32b = "уровень 32: keen";
+hustr_32b = "уровень 32: кин";
 hustr_33 = "уровень 33: предательство";
 
 NHUSTR_1 = "уровень 1: база на земле";
@@ -280,28 +280,28 @@ HUSTR_TALKTOSELF4 = "Вы бредите.";
 HUSTR_TALKTOSELF5 = "Какая досада...";
 HUSTR_MESSAGESENT = "[Сообщение Отправлено]";
 
-AMSTR_FOLLOWON = "Режим следования ВКЛЮЧЕН";
-AMSTR_FOLLOWOFF = "Режим следования ОТКЛЮЧЕН";
+AMSTR_FOLLOWON = "Привязка к игроку ВКЛЮЧЕНА";
+AMSTR_FOLLOWOFF = "Привязка к игроку ОТКЛЮЧЕНА";
 AMSTR_GRIDON = "Сетка ВКЛЮЧЕНА";
 AMSTR_GRIDOFF = "Сетка ОТКЛЮЧЕНА";
-AMSTR_TEXON = "Режим текстур ВКЛЮЧЕН";
-AMSTR_TEXOFF = "Режим текстур ОТКЛЮЧЕН";
+AMSTR_TEXON = "Текстурный режим ВКЛЮЧЕН";
+AMSTR_TEXOFF = "Текстурный режим ОТКЛЮЧЕН";
 AMSTR_MARKEDSPOT = "Отметка";
 AMSTR_MARKSCLEARED = "Отметки очищены";
 STSTR_MUS = "Смена музыки";
 STSTR_NOMUS = "НЕКОРРЕКТНЫЙ ВЫБОР";
 STSTR_DQDON = "Неуязвимость включена";
 STSTR_DQDOFF = "Неуязвимость выключена";
-STSTR_DQD2ON = "Абсолютная неуязвимость включена";
-STSTR_DQD2OFF = "Абсолютная неуязвимость выключена";
+STSTR_DQD2ON = "Полная неуязвимость включена";
+STSTR_DQD2OFF = "Полная неуязвимость выключена";
 STSTR_KFAADDED = "Боезапас пополнен";
 STSTR_FAADDED = "Боезапас пополнен (без ключей)";
-STSTR_NCON = "Прохождение через стены включено";
-STSTR_NCOFF = "Прохождение через стены выключено";
-STSTR_NC2ON = "Второе прохождение через стены включено";
+STSTR_NCON = "Прохождение сквозь стены включено";
+STSTR_NCOFF = "Прохождение сквозь стены выключено";
+STSTR_NC2ON = "Полёт сковозь стены включен";
 STSTR_BEHOLD = "m=бессм., s=берс., i=нев., r=кос., a=крт., l=виз.";
-STSTR_BEHOLDX = "Предмет включен";
-STSTR_CHOPPERS = "... недурственно — г.м.";
+STSTR_BEHOLDX = "Предмет переключен";
+STSTR_CHOPPERS = "... неплохо — г.м.";
 STSTR_CLEV = "Смена уровня...\n";
 TXT_BUDDHAON = "Вы теперь Будда.";
 TXT_BUDDHAOFF = "Вы больше не Будда.";
@@ -316,10 +316,10 @@ E1TEXT =
 	"билет домой? Что это за чертовщина?\n"
 	"Все должно было закончиться не так!\n"
 	"\n"
-	"Это место пахнет как гнилое мясо, но\n"
+	"Это место пахнет как гнилое мясо, а\n"
 	"выглядит как потерянная база на Деймосе.\n"
-	"Похоже, Вы застряли в «Берега ада», и\n"
-	"единственный путь теперь — пройти его.\n"
+	"Похоже, Вы застряли на «Берегах Ада», и\n"
+	"единственный путь теперь — пройти через это.\n"
 	"\n"
 	"Чтобы продолжить погружение в игру,\n"
 	"пройдите эпизод «Берега ада» и его\n"
@@ -361,28 +361,28 @@ E3TEXT =
 	"одно порождение Ада не смогло пройти\n"
 	"через эту дверь вместе с Вами...";
 E4TEXT =
-	"паук-предводитель, должно быть, послал\n"
+	"Паук-предводитель, должно быть, послал\n"
 	"вперед свои легионы порождений ада\n"
-	"перед вашим последним сражением с этим\n"
-	"ужасным отродьем. но вы пошли до конца\n"
+	"перед Вашим последним сражением с этим\n"
+	"ужасным отродьем. Но Вы пошли до конца\n"
 	"и принесли вечное проклятье и страдание\n"
 	"этой орде так, как поступил бы настоящий\n"
 	"герой перед лицом смертельной опасности.\n"
 	"\n"
-	"кроме того, кто-то должен был заплатить\n"
-	"за то, что случилось с дэйзи, вашей\n"
+	"Кроме того, кто-то должен был заплатить\n"
+	"за то, что случилось с Дэйзи, вашей\n"
 	"домашней крольчихой.\n"
 	"\n"
-	"теперь вы видите, сколь много боли и\n"
+	"Теперь Вы видите, сколь много боли и\n"
 	"крови вам пророчат полчища демонов,\n"
 	"неистовствующих в наших городах.\n"
 	"\n"
-	"следующая остановка — ад на земле!";
+	"Следующая остановка — Ад на Земле!";
 C1TEXT =
-	"ВЫ ПРОШЛИ ВГЛУБЬ ПОРАЖЕННОГО КОСМОПОРТА,\n"
+	"ВЫ ПРОШЛИ ВГЛУБЬ ЗАРАЖЕННОГО КОСМОПОРТА,\n"
 	"НО ЧТО-ТО ЗДЕСЬ НЕ ТАК. МОНСТРЫ ПРИНЕСЛИ\n"
-	"С СОБОЙ СОБСТВЕННУЮ РЕАЛЬНОСТЬ,\n"
-	"И ТЕХНОЛОГИЯ КОСМОПОРТА\n"
+	"С СОБОЙ СВОЮ СОБСТВЕННУЮ РЕАЛЬНОСТЬ,\n"
+	"И ТЕХНИКА КОСМОПОРТА\n"
 	"ТРАНСФОРМИРУЕТСЯ ОТ ИХ ПРИСУТСТВИЯ.\n"
 	"\n"
 	"ВПЕРЕДИ ВЫ ВИДИТЕ АВАНПОСТ АДА.\n"
@@ -419,7 +419,7 @@ C3TEXT =
 	"ДОЛЖЕН БЫТЬ СПОСОБ ЗАКРЫТЬ ПОРТАЛ\n"
 	"НА ДРУГОЙ СТОРОНЕ. И КАКОЕ ВАМ ДЕЛО ДО\n"
 	"ТОГО, ЧТО ПРИДЕТСЯ ПРОЙТИ ЧЕРЕЗ АД, ЧТОБЫ\n"
-	"ДОБРАТЬСЯ ДО ЭТОГО ПОРТАЛА?";
+	"ДОБРАТЬСЯ ДО НЕГО?";
 C4TEXT =
 	"ЖУТЧАЙШИЙ ЛИК САМОГО БОЛЬШОГО ДЕМОНА,\n"
 	"КОТОРОГО ВЫ КОГДА-ЛИБО ВИДЕЛИ, РУШИТСЯ\n"
@@ -468,7 +468,7 @@ P2TEXT =
 	"\n"
 	"Уничтожение — Ваша специальность.";
 P3TEXT =
-	"Вы пробили и проколотили свой путь в\n"
+	"Вы пробили путь в самое\n"
 	"сердце дьявольского улья. Настало время\n"
 	"для миссии «найти и уничтожить»,\n"
 	"объектом которой станет Привратник,\n"
@@ -480,7 +480,7 @@ P3TEXT =
 	"Злобно ухмыляясь, Вы проверяете свое\n"
 	"снаряжение, и готовитесь преподать\n"
 	"ублюдку немного Ада Вашего\n"
-	"собственного изготовления!";
+	"собственного производства!";
 P4TEXT =
 	"После уничтожения лика Привратника\n"
 	"начинают формироваться инвертированные\n"
@@ -489,7 +489,7 @@ P4TEXT =
 	"нескольких оставшихся демонов.\n"
 	"\n"
 	"Готово. Ад вернулся на круги своя,\n"
-	"поглощая лишь грешных людей, нежели\n"
+	"поглощая лишь грешных людей, а не\n"
 	"праведных.\n"
 	"\n"
 	"Не забудьте попросить внуков положить\n"
@@ -530,8 +530,8 @@ T2TEXT =
 	"и так, Вы к этому готовы.\n"
 	"\n"
 	"Эти звуки могут означать очередной\n"
-	"кровавый фестиваль, но Вы-то уже знаете,\n"
-	"каково это ощущать тысячи головорезов,\n"
+	"кровавый фестиваль, но Вы чувствуете,\n"
+	"себя как тысячи головорезов,\n"
 	"собранных в одном безумном убийце.\n"
 	"\n"
 	"Вы так просто не сдадитесь.";
@@ -643,19 +643,19 @@ FN_WOLFSS = "Nazi";
 FN_DOG = "Dog";
 
 // Новые строки из BOOM
-PD_BLUEC = "Для активации нужна синяя карта";
-PD_REDC = "Для активации нужна красная карта";
-PD_YELLOWC = "Для активации нужна желтая карта";
-PD_BLUES = "Для активации нужен синий череп";
-PD_REDS = "Для активации нужен красный череп";
-PD_YELLOWS = "Для активации нужен желтый череп";
-PD_ANY = "Для активации нужен любой ключ";
-PD_ANYOBJ = "Для активации нужен любой ключ";
-PD_ALL3 = "Для активации нужны все три ключа";
-PD_ALL3O = "Для активации нужны все три ключа";
-PD_ALL6 = "Для активации нужны все шесть ключей";
-PD_ALL6O = "Для активации нужны все шесть ключей";
-PD_ALLKEYS = "Для активации нужны все ключи";
+PD_BLUEC = "Для активации требуется синяя карта";
+PD_REDC = "Для активации требуется красная карта";
+PD_YELLOWC = "Для активации требуется желтая карта";
+PD_BLUES = "Для активации требуется синий череп";
+PD_REDS = "Для активации требуется красный череп";
+PD_YELLOWS = "Для активации требуется желтый череп";
+PD_ANY = "Для активации требуется любой ключ";
+PD_ANYOBJ = "Для активации требуется любой ключ";
+PD_ALL3 = "Для активации требуются все три ключа";
+PD_ALL3O = "Для активации требуются все три ключа";
+PD_ALL6 = "Для активации требуются все шесть ключей";
+PD_ALL6O = "Для активации требуются все шесть ключей";
+PD_ALLKEYS = "Для активации требуются все ключи";
 
 // MBF (BOOM?) narration backgrounds
 bgflatE1 = "FLOOR4_8";
@@ -671,8 +671,8 @@ bgflat31 = "RROCK19";
 bgcastcall = "BOSSBACK";
 
 // Gameflow messages
-TXT_FRAGLIMIT = "Лимит фрагов достигнут.";
-TXT_TIMELIMIT = "Лимит времени достигнут.";
+TXT_FRAGLIMIT = "Достигнут лимит фрагов.";
+TXT_TIMELIMIT = "Достигнут лимит времени.";
 
 // Spree messages
 SPREEKILLSELF = "Игрок %o хорошо смотрелся, пока не покончил с собой!";
@@ -680,21 +680,21 @@ SPREEOVER = "Игрок %k прервал череду убийств игрока %o";
 SPREE5 = "Игрок %k совершил череду убийств!";
 SPREE10 = "Игрок %k в неистовстве!";
 SPREE15 = "Игрок %k доминирует!";
-SPREE20 = "Игрока %k не остановить!";
+SPREE20 = "Игрок %k неостановимый!";
 SPREE25 = "Игрок %k богоподобен!";
 
 // Multikill messages
 MULTI2 = "Двойное убийство!";
 MULTI3 = "Массовое убийство!";
-MULTI4 = "Конкретное убийство!";
+MULTI4 = "Ультра убийство!";
 MULTI5 = "Чудовищное убийство!";
 
 // Некрологи
 // First the self-kills, then the other-kills
-OB_SUICIDE = "Игрок %o кончает с собой.";
-OB_FALLING = "Игрок %o упал слишком далеко.";
+OB_SUICIDE = "Игрок %o покончил с собой.";
+OB_FALLING = "Игрок %o упал слишком высоко.";
 OB_CRUSH = "Игрок %o был раздавлен.";
-OB_EXIT = "Игрок %o попытался уйти.";
+OB_EXIT = "Игрок %o попытался свалить.";
 OB_WATER = "Игрок %o не умеет плавать.";
 OB_SLIME = "Игрок %o мутировал.";
 OB_LAVA = "Игрок %o расплавился.";
@@ -704,7 +704,7 @@ OB_R_SPLASH = "Игрок %o не отступил в сторону.";
 OB_ROCKET = "Игрок %o не отступил в сторону.";
 OB_KILLEDSELF = "Игрок %o покончил с собой.";
 
-OB_VOODOO = "Игрока %o убил сила Вуду.";
+OB_VOODOO = "Игрока %o убила сила Вуду.";
 OB_STEALTHBABY = "Игрок %o краем глаза заметил арахнотрона.";
 OB_STEALTHVILE = "Игрок %o краем глаза заметил арчвайла.";
 OB_STEALTHBARON = "Игрок %o краем глаза заметил барона ада.";
@@ -716,32 +716,32 @@ OB_STEALTHIMP = "Игрок %o краем глаза заметил импа.";
 OB_STEALTHFATSO = "Игрок %o краем глаза заметил манкубуса.";
 OB_STEALTHUNDEAD = "Игрок %o краем глаза заметил ревенанта.";
 OB_STEALTHSHOTGUY = "Игрок %o краем глаза заметил сержанта.";
-OB_STEALTHZOMBIE = "Игрок %o краем глаза заметил зомбированного.";
+OB_STEALTHZOMBIE = "Игрок %o краем глаза заметил зомби.";
 OB_UNDEADHIT = "Игрока %o ударил ревенант.";
-OB_IMPHIT = "Игрока %o порезал имп.";
+OB_IMPHIT = "Игрока %o расцарапал имп.";
 OB_CACOHIT = "Игрок %o слишком сблизился с какодемоном.";
 OB_DEMONHIT = "Игрока %o укусил демон.";
 OB_SPECTREHIT = "Игрока %o сожрал спектр.";
 OB_BARONHIT = "Игрока %o разорвал барон ада.";
-OB_KNIGHTHIT = "Игрока %o прирезал рыцарь ада.";
-OB_ZOMBIE = "Игрока %o убил зомбированный.";
+OB_KNIGHTHIT = "Игрока %o распотрошил рыцарь ада.";
+OB_ZOMBIE = "Игрока %o убил зомби.";
 OB_SHOTGUY = "Игрока %o застрелил сержант.";
 OB_VILE = "Игрока %o кремировал арчвайл.";
 OB_UNDEAD = "Игрок %o не успел увернуться от снаряда ревенанта.";
 OB_FATSO = "Игрока %o раздавил манкубус.";
 OB_CHAINGUY = "Игрока %o продырявил пулеметчик.";
-OB_SKULL = "Игрока %o испугала потерянная душа.";
+OB_SKULL = "Игрок %o испугался потерянной души.";
 OB_IMP = "Игрока %o сжег имп.";
 OB_CACO = "Игрока %o поразил какодемон.";
 OB_BARON = "Игрок %o получил синяк от барона ада.";
 OB_KNIGHT = "Игрока %o распластал рыцарь ада.";
-OB_SPIDER = "Игрок %o дрогнул перед пауком-предводителем.";
-OB_BABY = "Игрок %o дал арахнотрону его убить.";
-OB_CYBORG = "Игрока %o размазал кибердемон."; // размазал —> брызнул?
+OB_SPIDER = "Игрок %o стоял в восторге перед пауком-предводителем.";
+OB_BABY = "Игрок %o дал арахнотрону себя убить.";
+OB_CYBORG = "Игрока %o размазал кибердемон.";
 OB_WOLFSS = "Игрок %o встретил нациста.";
 OB_DOG = "Игрока %o разорвала собака.";
 
-OB_CHICKEN = "Игрока %o клевал до смерти цыпленок.";
+OB_CHICKEN = "Игрока %o заклевал до смерти цыпленок.";
 OB_BEAST = "Игрока %o обуглил дракон-оборотень.";
 OB_CLINK = "Игрока %o нарезал саблекоготь.";
 OB_DSPARIL1 = "Игрока %o обжег серпент Д'Спарила.";
@@ -802,22 +802,22 @@ OB_TEMPLAR = "Игрока %o испарил Тамплиер.";
 OB_REAVERHIT = "Игрока %o разрезал на куски Похититель.";
 OB_REAVER = "Игрока %o застрелил Похититель.";
 
-OB_MPFIST = "Игрок %o отведал кулак игрока %k.";
-OB_MPCHAINSAW = "Игрока %o скосил %k с бензопилой.";
-OB_MPPISTOL = "Игрока %o пощекотал %k с пукалкой.";
+OB_MPFIST = "Игрок %o отведал кулака %k.";
+OB_MPCHAINSAW = "Игрок %k скосил бензопилой игрока %o.";
+OB_MPPISTOL = "Игрок %k пощекотал пукалкой игрока %o.";
 OB_MPSHOTGUN = "Игрок %o отведал дробовик игрока %k.";
-OB_MPSSHOTGUN = "Игрока %o размазал %k с супер-дробовиком.";
-OB_MPCHAINGUN = "Игрока %o выкосил %k с пулеметом.";
-OB_MPROCKET = "Игрок %o прокатился на ракете игрока %k.";
+OB_MPSSHOTGUN = "Игрок %k размазал из обреза игрока %o.";
+OB_MPCHAINGUN = "Игрок %k выкосил с пулемета игрока %o.";
+OB_MPROCKET = "Игрок %k прокатил на ракете игрока %о.";
 OB_MPR_SPLASH = "Игрок %o почти увильнул от ракеты %k.";
-OB_MPPLASMARIFLE = "Игрока %o расплавил %k с плазмометом.";
-OB_MPBFG_BOOM = "Игрока %o расщепил %k с BFG.";
+OB_MPPLASMARIFLE = "Игрок %k расплавил плазмометом игрока %o.";
+OB_MPBFG_BOOM = "Игрок %k расщепил игрока %o с помощью BFG.";
 OB_MPBFG_SPLASH = "Игрок %o не успел спрятаться от BFG игрока %k.";
-OB_MPTELEFRAG = "Игрока %o телефрагнул %k.";
+OB_MPTELEFRAG = "Игрок %k телефрагнул игрока %o.";
 OB_RAILGUN = "Игроку %o показал свой рельсотрон игрок %k.";
 OB_MPBFG_MBF = "Игрока %o сжег %k с BFG.";
 
-OB_MPSTAFF = "Игрок %o насажен на посох %k.";
+OB_MPSTAFF = "Игрок %o сел на посох игрока %k.";
 OB_MPGAUNTLETS = "Игрок %o шокирован перчатками %k.";
 OB_MPGOLDWAND = "Игрок %o узрел прощальный взмах эльфийского жезла %k.";
 OB_MPCROSSBOW = "Игрок %o изранен болтами эфирного арбалета %k.";
@@ -850,27 +850,27 @@ OB_MPMWEAPFROST = "Игрок %o обращается в ледяную скульптуру благодаря %k.";
 OB_MPMWEAPLIGHTNING = "Игрок %o откровенно шокирован %k.";
 OB_MPMWEAPBLOODSCOURGE = "Игрок %o стерт с лица вселенной Кровавым бичем %k.";
 
-OB_MPPUNCHDAGGER = "Игрок %o непреднамеренно заколот кинжалом %k.";
-OB_MPELECTRICBOLT = "Игрок %o прибит к стене %k.";
-OB_MPPOISONBOLT = "Игрок %o получает смертельную дозу гнева %k.";
+OB_MPPUNCHDAGGER = "Игрок %o был непреднамеренно заколот кинжалом %k.";
+OB_MPELECTRICBOLT = "Игрок %o был прибит к стене %k.";
+OB_MPPOISONBOLT = "Игрок %o получил смертельную дозу гнева %k.";
 OB_MPASSAULTGUN = "Игрок %o изрешечен штурмовой винтовкой %k.";
-OB_MPMINIMISSILELAUNCHER = "Игрок %o проглатывает ракету %k.";
+OB_MPMINIMISSILELAUNCHER = "Игрок %o проглатил ракету %k.";
 OB_MPSTRIFEGRENADE = "Игрок %o инвертируется H-E гранатой %k.";
-OB_MPPHOSPHOROUSGRENADE = "Игрок %o принимает горячую ванну из чистого фосфора %k.";
-OB_MPFLAMETHROWER = "Игрок %o поджаривается %k.";
-OB_MPMAULER1 = "Игрок %o ударен током %k.";
-OB_MPMAULER = "Игрок %o безжалостно распыляется %k.";
-OB_MPSIGIL = "Игрок %o склоняется перед силой Сигила %k.";
+OB_MPPHOSPHOROUSGRENADE = "Игрок %o принял горячую ванну из чистого фосфора %k.";
+OB_MPFLAMETHROWER = "Игрок %k поджарил игрока %o.";
+OB_MPMAULER1 = "Игрок %k ударил током игрока %o.";
+OB_MPMAULER = "Игрок %k безжалостно распылил игрока %o.";
+OB_MPSIGIL = "Игрок %o склонился перед силой Сигила %k.";
 
 // Same as OB_MPTELEFRAG, but shown when a monster telefrags you
-OB_MONTELEFRAG = "Игрок %o телефрагнулся.";
+OB_MONTELEFRAG = "Игрока %o телефрагнуло.";
 
 OB_DEFAULT = "Игрок %o погиб.";
 OB_MPDEFAULT = "Игрок %o убит %k.";
-OB_FRIENDLY1 = "%k сбивает союзника.";
-OB_FRIENDLY2 = "%k-у следует проверить свои очки.";
-OB_FRIENDLY3 = "%k преподносит другой команде фраг.";
-OB_FRIENDLY4 = "%k теряет еще одного друга.";
+OB_FRIENDLY1 = "%k убил союзника.";
+OB_FRIENDLY2 = "Игроку %k следует проверить свои очки.";
+OB_FRIENDLY3 = "%k преподнес другой команде фраг.";
+OB_FRIENDLY4 = "%k потерял еще одного друга.";
 
 SAVEGAMENAME = "zdoomsv";
 STARTUP1 = "";
@@ -883,7 +883,7 @@ STARTUP5 = "";
 SCORE_ITEMS = "Предметы";
 SCORE_BONUS = "Бонус";
 SCORE_COLOR = "Цвет";
-SCORE_SECRET = "Тайники";
+SCORE_SECRET = "Секреты";
 SCORE_NAME = "Имя";
 SCORE_DELAY = "Задержка (мс)";
 SCORE_KILLS = "Убийства";
@@ -894,7 +894,7 @@ SCORE_TOTAL = "Всего";
 SCORE_LVLTIME = "Время уровня";
 
 // Item tags: Doom weapons
-TAG_FIST = "Кулак";
+TAG_FIST = "Кулаки";
 TAG_CHAINSAW = "Бензопила";
 TAG_PISTOL = "Пистолет";
 TAG_SHOTGUN = "Дробовик";
@@ -1109,10 +1109,10 @@ HE1TEXT =
 		"очистились от омерзительной нежити.\n\n"
 		"Эта нежить, проникшая в наш мир из\n"
 		"темного измерения, открыла Огненный\n"
-		"Портал. Он как отверстая пылающая\n"
-		"пасть Ада ведет в его жуткую утробу.\n\n"
+		"Портал. Он как открытая пылающая\n"
+		"пасть Ада ведет в свою жуткую утробу.\n\n"
 		"Угроза исходит из Огненного Портала —\n"
-		"порождения Ада и черной магии могут\n"
+		"порождения Ада и черной магии могут\n" // Какой-то бред
 		"изринуться из него. Ваша цель —\n"
 		"сойти в Ад и запечатать проклятый\n"
 		"портал.\n\n"
@@ -1126,20 +1126,20 @@ HE2TEXT =
 		"разваливаясь на куски, к Вашим\n"
 		"ногам, и мрачное удовлетворение\n"
 		"наполняет Вас.\n\n"
-		"Врата, что они охраняли, открылись.\n"
+		"Врата, которые они охраняли, открылись.\n"
 		"Вы шагнули в них, думая, что\n"
 		"вернетесь в родной мир, но лишь\n"
 		"громкий, насмешливый хохот был\n"
 		"ответом на Вашу надежду.\n\n"
 		"Чей это злобный хохот? Быть может\n"
-		"это голос иных демонических сил,\n"
+		"это голос демонических сил,\n"
 		"управляющих Молотаврами? Какие\n"
 		"чудовищные создания ожидают Вас\n"
 		"за этими вратами? Не голубое небо\n"
 		"родного мира над головой, а\n"
 		"кристальный купол, — это плохой знак...";
 HE3TEXT =
-		"С погибелью Д'Спарила исчезла магия,\n"
+		"С гибелью Д'Спарила исчезла магия,\n"
 		"сохранявшая жизнь порождениям Тьмы.\n"
 		"Стоны умирающих демонов заглушили\n"
 		"вопль агонии самого Д'Спарила.\n\n"
@@ -1149,8 +1149,8 @@ HE3TEXT =
 		"Вы наконец-то, входите во врата,\n"
 		"ведущие в родной мир.\n\n"
 		"Но и теперь, после гибели Д'Спарила,\n"
-		"душа Ваша не спокойна, и плохие\n"
-		"предчувствия одолевают ее. Не был\n"
+		"душа Ваша не спокойна, и ее\n"
+		"одолевают плохие предчувствия. Не был\n"
 		"ли проклятием его предсмертный\n"
 		"крик? Или призывом темных сил?\n\n"
 		"И где таятся другие Змеиные\n"
@@ -1158,9 +1158,9 @@ HE3TEXT =
 HE4TEXT =
 		"С гибелью Д'Спарила умерла и Ваша\n"
 		"надежда вернуться в родной мир.\n"
-		"Своим последним предсмертным\n"
-		"проклятьем он отправил Вас в те\n"
-		"немногие, оставшиеся подвластными\n"
+		"Своим предсмертным проклятьем\n"
+		"он отправил Вас в те немногие,\n"
+		"ещё оставшиеся подвластными\n"
 		"ему земли. Вы разбили последних\n"
 		"хранителей этих земель и стоите\n"
 		"перед опустевшим замком Д'Спарила,\n"
@@ -1333,7 +1333,7 @@ TXT_GRAVITY = "Гравитация тянет Вас вниз.";
 // Raven intermission
 
 TXT_IMKILLS = "Враги";
-TXT_IMITEMS = "Тайники";
+TXT_IMITEMS = "Секреты";
 TXT_IMSECRETS = "Предметы";
 TXT_IMTIME = "Время";
 
@@ -1666,11 +1666,11 @@ MNU_QUITGAME		= "Выход";
 // Skills
 MNU_CHOOSESKILL		= "Уровень сложности:";
 
-SKILL_BABY			= "Я слишком молод.";
+SKILL_BABY			= "Я слишком молод, чтобы умирать.";
 SKILL_EASY			= "Эй, не так грубо.";
 SKILL_NORMAL		= "Сделай мне больно.";
 SKILL_HARD			= "Ультранасилие";
-SKILL_NIGHTMARE		= "КОШМАР!";
+SKILL_NIGHTMARE		= "НОЧНОЙ КОШМАР!";
 
 CSKILL_BABY			= "Easy does it";
 CSKILL_EASY			= "Не особо липко";
@@ -1718,8 +1718,8 @@ MNU_RANDOM			= "Наугад";
 // Game Files
 MNU_LOADGAME		= "Загрузить игру";
 MNU_SAVEGAME		= "Сохранить игру";
-MNU_NOPICTURE		= "Без Фотографии";
-MNU_DIFFVERSION		= "Несовпадающая\nВерсия";
+MNU_NOPICTURE		= "Без Изображения";
+MNU_DIFFVERSION		= "Другая\nВерсия";
 MNU_NOFILES			= "Нет файлов";
 MNU_DELETESG		= "Вы действительно хотите удалить сохранение\n";
 
@@ -1741,16 +1741,16 @@ OPTMNU_PLAYER				= "Игрок";
 OPTMNU_GAMEPLAY				= "Настройки игры";
 OPTMNU_COMPATIBILITY		= "Совместимость";
 OPTMNU_AUTOMAP				= "Автокарта";
-OPTMNU_HUD					= "HUD";
+OPTMNU_HUD					= "ХУД";
 OPTMNU_MISCELLANEOUS		= "Дополнительные настройки";
 OPTMNU_NETWORK				= "Сеть";
 OPTMNU_SOUND				= "Звук";
 OPTMNU_DISPLAY				= "Экран";
 OPTMNU_VIDEO				= "Видеорежим";
-OPTMNU_CHANGERENDER		= "Режим рендеринга";
+OPTMNU_CHANGERENDER	    	= "Режим рендеринга";
 OPTMNU_DEFAULTS				= "Сбросить все настройки";
 OPTMNU_RESETTOSAVED			= "Вернуть предыдущие настройки";
-OPTMNU_CONSOLE				= "Перейти в консоль";
+OPTMNU_CONSOLE				= "Открыть консоль";
 OPTMNU_REVERB				= "Редактор реверберации";
 
 // Controls Menu
@@ -1760,9 +1760,9 @@ CNTRLMNU_SWITCHTEXT1			= "ENTER — изменить, BACKSPACE — очистить";
 CNTRLMNU_SWITCHTEXT2			= "Нажмите клавишу управления, ESC для отмены";
 CNTRLMNU_CONTROLS				= "Управление";
 CNTRLMNU_ATTACK					= "Атака";
-CNTRLMNU_ALTATTACK				= "Альтернативная атака";
+CNTRLMNU_ALTATTACK				= "Вторая атака";
 CNTRLMNU_RELOAD					= "Перезарядка";
-CNTRLMNU_ZOOM					= "Приблизить";
+CNTRLMNU_ZOOM					= "Приближение";
 CNTRLMNU_USER1					= "Состояние оружия 1";
 CNTRLMNU_USER2					= "Состояние оружия 2";
 CNTRLMNU_USER3					= "Состояние оружия 3";
@@ -1776,18 +1776,18 @@ CNTRLMNU_TURNLEFT				= "Поворот влево";
 CNTRLMNU_TURNRIGHT				= "Поворот вправо";
 CNTRLMNU_TURN180				= "Быстрый поворот";
 CNTRLMNU_JUMP					= "Прыжок";
-CNTRLMNU_CROUCH					= "Присесть";
-CNTRLMNU_TOGGLECROUCH			= "Присесть (перекл.)";
+CNTRLMNU_CROUCH					= "Приседание";
+CNTRLMNU_TOGGLECROUCH			= "Сесть/встать";
 CNTRLMNU_MOVEUP					= "Лететь/плыть вверх";
 CNTRLMNU_MOVEDOWN				= "Лететь/плыть вниз";
-CNTRLMNU_LAND					= "Прекратить полет";
+CNTRLMNU_LAND					= "Приземлиться";
 CNTRLMNU_MOUSELOOK				= "Обзор мышью";
 CNTRLMNU_KEYBOARDLOOK			= "Обзор клавиатурой";
 CNTRLMNU_LOOKUP					= "Смотреть вверх";
 CNTRLMNU_LOOKDOWN				= "Смотреть вниз";
-CNTRLMNU_CENTERVIEW				= "Центрировать взгляд";
+CNTRLMNU_CENTERVIEW				= "Отцентрировать взгляд";
 CNTRLMNU_RUN					= "Бег";
-CNTRLMNU_TOGGLERUN				= "Бег (перекл.)";
+CNTRLMNU_TOGGLERUN				= "Бежать/идти";
 CNTRLMNU_STRAFE					= "Стрейф";
 CNTRLMNU_SCOREBOARD				= "Таблица очков";
 CNTRLMNU_TOGGLESCOREBOARD		= "Таблица очков (перекл.)";
@@ -1817,7 +1817,7 @@ CNTRLMNU_QUERYITEM				= "Показать предмет";
 CNTRLMNU_DROPWEAPON				= "Выбросить оружие";
 CNTRLMNU_OTHER					= "Прочее";
 CNTRLMNU_AUTOMAP				= "Переключить автокарту";
-CNTRLMNU_CHASECAM				= "Вид от 3-го лица (чейскам)";
+CNTRLMNU_CHASECAM				= "Вид от 3-го лица (chasecam)";
 CNTRLMNU_COOPSPY				= "Вид от другого игрока";
 CNTRLMNU_SCREENSHOT				= "Скриншот";
 CNTRLMNU_CONSOLE				= "Открыть консоль";
@@ -1852,17 +1852,17 @@ JOYMNU_OPTIONS				= "Настройки джойстика";
 JOYMNU_NOMENU				= "Отключить джойстик в меню";
 
 // Player Setup Menu
-MNU_PLAYERSETUP		= "Настройки игрока";
+MNU_PLAYERSETUP		    = "Настройки игрока";
 PLYRMNU_NAME			= "Имя";
 PLYRMNU_TEAM			= "Команда";
 PLYRMNU_PLAYERCOLOR		= "Цвет";
-PLYRMNU_RED				= "Крас.";
-PLYRMNU_GREEN			= "Зел.";
+PLYRMNU_RED				= "Красный
+PLYRMNU_GREEN			= "Зеленый";
 PLYRMNU_BLUE			= "Синий";
 PLYRMNU_PLAYERCLASS		= "Класс";
 PLYRMNU_PLAYERSKIN		= "Скин";
 PLYRMNU_PLAYERGENDER	= "Пол";
-PLYRMNU_AUTOAIM			= "Автоприц.";
+PLYRMNU_AUTOAIM			= "Автоприцеливание";
 PLYRMNU_SWITCHONPICKUP	= "Вкл. новое оруж.";
 PLYRMNU_ALWAYSRUN		= "Постоянный бег";
 PLYRMNU_PRESSSPACE		= "Нажмите \cjSPACE";
@@ -1875,36 +1875,36 @@ DSPLYMNU_SCOREBOARD				= "Настройки таблицы очков";
 DSPLYMNU_SCREENSIZE				= "Размер экрана";
 DSPLYMNU_BRIGHTNESS				= "Яркость";
 DSPLYMNU_VSYNC					= "Вертикальная синхронизация";
-DSPLYMNU_CAPFPS					= "Интерполяция рендеринга";
+DSPLYMNU_CAPFPS					= "Сглаживание рендеринга";
 DSPLYMNU_COLUMNMETHOD			= "Режим рендеринга колонок";
 DSPLYMNU_BLENDMETHOD			= "Режим рендеринга прозрачности";
 
 DSPLYMNU_WIPETYPE				= "Эффект плавной смены экранов";
 DSPLYMNU_SHOWENDOOM				= "Показать экран ENDOOM";
-DSPLYMNU_BLOODFADE				= "Интенсивность палитры при ранении";
-DSPLYMNU_PICKUPFADE				= "Интенсивность бонусной палитры";
-DSPLYMNU_WATERFADE				= "Интенсивность подводной палитры";
-DSPLYMNU_PALLETEHACK			= "DirectDraw palette hack"; // Не используется
-DSPLYMNU_ATTACHEDSURFACES		= "Use attached surfaces"; // Не используется
+DSPLYMNU_BLOODFADE				= "Интенсивность вспышки при ранении";
+DSPLYMNU_PICKUPFADE				= "Интенсивность вспышки при подборе";
+DSPLYMNU_WATERFADE				= "Интенсивность эффекта под водой";
+DSPLYMNU_PALLETEHACK			= "DirectDraw хак палитры"; // Не используется
+DSPLYMNU_ATTACHEDSURFACES		= "Использовать прикрепленные поверхности"; // Не используется
 DSPLYMNU_SKYMODE				= "Режим отрисовки неба";
-DSPLYMNU_LINEARSKY				= "Линейные небеса";
+DSPLYMNU_LINEARSKY				= "Линейной небо";
 DSPLYMNU_GZDFULLBRIGHT			= "Полная яркость замещает цвет сектора";
 DSPLYMNU_MODELS					= "Модели";
-DSPLYMNU_SCALEFUZZ				= "Масштабировать шумовой эффект";
-DSPLYMNU_DRAWFUZZ				= "Использовать шумовой эффект";
+DSPLYMNU_SCALEFUZZ				= "Масштабировать эффект шума";
+DSPLYMNU_DRAWFUZZ				= "Использовать эффект шума";
 DSPLYMNU_OLDTRANS				= "Классическая прозрачность";
 DSPLYMNU_TRANSSOUL				= "Прозрачность потерянных душ";
 DSPLYMNU_FAKECONTRAST			= "Имитация контрастного освещения стен";
 DSPLYMNU_ROCKETTRAILS			= "Дымовой след у ракет";
-DSPLYMNU_BLOODTYPE				= "Тип отображения крови";
-DSPLYMNU_PUFFTYPE				= "Тип отображения рикошетов";
+DSPLYMNU_BLOODTYPE				= "Вид крови";
+DSPLYMNU_PUFFTYPE				= "Вид рикошетов";
 DSPLYMNU_MAXPARTICLES			= "Количество частиц";
 DSPLYMNU_MAXDECALS				= "Количество декалей";
 DSPLYMNU_PLAYERSPRITES			= "Показывать спрайты игрока";
-DSPLYMNU_DEATHCAM				= "Смена камеры при смерти";
+DSPLYMNU_DEATHCAM				= "Вид от 3-го лица камеры при смерти";
 DSPLYMNU_TELEZOOM				= "Зум при телепортации";
 DSPLYMNU_QUAKEINTENSITY			= "Интенсивность землетрясений";
-DSPLYMNU_NOMONSTERINTERPOLATION	= "Интерполяция движения монстров";
+DSPLYMNU_NOMONSTERINTERPOLATION	= "Сглаживание движения монстров";
 DSPLYMNU_MENUDIM				= "Затемнение фона меню";
 DSPLYMNU_DIMCOLOR				= "Цвет затемнения";
 DSPLYMNU_MOVEBOB 				= "Покачивание камеры при движении";
@@ -1913,18 +1913,18 @@ DSPLYMNU_BOBSPEED				= "Скорость покачивания оружия";
 DSPLYMNU_GPUSWITCH				= "Использование GPU ноутбука";
 
 // HUD Options
-HUDMNU_TITLE					= "Настройки HUD";
-HUDMNU_ALTHUD					= "Альтернативный HUD";
+HUDMNU_TITLE					= "Настройки ХУДа";
+HUDMNU_ALTHUD					= "Альтернативный ХУД";
 HUDMNU_MESSAGE					= "Настройки сообщений";
 HUDMNU_UISCALE					= "Масштаб. интерфейса";
 HUDMNU_CROSSHAIR				= "Тип прицела";
 HUDMNU_FORCECROSSHAIR			= "Всегда стандартный прицел";
 HUDMNU_GROWCROSSHAIR			= "Увеличение прицела при подборе";
 HUDMNU_CROSSHAIRCOLOR			= "Цвет прицела";
-HUDMNU_CROSSHAIRHEALTH			= "Цвет прицела от состояния здоровья";
+HUDMNU_CROSSHAIRHEALTH			= "Цвет прицела по состоянию здоровья";
 HUDMNU_CROSSHAIRSCALE			= "Масштаб. прицела";
 HUDMNU_NAMETAGS					= "Указание названия предметов";
-HUDMNU_NAMETAGCOLOR				= "Цвет названий предметов";
+HUDMNU_NAMETAGCOLOR				= "Цвет названия предметов";
 HUDMNU_SCALEFULLSCREENHUD		= "Масштаб. полноэкранного интерфейса";
 HUDMNU_OLDOUCH					= "Старая формула для портрета";
 HUDMNU_HEXENFLASHES				= "Тип вспышки оружия в Hexen";
@@ -1939,17 +1939,17 @@ SCALEMNU_OVERRIDE				= "Задать специальные настройки";
 SCALEMNU_MESSAGES 				= "Сообщения";
 SCALEMNU_CONSOLE				= "Консоль";
 SCALEMNU_STATBAR				= "Строка состояния";
-SCALEMNU_HUD					= "Полноэкранный HUD";
-SCALEMNU_ALTHUD					= "Альтернативный HUD";
+SCALEMNU_HUD					= "Полноэкранный ХУД";
+SCALEMNU_ALTHUD					= "Альтернативный ХУД";
 SCALEMNU_HUDASPECT				= "Соотношение сторон";
 SCALEMNU_USEUI					= "Размер по умолчанию";
 SCALEMNU_USEFS					= "Масштабировать со всем экраном";
 SCALEMNU_ADAPT					= "Адаптироваться к размеру экрана";
 
 // AltHUD Options
-ALTHUDMNU_TITLE					= "Альтернативный HUD";
-ALTHUDMNU_ENABLE				= "Альтернативный HUD";
-ALTHUDMNU_SHOWSECRETS			= "Отображение обнаруженных тайников";
+ALTHUDMNU_TITLE					= "Альтернативный ХУД";
+ALTHUDMNU_ENABLE				= "Альтернативный ХУД";
+ALTHUDMNU_SHOWSECRETS			= "Отображение обнаруженных секретов";
 ALTHUDMNU_SHOWMONSTERS			= "Отображение количества монстров";
 ALTHUDMNU_SHOWITEMS				= "Отображение количества предметов";
 ALTHUDMNU_SHOWSTATS				= "Отображение стойкости и точности";
@@ -1961,14 +1961,14 @@ ALTHUDMNU_TIMECOLOR				= "Цвет времени";
 ALTHUDMNU_SHOWLAG				= "Отображение задержки сети";
 ALTHUDMNU_AMMOORDER				= "Порядок отображения боеприпасов";
 ALTHUDMNU_AMMORED				= "Кр. отображение боеприпасов под %";
-ALTHUDMNU_AMMOYELLOW			= "Же. отображение боеприпасов под %";
+ALTHUDMNU_AMMOYELLOW			= "Жл. отображение боеприпасов под %";
 ALTHUDMNU_HEALTHRED				= "Красное отображение здоровья под";
 ALTHUDMNU_HEALTHYELLOW			= "Желтое отображение здоровья под";
 ALTHUDMNU_HEALTHGREEN			= "Зел. отображение здоровья под";
 ALTHUDMNU_ARMORRED				= "Красное отображение броня под";
 ALTHUDMNU_ARMORYELLOW			= "Желтое отображение броня под";
 ALTHUDMNU_ARMORGREEN			= "Зел. отображение броня под";
-ALTHUDMNU_AUTOMAPHUD			= "Альт. HUD автокарты";
+ALTHUDMNU_AUTOMAPHUD			= "Альт. ХУД на автокарте";
 ALTHUDMNU_TITLECOLOR			= "Цвет названия уровня";
 ALTHUDMNU_MAPTIMECOLOR			= "Цвет времени для уровней";
 ALTHUDMNU_HUBTIMECOLOR			= "Цвет времени для хабов";
@@ -1989,37 +1989,37 @@ MISCMNU_ENABLEAUTOSAVES			= "Автосохранения";
 MISCMNU_AUTOSAVECOUNT			= "Количество автосохранений";
 MISCMNU_SAVELOADCONFIRMATION  = "Подтверждение при сохранении/загрузке";
 MISCMNU_DEHLOAD					= "Загружать файлы *.deh/*.bex";
-MISCMNU_CACHENODES				= "Кэширование узлов";
-MISCMNU_CACHETIME				= "Временный срок для кэширования узлов";
-MISCMNU_CLEARNODECACHE			= "Убрать кэш узлов";
-MISCMNU_INTERSCROLL				= "Разрешение пропуска антрактных меню";
+MISCMNU_CACHENODES				= "Кэширование нодов";
+MISCMNU_CACHETIME				= "Временной порог для кэширования нодов"; // Имеется в виду количество времени, затрачиваемое на загрузку карты, чтобы ноды начали кешироваться
+MISCMNU_CLEARNODECACHE			= "Очистить кэш нодов";
+MISCMNU_INTERSCROLL				= "Разрешение пропуска текстовых вставок";
 // Automap Options
 AUTOMAPMNU_TITLE				= "Настройки аврокарты";
 AUTOMAPMNU_COLORSET				= "Цвета автокарты";
-AUTOMAPMNU_CUSTOMCOLORS			= "Разрешить определенные картой цвета"; // fix
+AUTOMAPMNU_CUSTOMCOLORS			= "Заменить цвета автокарты"; // Или "Настроить"
 AUTOMAPMNU_SETCUSTOMCOLORS		= "Выбрать цвета";
-AUTOMAPMNU_CONTROLS				= "Изменить управление";
-AUTOMAPMNU_ROTATE				= "Вращение автрокарты";
-AUTOMAPMNU_OVERLAY				= "Прозрачная автокарты";
+AUTOMAPMNU_CONTROLS				= "Настроить управление";
+AUTOMAPMNU_ROTATE				= "Вращающаяся автрокарта";
+AUTOMAPMNU_OVERLAY				= "Прозрачная автокарта";
 AUTOMAPMNU_TEXTURED				= "Текстуры на автокарте";
-AUTOMAPMNU_FOLLOW				= "Следование за игроком";
+AUTOMAPMNU_FOLLOW				= "Привязка к игроку";
 AUTOMAPMNU_SHOWITEMS			= "Количество предметов";
 AUTOMAPMNU_SHOWMONSTERS			= "Количество монстов";
 AUTOMAPMNU_SHOWSECRETS			= "Количество тайников";
-AUTOMAPMNU_SHOWTIME				= "Истекшее время";
+AUTOMAPMNU_SHOWTIME				= "Прошедшее время";
 AUTOMAPMNU_SHOWTOTALTIME		= "Общее время";
-AUTOMAPMNU_MAPSECRETS			= "Тайники на карте";
-AUTOMAPMNU_SHOWMAPLABEL			= "Название уровней";
-AUTOMAPMNU_DRAWMAPBACK			= "Фон карты";
-AUTOMAPMNU_SHOWKEYS				= "Ключи (чит)";
-AUTOMAPMNU_SHOWTRIGGERLINES		= "Триггер-линии";
-AUTOMAPMNU_SHOWTHINGSPRITES		= "Спрайты предметов";
+AUTOMAPMNU_MAPSECRETS			= "Секреты на карте";
+AUTOMAPMNU_SHOWMAPLABEL			= "Название карты";
+AUTOMAPMNU_DRAWMAPBACK			= "Отображать фон автокарты";
+AUTOMAPMNU_SHOWKEYS				= "Отображать ключи (только чит)";
+AUTOMAPMNU_SHOWTRIGGERLINES		= "Отображать триггеры";
+AUTOMAPMNU_SHOWTHINGSPRITES		= "Отображать спрайты предметов";
 AUTOMAPMNU_PTOVERLAY			= "Порталы в прозрачном режиме";
 AUTOMAPMNU_EMPTYSPACEMARGIN		= "Край автокарты";
 
 // Automap Controls
-MAPCNTRLMNU_TITLE 			= "ИЗМЕНИТЬ УПРАВЛЕНИЕ КАРТЫ";
-MAPCNTRLMNU_CONTROLS		= "Управление автокарты";
+MAPCNTRLMNU_TITLE 			= "ИЗМЕНИТЬ УПРАВЛЕНИЕ КАРТОЙ";
+MAPCNTRLMNU_CONTROLS		= "Управление автокартой";
 MAPCNTRLMNU_PANLEFT			= "Сдвиг влево";
 MAPCNTRLMNU_PANRIGHT		= "Сдвиг вправо";
 MAPCNTRLMNU_PANUP			= "Сдвиг вверх";
@@ -2031,7 +2031,7 @@ MAPCNTRLMNU_TOGGLEFOLLOW	= "Переключить следование";
 MAPCNTRLMNU_TOGGLEGRID		= "Переключить сетку";
 MAPCNTRLMNU_TOGGLETEXTURE	= "Переключить текстуры";
 MAPCNTRLMNU_SETMARK			= "Поставить отметку";
-MAPCNTRLMNU_CLEARMARK		= "Убрать отметки";
+MAPCNTRLMNU_CLEARMARK		= "Убрать отметку";
 
 // Automap Colors
 MAPCOLORMNU_TITLE 						= "ИЗМЕНИТЬ ЦВЕТА АВРОКАРТЫ";
@@ -2040,13 +2040,13 @@ MAPCOLORMNU_BACKCOLOR 					= "Фон";
 MAPCOLORMNU_YOURCOLOR 					= "Игрок";
 MAPCOLORMNU_WALLCOLOR 					= "Односторонние стены";
 MAPCOLORMNU_FDWALLCOLOR 				= "Двусторонние стены";
-MAPCOLORMNU_CDWALLCOLOR 				= "Двусторонние стены с различными потолками";
-MAPCOLORMNU_EFWALLCOLOR 				= "Двусторонние стены с трехмерными полами";
-MAPCOLORMNU_GRIDCOLOR 					= "Сетка карты";
-MAPCOLORMNU_XHAIRCOLOR 					= "Центральная точка";
+MAPCOLORMNU_CDWALLCOLOR 				= "Двусторонние стены с разными потолками";
+MAPCOLORMNU_EFWALLCOLOR 				= "Двусторонние стены с разными полами";
+MAPCOLORMNU_GRIDCOLOR 					= "Цвет сетки";
+MAPCOLORMNU_XHAIRCOLOR 					= "Курсор";
 MAPCOLORMNU_NOTSEENCOLOR 				= "Необнаруженные стены";
 MAPCOLORMNU_LOCKEDCOLOR 				= "Запертые двери";
-MAPCOLORMNU_INTRALEVELCOLOR				= "Телепортер на тот же уровень";
+MAPCOLORMNU_INTRALEVELCOLOR				= "Телепорт в пределах уровня";
 MAPCOLORMNU_INTERLEVELCOLOR 			= "Телепорт на другой уровень";
 MAPCOLORMNU_SECRETSECTORCOLOR 			= "Секретный сектор";
 MAPCOLORMNU_UNEXPLOREDSECRETCOLOR 		= "Необнаруженный секрет";
@@ -2054,25 +2054,25 @@ MAPCOLORMNU_SPECIALWALLCOLOR			= "Специальные триггер-линии";
 MAPCOLORMNU_CHEATMODE					= "Чит-режим";
 MAPCOLORMNU_TSWALLCOLOR					= "Невидимые двусторонние стены";
 MAPCOLORMNU_SECRETWALLCOLOR				= "Секретные стены";
-MAPCOLORMNU_THINGCOLOR					= "Акторы";
+MAPCOLORMNU_THINGCOLOR					= "Объекты";
 MAPCOLORMNU_MONSTERCOLOR				= "Монстры";
 MAPCOLORMNU_NONCOUNTINGMONSTERCOLOR 	= "Неучитываемые монстры";
-MAPCOLORMNU_FRIENDCOLOR 				= "Друзья";
+MAPCOLORMNU_FRIENDCOLOR 				= "Дружественные";
 MAPCOLORMNU_ITEMCOLOR 					= "Предметы";
-MAPCOLORMNU_COUNTITEMCOLOR 				= "Учтенные предметы";
+MAPCOLORMNU_COUNTITEMCOLOR 				= "Учитываемые предметы";
 MAPCOLORMNU_OVERLAY 					= "Прозрачный режим";
 MAPCOLORMNU_OVCHEATMODE 				= "Прозрачный чит-режим";
 MAPCOLORMNU_PORTAL						= "Порталы в прозрачном режиме";
 
 // Message Options
 MSGMNU_TITLE				= "СООБЩЕНИЯ";
-MSGMNU_SHOWMESSAGES			= "Отображение сообщения";
+MSGMNU_SHOWMESSAGES			= "Отображение сообщений";
 MSGMNU_SHOWOBITUARIES		= "Отображение некрологов";
-MSGMNU_SHOWSECRETS			= "Отображение сообщений о тайниках";
+MSGMNU_SHOWSECRETS			= "Отображение сообщений о секретах";
 MSGMNU_MESSAGELEVEL			= "Минимальный уровень сообщений";
 MSGMNU_CENTERMESSAGES		= "Центрирование сообщений";
-MSGMNU_MESSAGECOLORS		= "Сообщительные цвета";
-MSGMNU_ITEMPICKUP			= "Получение предмета";
+MSGMNU_MESSAGECOLORS		= "Цвета сообщений";
+MSGMNU_ITEMPICKUP			= "Подбор предмета";
 MSGMNU_OBITUARIES			= "Некрологи";
 MSGMNU_CRITICALMESSAGES		= "Важные сообщения";
 MSGMNU_CHATMESSAGES			= "Сообщения в чате";
@@ -2095,50 +2095,50 @@ SCRBRDMNU_TEAMDEATHMATCH	= "Настройки командного Deathmatch";
 // Gameplay Menu
 GMPLYMNU_TITLE				= "НАСТРОЙКИ ИГРЫ";
 GMPLYMNU_TEAMPLAY			= "Командный режим";
-GMPLYMNU_TEAMDAMAGE			= "Множитель огня по своим";
+GMPLYMNU_TEAMDAMAGE			= "Множитель урона по своим";
 GMPLYMNU_SMARTAUTOAIM		= "Умное автоприцеливание";
 GMPLYMNU_FALLINGDAMAGE		= "Урон от падения";
-GMPLYMNU_DROPWEAPON			= "Оставлять оружие после смерти";
+GMPLYMNU_DROPWEAPON			= "Сохранять оружие после смерти";
 GMPLYMNU_DOUBLEAMMO			= "Удвоенные патроны";
 GMPLYMNU_INFINITEAMMO		= "Бесконечные патроны";
 GMPLYMNU_INFINITEINVENTORY	= "Бесконечный инвентарь";
 GMPLYMNU_NOMONSTERS			= "Отключить монстров";
-GMPLYMNU_NOMONSTERSTOEXIT	= "Никаких монстров, чтобы выйти";
+GMPLYMNU_NOMONSTERSTOEXIT	= "Убить всех монстров, для выхода";
 GMPLYMNU_MONSTERSRESPAWN	= "Респаун монстров";
 GMPLYMNU_NORESPAWN			= "Отключить респаун";
 GMPLYMNU_ITEMSRESPAWN		= "Респаун предметов";
 GMPLYMNU_SUPERRESPAWN		= "Респаун супер-бонусов";
 GMPLYMNU_FASTMONSTERS		= "Ускоренные монстры";
-GMPLYMNU_DEGENERATION		= "Уменьшать дополн. здоровье";
+GMPLYMNU_DEGENERATION		= "Уменьшать дополн. здоровье"; // Или "Дегенерация" =D
 GMPLYMNU_NOAUTOAIM			= "Разрешить автоприцеливание";
 GMPLYMNU_ALLOWSUICIDE		= "Разрешить суицид";
-GMPLYMNU_ALLOWJUMP			= "Разрешение прыжка";
-GMPLYMNU_ALLOWCROUCH		= "Разрешение приседания";
-GMPLYMNU_ALLOWFREELOOK		= "Разрешение обзора мышью";
+GMPLYMNU_ALLOWJUMP			= "Прыжки";
+GMPLYMNU_ALLOWCROUCH		= "Приседания";
+GMPLYMNU_ALLOWFREELOOK		= "Обзора мыши";
 GMPLYMNU_ALLOWFOV			= "Разрешить изменение FOV";
 GMPLYMNU_BFGFREEAIM			= "Разрешить прицеливание с BFG";
 GMPLYMNU_ALLOWAUTOMAP		= "Разрешить автокарту";
 GMPLYMNU_AUTOMAPALLIES		= "Показывать союзников на автокарте";
 GMPLYMNU_ALLOWSPYING		= "Разрешить вид от других игроков";
 GMPLYMNU_CHASECAM			= "Разрешить вид от 3-го лица";
-GMPLYMNU_DONTCHECKAMMO		= "Проверить патроны при смене оружия";
+GMPLYMNU_DONTCHECKAMMO		= "Проверять патроны при переключении оружия"; // Именно при перелистывании, а не смене на конкретное
 GMPLYMNU_KILLBOSSSPAWNS		= "Убить порождения Иконы при ее смерти";
-GMPLYMNU_NOCOUNTENDMONSTER	= "Считать монстров в конечном секторе убитыми";
+GMPLYMNU_NOCOUNTENDMONSTER	= "Считать монстров в конечном секторе убитыми"; // Или "Пройденные сектора считаются за % убийств
 GMPLYMNU_DEATHMATCH			= "Настройки deathmatch";
 GMPLYMNU_WEAPONSSTAY		= "Оставлять оружие после подбора";
 GMPLYMNU_ALLOWPOWERUPS		= "Разрешить бонусы";
 GMPLYMNU_ALLOWHEALTH		= "Разрешить бонусы здоровья";
 GMPLYMNU_ALLOWARMOR			= "Разрешить броню";
-GMPLYMNU_SPAWNFARTHEST		= "Появляться на самой дальней от всех точек";
-GMPLYMNU_SAMEMAP			= "Зациклить карту";
-GMPLYMNU_FORCERESPAWN		= "Вынужденные респауны";
+GMPLYMNU_SPAWNFARTHEST		= "Спаун подальше от остальных";
+GMPLYMNU_SAMEMAP			= "Зациклить уровень";
+GMPLYMNU_FORCERESPAWN		= "Моментальный респаун";
 GMPLYMNU_ALLOWEXIT			= "Разрешить выход";
 GMPLYMNU_BARRELSRESPAWN		= "Респаун бочек";
 GMPLYMNU_RESPAWNPROTECTION	= "Кратковременная защита после респауна";
 GMPLYMNU_LOSEFRAG			= "Терять фраг при смерти";
 GMPLYMNU_KEEPFRAGS			= "Сохранять фраги между уровнями";
 GMPLYMNU_NOTEAMSWITCH		= "Запретить переход между командами";
-GMPLYMNU_COOPERATIVE		= "Настройки совместного режима";
+GMPLYMNU_COOPERATIVE		= "Настройки кооператива";
 GMPLYMNU_MULTIPLAYERWEAPONS	= "Появление оружия из мультиплеера";
 GMPLYMNU_LOSEINVENTORY		= "Терять весь инвентарь при смерти";
 GMPLYMNU_KEEPKEYS			= "Сохранять ключи";
@@ -2203,16 +2203,16 @@ SNDMNU_TITLE			= "НАСТРОЙКИ ЗВУКА";
 SNDMNU_SFXVOLUME		= "Громкость звука";
 SNDMNU_MENUVOLUME		= "Громкость меню";
 SNDMNU_MUSICVOLUME		= "Громкость музыки";
-SNDMNU_MIDIDEVICE		= "MIDI-контроллер";
+SNDMNU_MIDIDEVICE		= "MIDI проигрыватель"; // Контроллер - MIDI клавиатура, а это плеер
 SNDMNU_BACKGROUND		= "Звуки в фоне";
-SNDMNU_UNDERWATERREVERB	= "Подводные отзвуки";
-SNDMNU_RANDOMIZEPITCHES	= "Случайные высоты";
-SNDMNU_CHANNELS			= "Звуковые каналы";
-SNDMNU_BACKEND			= "Звуковой бек-энд";
+SNDMNU_UNDERWATERREVERB	= "Эффект под водой";
+SNDMNU_RANDOMIZEPITCHES	= "Изменять высоту";
+SNDMNU_CHANNELS			= "Количество каналов";
+SNDMNU_BACKEND			= "Звуковая система";
 SNDMNU_OPENAL			= "Настройки OpenAL";
 SNDMNU_RESTART			= "Перезапустить звук";
 SNDMNU_ADVANCED			= "Расширенные настройки";
-SNDMNU_MODREPLAYER		= "Проигрыватель модуля";
+SNDMNU_MODREPLAYER		= "Параметры модуля воспроизведениЯ";
 SNDMNU_MIDIPLAYER		= "Настройки Midi-проигрывателЯ";
 
 // OpenAL Options
@@ -2222,11 +2222,11 @@ OPENALMNU_ENABLEEFX			= "Включить EFX";
 OPENALMNU_RESAMPLER			= "Ресемплер";
 
 // Advanced Sound Options
-ADVSNDMNU_TITLE				= "NEW";
+ADVSNDMNU_TITLE				= "НОВОЕ";
 ADVSNDMNU_SAMPLERATE		= "Частота дискретизации";
 ADVSNDMNU_HRTF				= "HRTF";
 ADVSNDMNU_OPLSYNTHESIS		= "Синтез OPL";
-ADVSNDMNU_OPLNUMCHIPS		= "Количество эмулируемых чипов OPL";
+ADVSNDMNU_OPLNUMCHIPS		= "Количество эмулируемых OPL чипов";
 ADVSNDMNU_OPLFULLPAN		= "Полная стереопанорама для MIDI";
 ADVSNDMNU_OPLCORES			= "Ядро эмуляции OPL";
 ADVSNDMNU_OPNCORES			= "Ядро эмуляции OPN2";
@@ -2239,21 +2239,21 @@ ADVSNDMNU_FLUIDSYNTH		= "FluidSynth";
 ADVSNDMNU_FLUIDPATCHSET		= "Патч-набор";
 ADVSNDMNU_FLUIDGAIN			= "Усиление";
 ADVSNDMNU_REVERB			= "Реверберация";
-ADVSNDMNU_REVERB_LEVEL		= "Reverb Level"; // fix
+ADVSNDMNU_REVERB_LEVEL		= "Уровень реверберации";
 ADVSNDMNU_CHORUS			= "Хорус";
 ADVSNDMNU_TIMIDITY			= "Timidity++";
 ADVSNDMNU_ADLMIDI			= "ADLMidi";
 ADVSNDMNU_OPNMIDI			= "OPNMidi";
-ADVSNDMNU_TIMIDITYEXE		= "Путь к приложению";
+ADVSNDMNU_TIMIDITYEXE		= "Путь к синтезатору";
 ADVSNDMNU_TIMIDITYCONFIG	= "Файл конфигурации Timidity";
 ADVSNDMNU_TIMIDITYVOLUME	= "Относительная громкость";
 ADVSNDMNU_WILDMIDI			= "WildMidi";
 ADVSNDMNU_WILDMIDICONFIG	= "Файл конфигурации WildMidi";
 ADVSNDMNU_SELCONFIG			= "Выбор конфигурации";
-ADVSNDMNU_GLOBAL			= "Global"; // fix
+ADVSNDMNU_GLOBAL			= "Общие";
 ADVSNDMNU_FREEVERB			= "Freeverb";
 ADVSNDMNU_GLOBAL_FREEVERB	= "Global Freeverb";
-ADVSNDMNU_ADVRESAMPLING		= "Advanced Resampling";
+ADVSNDMNU_ADVRESAMPLING		= "Продвинутый ресемплинг";
 ADVSNDMNU_OPLBANK			= "OPL Bank";
 ADVSNDMNU_ADLOPLCORES		= "OPL Emulator Core";
 ADVSNDMNU_RUNPCMRATE		= "Run emulator at PCM rate";
@@ -2276,32 +2276,32 @@ ADLVLMODEL_APOGEE			= "Apogee";
 ADLVLMODEL_WIN9X			= "Win9X-like";
 
 // Module Replayer Options
-MODMNU_TITLE			= "НАСТРОЙКИ ПРОИГРЫВАТЕЛЯ МОДУЛЕЙ";
-MODMNU_REPLAYERENGINE	= "Движок проигрывателя";
+MODMNU_TITLE			= "ПАРАМЕТРЫ МОДУЛЯ ВОСПРОИЗВЕДЕНИЯ";
+MODMNU_REPLAYERENGINE	= "Звуковой движок";
 MODMNU_MASTERVOLUME		= "Общая громкость";
 MODMNU_QUALITY			= "Качество";
-MODMNU_VOLUMERAMPING	= "Объем-рэмпинг";
+// MODMNU_VOLUMERAMPING	= "Объем-рэмпинг"; // TODO: Fix
 MODMNU_CHIPOMATIC		= "Chip-o-matic";
 
 // Renderer Options
-RNDMNU_TITLE			= "ПОМЕНЯТЬ РЕНДЕРЕР";
+RNDMNU_TITLE			= "СМЕНИТЬ РЕНДЕРЕР";
 RNDMNU_RENDERER			= "Аппаратное ускорение";
-RNDMNU_TRUECOLOR		= "Режим программого TrueColor";
+RNDMNU_TRUECOLOR		= "Полноцветный програмный";
 RNDMNU_POLY			 	= "Поли-рендерер (экспериментальный)";
-RNDMNU_CANVAS			= "Холст для программного рендеринга";
+RNDMNU_CANVAS			= "Canvas для программного рендеринга";
 
 // Video Options
 VIDMNU_TITLE			= "ВИДЕОРЕЖИМ";
 VIDMNU_RENDERMODE		= "Режим рендеринга";
 VIDMNU_FULLSCREEN		= "Полный экран";
 VIDMNU_HIDPI			= "Поддержка Retina/HiDPI";
-VIDMNU_BRDLSS			= "Borderless Windowed Mode"; // fix
+VIDMNU_BRDLSS			= "Безрамочный оконный режим";
 VIDMNU_ASPECTRATIO		= "Соотношение сторон";
 VIDMNU_FORCEASPECT		= "Принудительное соот. сторон";
 VIDMNU_CROPASPECT		= "Принудительный тип соот.";
 VIDMNU_5X4ASPECTRATIO	= "Включить соотношение сторон 5:4";
-VIDMNU_SCALEMODE		= "Масштаб разрешения";
-VIDMNU_SCALEFACTOR		= "Масштаб";
+VIDMNU_SCALEMODE		= "Масштабирование";
+VIDMNU_SCALEFACTOR		= "Значение масштаба";
 VIDMNU_ENTERTEXT		= "Нажмите ENTER для установки режима";
 VIDMNU_TESTTEXT1		= "T для просмотра режима в течение 5 секунд";
 VIDMNU_TESTTEXT2		= "Пожалуйста, подождите 5 секунд...";
@@ -2311,21 +2311,21 @@ VIDMNU_CUSTOMX			= "Польз. Длина";
 VIDMNU_CUSTOMY			= "Польз. Высота";
 VIDMNU_APPLYW			= "Сохранить Изменения (Оконный Режим)";
 VIDMNU_APPLYFS			= "Сохранить Изменения (Полный Экран)";
-VIDMNU_RESPRESET		= "Choose Resolution Preset";
-VIDMNU_RESPRESETTTL		= "Custom Resolution Presets";
-VIDMNU_RESPRESETHEAD	= "Preset Resolution Modes";
-VIDMNU_ASPECT43			= "4:3 Aspect";
-VIDMNU_ASPECT54			= "5:4 Aspect";
-VIDMNU_ASPECT169		= "16:9 Aspect";
-VIDMNU_ASPECT1610		= "16:10 Aspect";
+VIDMNU_RESPRESET		= "Выбрать разрешение";
+VIDMNU_RESPRESETTTL		= "Задать разрешение";
+VIDMNU_RESPRESETHEAD	= "Доступные разрешения";
+VIDMNU_ASPECT43			= "4:3";
+VIDMNU_ASPECT54			= "5:4";
+VIDMNU_ASPECT169		= "16:9";
+VIDMNU_ASPECT1610		= "16:10";
 
 // Network Options
 NETMNU_TITLE					= "НАСТРОЙКИ СЕТИ";
 NETMNU_LOCALOPTIONS				= "Локальные настройки";
 NETMNU_MOVEPREDICTION			= "Предсказание движения";
-NETMNU_LINESPECIALPREDICTION	= "Предсказание случаев линий";
-NETMNU_PREDICTIONLERPSCALE		= "Предсказание масштаба лэрпа";
-NETMNU_LERPTHRESHOLD			= "Порог лэрпа";
+NETMNU_LINESPECIALPREDICTION	= "Предсказание действий";
+NETMNU_PREDICTIONLERPSCALE		= "Предсказание масштаба лэрпа"; // ??
+NETMNU_LERPTHRESHOLD			= "Порог лэрпа"; // ??
 NETMNU_HOSTOPTIONS				= "Настройки хоста";
 NETMNU_EXTRATICS				= "Дополнительные тики";
 NETMNU_TICBALANCE				= "Балансировка задержки";
@@ -2336,7 +2336,7 @@ JOYMNU_ENABLE = "Включить поддержку джойстика";
 JOYMNU_DINPUT = "Включить джойстики DirectInput";
 JOYMNU_XINPUT = "Включить джойстики XInput";
 JOYMNU_PS2 = "Использовать адаптеры Playstation 2 напрямую";
-JOYMNU_NOCON = "Не обнаружены никакие джойстики";
+JOYMNU_NOCON = "Джойстики не обнаружены";
 JOYMNU_CONFIG = "Настроить джойстик:";
 JOYMNU_DISABLED1 = "Настройка «включить поддержку джойстика»";
 JOYMNU_DISABLED2 = "должна быть включена, чтобы выявить джойстик";
@@ -2361,16 +2361,16 @@ OPTVAL_LOWERLEFT			= "Внизу слева";
 OPTVAL_LOWERRIGHT			= "Внизу справа";
 OPTVAL_TOUCHSCREENLIKE		= "Как сенсорный экран";
 OPTVAL_NONE					= "Откл.";
-OPTVAL_TURNING				= "Превращение";
+OPTVAL_TURNING				= "Поворот";
 OPTVAL_LOOKINGUPDOWN		= "Взгляд вверх/вниз";
 OPTVAL_MOVINGFORWARD		= "Движение вперед";
 OPTVAL_STRAFING				= "Стрейф";
 OPTVAL_MOVINGUPDOWN			= "Движение вверх/вниз";
 OPTVAL_INVERTED				= "Инвертировано";
-OPTVAL_NOTINVERTED			= "Неинвертировано";
+OPTVAL_NOTINVERTED			= "Прямо";
 OPTVAL_ORIGINAL				= "Оригинальный";
 OPTVAL_OPTIMIZED			= "Оптимизированный";
-OPTVAL_CLASSIC				= "Классический (более быстро)";
+OPTVAL_CLASSIC				= "Классический (более быстрый)";
 OPTVAL_PRECISE				= "Точный";
 OPTVAL_NORMAL				= "Обычный";
 OPTVAL_STRETCH				= "Растянутый";
@@ -2383,7 +2383,7 @@ OPTVAL_BURN					= "Жжение";
 OPTVAL_CROSSFADE			= "Увядание";
 OPTVAL_ONLYMODIFIED			= "Только модифицированный";
 OPTVAL_SMOOTH				= "Плавно";
-OPTVAL_TRANSLUCENT			= "Полупрозрачно";
+OPTVAL_TRANSLUCENT			= "Полупрозрачный";
 OPTVAL_FUZZ					= "Шумовой";
 OPTVAL_SHADOW				= "Теневой";
 OPTVAL_ITEMS				= "Предметы";
@@ -2424,16 +2424,16 @@ OPTVAL_ONLYWHENFOUND		= "После обнаружения";
 OPTVAL_ONFOROVERLAYONLY		= "Только прозрачный";
 OPTVAL_OVERLAYNORMAL		= "Прозрач. + обыч.";
 OPTVAL_OVERLAYONLY			= "Только прозрачный";
-OPTVAL_NOTFORHUBS			= "Не для хабов";
+OPTVAL_NOTFORHUBS			= "Кроме хабов";
 OPTVAL_FRONT				= "Перед";
-OPTVAL_ANIMATED				= "Анимационный";
-OPTVAL_ROTATED				= "Повернутый";
+OPTVAL_ANIMATED				= "Анимированные";
+OPTVAL_ROTATED				= "Повернутые";
 OPTVAL_MAPDEFINEDCOLORSONLY = "Только определенные картой цвета";
-OPTVAL_NODOORS				= "Все, кроме дверей";
+OPTVAL_NODOORS				= "Кроме дверей";
 OPTVAL_DOUBLE				= "Двойной";
 OPTVAL_TRIPLE				= "Тройной";
 OPTVAL_QUADRUPLE			= "Четверной";
-OPTVAL_ITEMPICKUP			= "Получения";
+OPTVAL_ITEMPICKUP			= "Подбор";
 OPTVAL_OBITUARIES			= "Некрологи";
 OPTVAL_CRITICALMESSAGES		= "Важные сообщения";
 OPTVAL_NEVERFRIENDS			= "Не для союзников";
@@ -2442,9 +2442,9 @@ OPTVAL_HEXEN				= "Hexen";
 OPTVAL_OLD					= "Старый";
 OPTVAL_DEFAULT				= "По умол.";
 OPTVAL_DOOM					= "Doom";
-OPTVAL_DOOMSTRICT			= "Doom (строго)";
+OPTVAL_DOOMSTRICT			= "Doom (строгий)";
 OPTVAL_BOOM					= "Boom";
-OPTVAL_BOOMSTRICT			= "Boom (строго)";
+OPTVAL_BOOMSTRICT			= "Boom (строгий)";
 OPTVAL_MBF					= "MBF";
 OPTVAL_ZDOOM2063			= "ZDoom 2.0.63";
 OPTVAL_4000HZ				= "4000 Гц";
@@ -2454,13 +2454,13 @@ OPTVAL_22050HZ				= "22050 Гц";
 OPTVAL_32000HZ				= "32000 Гц";
 OPTVAL_44100HZ				= "44100 Гц";
 OPTVAL_48000HZ				= "48000 Гц";
-OPTVAL_64SAMPLES			= "64 образца";
-OPTVAL_128SAMPLES			= "128 образцов";
-OPTVAL_256SAMPLES			= "256 образцов";
-OPTVAL_512SAMPLES			= "512 образца";
-OPTVAL_1024SAMPLES			= "1024 образца";
-OPTVAL_2048SAMPLES			= "2048 образцов";
-OPTVAL_4096SAMPLES			= "4096 образцов";
+OPTVAL_64SAMPLES			= "64 семплоа";
+OPTVAL_128SAMPLES			= "128 семплов";
+OPTVAL_256SAMPLES			= "256 семплов";
+OPTVAL_512SAMPLES			= "512 семплов";
+OPTVAL_1024SAMPLES			= "1024 семпла";
+OPTVAL_2048SAMPLES			= "2048 семплов";
+OPTVAL_4096SAMPLES			= "4096 семплов";
 OPTVAL_UNLIMITED			= "Без ограничений";
 OPTVAL_256K					= "256K";
 OPTVAL_512K					= "512K";
@@ -2478,16 +2478,16 @@ OPTVAL_SOUNDSYSTEM			= "Аудиосистема";
 OPTVAL_FOO_DUMB				= "foo_dumb";
 OPTVAL_ALIASING				= "Алиасинг";
 OPTVAL_LINEAR				= "Линейное/ая";
-OPTVAL_NEAREST				= "Nearest"; // fix
-OPTVAL_PCF_LOW				= "PCF (Low)"; // fix
-OPTVAL_PCF_MEDIUM			= "PCF (Medium)"; // fix
-OPTVAL_PCF_HIGH				= "PCF (High)"; // fix
-OPTVAL_CUBIC				= "Кубическое";
+OPTVAL_NEAREST				= "Ближайший";
+OPTVAL_PCF_LOW				= "PCF (Низкий)";
+OPTVAL_PCF_MEDIUM			= "PCF (Средний)";
+OPTVAL_PCF_HIGH				= "PCF (Высокий)";
+OPTVAL_CUBIC				= "Кубический";
 OPTVAL_BLEP					= "Band-limited step"; // fix
-OPTVAL_LINEARSLOW			= "Линейное (Медленнее)";
+OPTVAL_LINEARSLOW			= "Линейный (Медленнее)";
 OPTVAL_BLAM					= "Band-limited linear";
-OPTVAL_CUBICSLOW			= "Кубическое (Медленнее)";
-OPTVAL_SINC					= "Sinc"; // fix
+OPTVAL_CUBICSLOW			= "Кубический (Медленнее)";
+OPTVAL_SINC					= "Вход";
 OPTVAL_NOTEONOFFONLY		= "Note on/off only";
 OPTVAL_FULLRAMPING			= "Full ramping";
 OPTVAL_ALLUNACKNOWLEDGED	= "All unacknowledged";
@@ -2500,14 +2500,14 @@ OPTVAL_GL 					= "OpenGL";
 OPTVAL_D3D					= "Direct3D";
 OPTVAL_SDL					= "SDL";
 OPTVAL_COCOA				= "Cocoa";
-OPTVAL_HWPOLY				= "OpenGL ускоренное";
-OPTVAL_SWDOOM				= "Программный рендер Doom";
-OPTVAL_SWDOOMTC				= "True Color SW Renderer"; // fix
-OPTVAL_SWPOLY				= "Softpoly Renderer"; // fix
-OPTVAL_SWPOLYTC				= "True Color Softpoly"; // fix
+OPTVAL_HWPOLY				= "OpenGL аппаратный";
+OPTVAL_SWDOOM				= "Программный";
+OPTVAL_SWDOOMTC				= "Полноцветный програмный";
+OPTVAL_SWPOLY				= "Полирендер";
+OPTVAL_SWPOLYTC				= "Полноцветный полирендер";
 OPTVAL_DEDICATED			= "Высокая производительность";
-OPTVAL_INTEGRATED			= "Энергосбережения";
-OPTVAL_VANILLA				= "Ванильное";
+OPTVAL_INTEGRATED			= "Энергосбережение";
+OPTVAL_VANILLA				= "Ванильный";
 OPTVAL_VTFZDOOM				= "ZDoom (форсировано)";
 OPTVAL_VTFVANILLA			= "Vanilla (форсировано)";
 OPTVAL_VTAZDOOM				= "Auto (предпочитать ZDoom)";
@@ -2544,7 +2544,7 @@ C_FIRE					= "\cxОгненный";
 C_SAPPHIRE				= "\cyСапфировый";
 C_TEAL					= "\czМорской";
 // Option Strings
-OPTSTR_SIMPLEARROW			= "Простая стрелка";
+OPTSTR_SIMPLEARROW			= "Стрелка";
 OPTSTR_HERETIC				= "Heretic";
 OPTSTR_CHEX					= "Chex";
 OPTSTR_SYSTEMCURSOR			= "Системный курсор";
@@ -2552,7 +2552,7 @@ OPTSTR_NOSOUND				= "Без звука";
 OPTSTR_AUTO					= "Авто";
 OPTSTR_MONO					= "Моно";
 OPTSTR_STEREO				= "Стерео";
-OPTSTR_PROLOGIC				= "Dolby Prologic Decoder";
+OPTSTR_PROLOGIC				= "Dolby Prologic Декодер";
 OPTSTR_QUAD					= "Четырехместный";
 OPTSTR_SURROUND				= "5 динамиков";
 OPTSTR_5POINT1				= "Динамики 5.1";
@@ -2561,7 +2561,7 @@ OPTSTR_NOINTERPOLATION		= "Без интерполяции";
 OPTSTR_SPLINE				= "Сплайн";
 OPTSTR_OPENAL				= "OpenAL";
 
-NOTSET				= "Не установлен"; // fix
+NOTSET				= "Не задан";
 SAFEMESSAGE			= "Вы уверены?";
 MNU_COLORPICKER		= "Выбор цветов";
 
@@ -2800,56 +2800,56 @@ GLTEXMNU_TEXFILTER 		= "Фильтрация текстур";
 GLTEXMNU_ANISOTROPIC	= "Анизотропная фильтрация";
 GLTEXMNU_TEXFORMAT 		= "Формат текстур";
 GLTEXMNU_ENABLEHIRES 	= "Текстуры с высоким разрешением";
-GLTEXMNU_HQRESIZE 		= "Режим высоких текстур";
-GLTEXMNU_HQRESIZEMULT	= "High Quality Resize multiplier"; // fix
-GLTEXMNU_HQRESIZEWARN	= "This mode requires %d times more video memory"; // fix
-GLTEXMNU_RESIZETEX 		= "Изменение размера текстур";
-GLTEXMNU_RESIZESPR 		= "Изменение размера спрайтов";
-GLTEXMNU_RESIZEFNT 		= "Изменение размера шрифтов";
+GLTEXMNU_HQRESIZE 		= "Масштабирование текстур";
+GLTEXMNU_HQRESIZEMULT	= "Множитель масштабирования";
+GLTEXMNU_HQRESIZEWARN	= "Потребует в %d раз больше видеопамяти";
+GLTEXMNU_RESIZETEX 		= "Масштабирование текстур";
+GLTEXMNU_RESIZESPR 		= "Масштабирование спрайтов";
+GLTEXMNU_RESIZEFNT 		= "Масштабирование шрифтов";
 GLTEXMNU_PRECACHETEX 	= "Кэшировать GL-текстур";
 GLTEXMNU_TRIMSPREDGE	= "Обрезание краев спрайтов";
-GLTEXMNU_SORTDRAWLIST 	= "Сортировать списки по текстурам"; // fix
+GLTEXMNU_SORTDRAWLIST 	= "Сортировать списки текстур";
 
 // Dynamic Light Options
 GLLIGHTMNU_TITLE					= "ДИНАМИЧЕСКИЙ СВЕТ";
 GLLIGHTMNU_LIGHTSENABLED			= "Динамический свет (OpenGL)";
 GLLIGHTMNU_LIGHTDEFS				= "Включить определения света";
-GLLIGHTMNU_CLIPLIGHTS				= "Закрепить свет"; // fix
-GLLIGHTMNU_LIGHTSPRITES				= "Свет влияет на спрайты";
-GLLIGHTMNU_LIGHTPARTICLES			= "Свет влияет на частицы";
+GLLIGHTMNU_CLIPLIGHTS				= "Обрезать свет";
+GLLIGHTMNU_LIGHTSPRITES				= "Освещение спрайтов";
+GLLIGHTMNU_LIGHTPARTICLES			= "Освещение частиц";
 GLLIGHTMNU_LIGHTSHADOWMAP			= "Свет на теневых картах";
 GLLIGHTMNU_LIGHTSHADOWMAPQUALITY	= "Качество теневых карт";
-GLLIGHTMNU_LIGHTSHADOWMAPFILTER		= "Shadowmap filter"; // fix
+GLLIGHTMNU_LIGHTSHADOWMAPFILTER		= "Фильтр теневых карт";
 
 // OpenGL Preferences
 GLPREFMNU_TITLE 				= "НАСТРОЙКИ OPENGL";
 GLPREFMNU_SECLIGHTMODE 			= "Режим освещения секторов";
 GLPREFMNU_FOGMODE 				= "Режим тумана";
-GLPREFMNU_FOGFORCEFULLBRIGHT 	= "Туман заставляет fullbright";
-GLPREFMNU_WPNLIGHTSTR 			= "Интенсивность света оружия";
+GLPREFMNU_FOGFORCEFULLBRIGHT 	= "Туман увеличивает яркость";
+GLPREFMNU_WPNLIGHTSTR 			= "Интенсивность вспышек оружия";
 GLPREFMNU_ENVIRONMENTMAPMIRROR 	= "Карта окружения на зеркалах";
 GLPREFMNU_ENV 					= "Улучшенный режим ночного видения";
-GLPREFMNU_ENVSTEALTH 			= "УНВ показывает скрытых монстров";
-GLPREFMNU_SPRBRIGHTFOG 			= "Заставить яркость в тумане";
-GLPREFMNU_SPRCLIP 				= "Настроить вырезку спрайтов";
-GLPREFMNU_SPRBLEND 				= "Смягчение краев спрайтов";
+GLPREFMNU_ENVSTEALTH 			= "ПНВ показывает скрытых монстров";
+GLPREFMNU_SPRBRIGHTFOG 			= "Полная яркость в тумане";
+GLPREFMNU_SPRCLIP 				= "Настроить обрезку спрайтов";
+GLPREFMNU_SPRBLEND 				= "Размытие краев спрайтов";
 GLPREFMNU_FUZZSTYLE 			= "Тип шума";
-GLPREFMNU_SPRBILLBOARD 			= "Угол спрайтов";
-GLPREFMNU_SPRBILLFACECAMERA 	= "Спрайты вращаются к камере";
+GLPREFMNU_SPRBILLBOARD 			= "Поворот спрайтов";
+GLPREFMNU_SPRBILLFACECAMERA 	= "Спрайты направлены к камере";
 GLPREFMNU_PARTICLESTYLE 		= "Тип частиц";
 GLPREFMNU_AMBLIGHT 				= "Уровень рассеяннего света";
 GLPREFMNU_RENDERQUALITY 		= "Качество рендеринга";
-GLPREFMNU_MENUBLUR				= "Размытие меню";
-GLPREFMNU_VRMODE 				= "Стереоскопическая ВР 3D";
+GLPREFMNU_MENUBLUR				= "Размытие фона меню";
+GLPREFMNU_VRMODE 				= "VR режим";
 GLPREFMNU_VRQUADSTEREO 			= "Quad Stereo";
 GLPREFMNU_MULTISAMPLE			= "Мультисэмплинг";
 GLPREFMNU_TONEMAP				= "Режим тоун-мэппинга";
-GLPREFMNU_BLOOM					= "Режим блума";
-GLPREFMNU_LENS					= "Линзовая дисторсия";
-GLPREFMNU_SSAO					= "Качество ambient occlusion"; // fix
-GLPREFMNU_SSAO_PORTALS			= "Порталы с AO";
+GLPREFMNU_BLOOM					= "Режим блум";
+GLPREFMNU_LENS					= "Искажение линзы";
+GLPREFMNU_SSAO					= "Качество затенения окружающей среды";
+GLPREFMNU_SSAO_PORTALS			= "Количество порталов для Зат. Окр. Среды";
 GLPREFMNU_FXAA					= "Качество FXAA";
-GLPREFMNU_DITHER				= "Dither output"; // fix
+GLPREFMNU_DITHER				= "Вывод дизеринга";
 GLPREFMNU_PALTONEMAPORDER		= "Порядок палитры тоун-мэпа";
 GLPREFMNU_PALTONEMAPPOWER		= "Экспонента палитры тоун-мэпа";
 GLPREFMNU_SWLMBANDED			= "Banded SW Lightmode"; // fix
@@ -2862,8 +2862,8 @@ OPTVAL_SMARTER 				= "Умнее";
 OPTVAL_INFRAREDONLY 		= "Только инфракрасный";
 OPTVAL_INFRAREDANDTORCH 	= "Инфракрасный и факел";
 OPTVAL_ANYFIXEDCOLORMAP 	= "Любая фиксированная цветовая карта";
-OPTVAL_NONENEARESTMIPMAP 	= "Нет (ближайший мипмэп)";
-OPTVAL_NONELINEARMIPMAP 	= "Нет (линейный мипмэп)";
+OPTVAL_NONENEARESTMIPMAP 	= "Нет (ближайший мипмап)";
+OPTVAL_NONELINEARMIPMAP 	= "Нет (линейный мипмап)";
 OPTVAL_NONETRILINEAR		= "Нет (трехлинейная)";
 OPTVAL_BILINEAR 			= "Билинейная";
 OPTVAL_TRILINEAR 			= "Трехлинейная";
@@ -2882,7 +2882,7 @@ OPTVAL_16X 					= "16x";
 OPTVAL_32X 					= "32x";
 OPTVAL_USEASPALETTE 		= "Использовать как палитру";
 OPTVAL_BLEND 				= "Смешать";
-OPTVAL_STANDARD 			= "Стандарт";
+OPTVAL_STANDARD 			= "Стандартный";
 OPTVAL_BRIGHT 				= "Яркий";
 OPTVAL_DARK 				= "Темный";
 OPTVAL_LEGACY 				= "Legacy";
@@ -2896,14 +2896,14 @@ OPTVAL_72 					= "72";
 OPTVAL_75 					= "75";
 OPTVAL_85 					= "85";
 OPTVAL_100 					= "100";
-OPTVAL_YAXIS 				= "Ось Y";
-OPTVAL_XYAXIS 				= "Ось X/Y";
+OPTVAL_YAXIS 				= "По горизонтали";
+OPTVAL_XYAXIS 				= "По обеим осям";
 OPTVAL_SQUARE 				= "Квадратный";
 OPTVAL_ROUND 				= "Круглый";
-OPTVAL_SCALENX 				= "ScaleNx";
-OPTVAL_NORMALNX				= "NormalNx";
-OPTVAL_HQNX 				= "hqNx";
-OPTVAL_HQNXMMX 				= "hqNx MMX";
+OPTVAL_SCALENX 				= "Масштаб. Nx";
+OPTVAL_NORMALNX				= "Обычный Nx";
+OPTVAL_HQNX 				= "HQ Nx";
+OPTVAL_HQNXMMX 				= "HQ Nx MMX";
 OPTVAL_NXBRZ 				= "xBRZ";
 OPTVAL_OLD_NXBRZ 			= "Старый xBRZ";
 OPTVAL_RADIAL 				= "Радиальный";
@@ -2911,16 +2911,16 @@ OPTVAL_PIXELFUZZ 			= "Пиксельный шум";
 OPTVAL_SMOOTHFUZZ 			= "Гладкий шум";
 OPTVAL_SWIRLYFUZZ 			= "Кружащийся шум";
 OPTVAL_TRANSLUCENTFUZZ 		= "Прозрачный шум";
-OPTVAL_NOISE 				= "Шум"; // fix
-OPTVAL_SMOOTHNOISE 			= "Мягкий шум"; // fix
+OPTVAL_NOISE 				= "Шум"; // fix?
+OPTVAL_SMOOTHNOISE 			= "Мягкий шум"; // fix?
 OPTVAL_JAGGEDFUZZ 			= "Зазубренный шум";
 OPTVAL_GREENMAGENTA 		= "Зеленый/Маджента";
 OPTVAL_REDCYAN 				= "Красный/Голубой";
 OPTVAL_AMBERBLUE 			= "Янтарный/Синий";
 OPTVAL_LEFTEYE 				= "Левый глаз";
 OPTVAL_RIGHTEYE 			= "Правый глаз";
-OPTVAL_SBSFULL		    	= "Бок о бок, полно";
-OPTVAL_SBSNARROW			= "Бок о бок, узко";
+OPTVAL_SBSFULL		    	= "Бок-о-бок, полно";
+OPTVAL_SBSNARROW			= "Бок-о-бок, узко";
 OPTVAL_TOPBOTTOM			= "Вверх/вниз";
 OPTVAL_ROWINTERLEAVED		= "Row Interleaved"; // fix
 OPTVAL_COLUMNINTERLEAVED	= "Column Interleaved"; // fix
@@ -2929,7 +2929,7 @@ OPTVAL_QUADBUFFERED 		= "Quad-buffered"; // fix
 OPTVAL_UNCHARTED2			= "Uncharted 2";
 OPTVAL_HEJLDAWSON			= "Хейл Доусон";
 OPTVAL_REINHARD				= "Рейнхард";
-OPTVAL_PALETTE				= "Палитра";
+OPTVAL_PALETTE				= "Doom палитра"; // Чтобы было понятнее
 OPTVAL_LOW					= "Низкий";
 OPTVAL_MEDIUM				= "Средний";
 OPTVAL_HIGH					= "Высокий";
@@ -2937,14 +2937,14 @@ OPTVAL_EXTREME				= "Крайний";
 OPTVAL_OBVERSEFIRST			= "Лицевой";
 OPTVAL_REVERSEFIRST			= "Обратный";
 
-DSPLYMNU_TCOPT		= "Настройки TrueColor";
+DSPLYMNU_TCOPT		= "Настройки проноцветного";
 
-TCMNU_TITLE		= "НАСТРОЙКИ TRUECOLOR";
+TCMNU_TITLE		= "НАСТРОЙКИ ПОЛНОЦВЕТНОГО";
 
-TCMNU_TRUECOLOR				= "Вывод true color"; // fix
-TCMNU_MINFILTER				= "Линейный фильтр при уменьшении";
-TCMNU_MAGFILTER				= "Линейный фильтр при увеличении";
-TCMNU_MIPMAP					= "Use mipmapped textures"; // fix
+TCMNU_TRUECOLOR				= "Полноцветный вывод";
+TCMNU_MINFILTER				= "Линейная фильтрация при уменьшении";
+TCMNU_MAGFILTER				= "Линейная фильтрация при увеличении";
+TCMNU_MIPMAP				= "Использовать мип-маппинг";
 TCMNU_DYNLIGHTS				= "Динамический свет (программный)";
 
 // SVE strings:
