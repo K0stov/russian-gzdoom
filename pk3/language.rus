@@ -318,7 +318,7 @@ E1TEXT =
 	"\n"
 	"Это место пахнет как гнилое мясо, а\n"
 	"выглядит как потерянная база на Деймосе.\n"
-	"Похоже, Вы застряли на «Берегах Ада», и\n"
+	"Похоже, Вы застряли на «Берегах ада», и\n"
 	"единственный путь теперь — пройти через это.\n"
 	"\n"
 	"Чтобы продолжить погружение в игру,\n"
@@ -361,23 +361,23 @@ E3TEXT =
 	"одно порождение Ада не смогло пройти\n"
 	"через эту дверь вместе с Вами...";
 E4TEXT =
-	"Паук-предводитель, должно быть, послал\n"
+	"паук-предводитель, должно быть, послал\n"
 	"вперед свои легионы порождений ада\n"
-	"перед Вашим последним сражением с этим\n"
-	"ужасным отродьем. Но Вы пошли до конца\n"
+	"перед вашим последним сражением с этим\n"
+	"ужасным отродьем. но вы пошли до конца\n"
 	"и принесли вечное проклятье и страдание\n"
 	"этой орде так, как поступил бы настоящий\n"
 	"герой перед лицом смертельной опасности.\n"
 	"\n"
-	"Кроме того, кто-то должен был заплатить\n"
-	"за то, что случилось с Дэйзи, вашей\n"
+	"кроме того, кто-то должен был заплатить\n"
+	"за то, что случилось с дэйзи, вашей\n"
 	"домашней крольчихой.\n"
 	"\n"
-	"Теперь Вы видите, сколь много боли и\n"
+	"теперь вы видите, сколь много боли и\n"
 	"крови вам пророчат полчища демонов,\n"
 	"неистовствующих в наших городах.\n"
 	"\n"
-	"Следующая остановка — Ад на Земле!";
+	"следующая остановка — ад на земле!";
 C1TEXT =
 	"ВЫ ПРОШЛИ ВГЛУБЬ ЗАРАЖЕННОГО КОСМОПОРТА,\n"
 	"НО ЧТО-ТО ЗДЕСЬ НЕ ТАК. МОНСТРЫ ПРИНЕСЛИ\n"
@@ -530,7 +530,7 @@ T2TEXT =
 	"и так, Вы к этому готовы.\n"
 	"\n"
 	"Эти звуки могут означать очередной\n"
-	"кровавый фестиваль, но Вы чувствуете,\n"
+	"кровавый фестиваль, но Вы чувствуете\n"
 	"себя как тысячи головорезов,\n"
 	"собранных в одном безумном убийце.\n"
 	"\n"
@@ -867,10 +867,10 @@ OB_MONTELEFRAG = "Игрока %o телефрагнуло.";
 
 OB_DEFAULT = "Игрок %o погиб.";
 OB_MPDEFAULT = "Игрок %o убит %k.";
-OB_FRIENDLY1 = "%k убил союзника.";
+OB_FRIENDLY1 = "Игрок %k убил союзника.";
 OB_FRIENDLY2 = "Игроку %k следует проверить свои очки.";
-OB_FRIENDLY3 = "%k преподнес другой команде фраг.";
-OB_FRIENDLY4 = "%k потерял еще одного друга.";
+OB_FRIENDLY3 = "Игрок %k преподнес другой команде фраг.";
+OB_FRIENDLY4 = "Игрок %k потерял еще одного друга.";
 
 SAVEGAMENAME = "zdoomsv";
 STARTUP1 = "";
@@ -1666,11 +1666,11 @@ MNU_QUITGAME		= "Выход";
 // Skills
 MNU_CHOOSESKILL		= "Уровень сложности:";
 
-SKILL_BABY			= "Я слишком молод, чтобы умирать.";
+SKILL_BABY			= "Мне рано умирать.";
 SKILL_EASY			= "Эй, не так грубо.";
 SKILL_NORMAL		= "Сделай мне больно.";
 SKILL_HARD			= "Ультранасилие";
-SKILL_NIGHTMARE		= "НОЧНОЙ КОШМАР!";
+SKILL_NIGHTMARE		= "КОШМАР!";
 
 CSKILL_BABY			= "Easy does it";
 CSKILL_EASY			= "Не особо липко";
@@ -1747,7 +1747,7 @@ OPTMNU_NETWORK				= "Сеть";
 OPTMNU_SOUND				= "Звук";
 OPTMNU_DISPLAY				= "Экран";
 OPTMNU_VIDEO				= "Видеорежим";
-OPTMNU_CHANGERENDER	    	= "Режим рендеринга";
+OPTMNU_CHANGERENDER		= "Режим рендеринга";
 OPTMNU_DEFAULTS				= "Сбросить все настройки";
 OPTMNU_RESETTOSAVED			= "Вернуть предыдущие настройки";
 OPTMNU_CONSOLE				= "Открыть консоль";
@@ -1772,8 +1772,8 @@ CNTRLMNU_FORWARD				= "Движение вперед";
 CNTRLMNU_BACK					= "Движение назад";
 CNTRLMNU_MOVELEFT				= "Движение влево";
 CNTRLMNU_MOVERIGHT				= "Движение вправо";
-CNTRLMNU_TURNLEFT				= "Поворот влево";
-CNTRLMNU_TURNRIGHT				= "Поворот вправо";
+CNTRLMNU_TURNLEFT				= "Поворот налево";
+CNTRLMNU_TURNRIGHT				= "Поворот направо";
 CNTRLMNU_TURN180				= "Быстрый поворот";
 CNTRLMNU_JUMP					= "Прыжок";
 CNTRLMNU_CROUCH					= "Приседание";
@@ -1852,17 +1852,17 @@ JOYMNU_OPTIONS				= "Настройки джойстика";
 JOYMNU_NOMENU				= "Отключить джойстик в меню";
 
 // Player Setup Menu
-MNU_PLAYERSETUP		    = "Настройки игрока";
+MNU_PLAYERSETUP		= "Настройки игрока";
 PLYRMNU_NAME			= "Имя";
 PLYRMNU_TEAM			= "Команда";
 PLYRMNU_PLAYERCOLOR		= "Цвет";
-PLYRMNU_RED				= "Красный
-PLYRMNU_GREEN			= "Зеленый";
+PLYRMNU_RED				= "Крас.";
+PLYRMNU_GREEN			= "Зел.";
 PLYRMNU_BLUE			= "Синий";
 PLYRMNU_PLAYERCLASS		= "Класс";
 PLYRMNU_PLAYERSKIN		= "Скин";
 PLYRMNU_PLAYERGENDER	= "Пол";
-PLYRMNU_AUTOAIM			= "Автоприцеливание";
+PLYRMNU_AUTOAIM			= "Автоприц.";
 PLYRMNU_SWITCHONPICKUP	= "Вкл. новое оруж.";
 PLYRMNU_ALWAYSRUN		= "Постоянный бег";
 PLYRMNU_PRESSSPACE		= "Нажмите \cjSPACE";
@@ -1913,7 +1913,7 @@ DSPLYMNU_BOBSPEED				= "Скорость покачивания оружия";
 DSPLYMNU_GPUSWITCH				= "Использование GPU ноутбука";
 
 // HUD Options
-HUDMNU_TITLE					= "Настройки ХУДа";
+HUDMNU_TITLE					= "Настройки ХУД-а";
 HUDMNU_ALTHUD					= "Альтернативный ХУД";
 HUDMNU_MESSAGE					= "Настройки сообщений";
 HUDMNU_UISCALE					= "Масштаб. интерфейса";
@@ -1994,7 +1994,7 @@ MISCMNU_CACHETIME				= "Временной порог для кэширования нодов"; // Имеется в вид
 MISCMNU_CLEARNODECACHE			= "Очистить кэш нодов";
 MISCMNU_INTERSCROLL				= "Разрешение пропуска текстовых вставок";
 // Automap Options
-AUTOMAPMNU_TITLE				= "Настройки аврокарты";
+AUTOMAPMNU_TITLE				= "Настройки автокарты";
 AUTOMAPMNU_COLORSET				= "Цвета автокарты";
 AUTOMAPMNU_CUSTOMCOLORS			= "Заменить цвета автокарты"; // Или "Настроить"
 AUTOMAPMNU_SETCUSTOMCOLORS		= "Выбрать цвета";
@@ -2034,7 +2034,7 @@ MAPCNTRLMNU_SETMARK			= "Поставить отметку";
 MAPCNTRLMNU_CLEARMARK		= "Убрать отметку";
 
 // Automap Colors
-MAPCOLORMNU_TITLE 						= "ИЗМЕНИТЬ ЦВЕТА АВРОКАРТЫ";
+MAPCOLORMNU_TITLE 						= "ИЗМЕНИТЬ ЦВЕТА АВТОКАРТЫ";
 MAPCOLORMNU_DEFAULTMAPCOLORS			= "Вернуть стандартные цвета";
 MAPCOLORMNU_BACKCOLOR 					= "Фон";
 MAPCOLORMNU_YOURCOLOR 					= "Игрок";
@@ -2103,7 +2103,7 @@ GMPLYMNU_DOUBLEAMMO			= "Удвоенные патроны";
 GMPLYMNU_INFINITEAMMO		= "Бесконечные патроны";
 GMPLYMNU_INFINITEINVENTORY	= "Бесконечный инвентарь";
 GMPLYMNU_NOMONSTERS			= "Отключить монстров";
-GMPLYMNU_NOMONSTERSTOEXIT	= "Убить всех монстров, для выхода";
+GMPLYMNU_NOMONSTERSTOEXIT	= "Убить всех монстров для выхода";
 GMPLYMNU_MONSTERSRESPAWN	= "Респаун монстров";
 GMPLYMNU_NORESPAWN			= "Отключить респаун";
 GMPLYMNU_ITEMSRESPAWN		= "Респаун предметов";
@@ -2203,7 +2203,7 @@ SNDMNU_TITLE			= "НАСТРОЙКИ ЗВУКА";
 SNDMNU_SFXVOLUME		= "Громкость звука";
 SNDMNU_MENUVOLUME		= "Громкость меню";
 SNDMNU_MUSICVOLUME		= "Громкость музыки";
-SNDMNU_MIDIDEVICE		= "MIDI проигрыватель"; // Контроллер - MIDI клавиатура, а это плеер
+SNDMNU_MIDIDEVICE		= "MIDI проигрыватель";
 SNDMNU_BACKGROUND		= "Звуки в фоне";
 SNDMNU_UNDERWATERREVERB	= "Эффект под водой";
 SNDMNU_RANDOMIZEPITCHES	= "Изменять высоту";
@@ -2323,7 +2323,7 @@ VIDMNU_ASPECT1610		= "16:10";
 NETMNU_TITLE					= "НАСТРОЙКИ СЕТИ";
 NETMNU_LOCALOPTIONS				= "Локальные настройки";
 NETMNU_MOVEPREDICTION			= "Предсказание движения";
-NETMNU_LINESPECIALPREDICTION	= "Предсказание действий";
+NETMNU_LINESPECIALPREDICTION	= "Предсказание действий в уровне";
 NETMNU_PREDICTIONLERPSCALE		= "Предсказание масштаба лэрпа"; // ??
 NETMNU_LERPTHRESHOLD			= "Порог лэрпа"; // ??
 NETMNU_HOSTOPTIONS				= "Настройки хоста";
@@ -2900,10 +2900,10 @@ OPTVAL_YAXIS 				= "По горизонтали";
 OPTVAL_XYAXIS 				= "По обеим осям";
 OPTVAL_SQUARE 				= "Квадратный";
 OPTVAL_ROUND 				= "Круглый";
-OPTVAL_SCALENX 				= "Масштаб. Nx";
-OPTVAL_NORMALNX				= "Обычный Nx";
-OPTVAL_HQNX 				= "HQ Nx";
-OPTVAL_HQNXMMX 				= "HQ Nx MMX";
+OPTVAL_SCALENX 				= "ScaleNx";
+OPTVAL_NORMALNX				= "NormalNx";
+OPTVAL_HQNX 				= "hqNx";
+OPTVAL_HQNXMMX 				= "hqNx MMX";
 OPTVAL_NXBRZ 				= "xBRZ";
 OPTVAL_OLD_NXBRZ 			= "Старый xBRZ";
 OPTVAL_RADIAL 				= "Радиальный";
@@ -2944,7 +2944,7 @@ TCMNU_TITLE		= "НАСТРОЙКИ ПОЛНОЦВЕТНОГО";
 TCMNU_TRUECOLOR				= "Полноцветный вывод";
 TCMNU_MINFILTER				= "Линейная фильтрация при уменьшении";
 TCMNU_MAGFILTER				= "Линейная фильтрация при увеличении";
-TCMNU_MIPMAP				= "Использовать мип-маппинг";
+TCMNU_MIPMAP					= "Использовать мип-маппинг";
 TCMNU_DYNLIGHTS				= "Динамический свет (программный)";
 
 // SVE strings:
