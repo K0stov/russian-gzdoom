@@ -1,0 +1,157 @@
+Patch File for DeHackEd v3.0
+Doom version = 19
+Patch format = 6
+
+# SPDX-License-Identifier: BSD-3-Clause
+
+# This is a magic comment recognized by Chocolate Doom, so that the
+# BEX [STRINGS] section below will be parsed:
+#
+#   *allow-extended-strings*
+
+[PARS]
+# Par times don't matter so much for FreeDM, just set all to zero.
+par  1 0
+par  2 0
+par  3 0
+par  4 0
+par  5 0
+par  6 0
+par  7 0
+par  8 0
+par  9 0
+par 10 0
+par 11 0
+par 12 0
+par 13 0
+par 14 0
+par 15 0
+par 16 0
+par 17 0
+par 18 0
+par 19 0
+par 20 0
+par 21 0
+par 22 0
+par 23 0
+par 24 0
+par 25 0
+par 26 0
+par 27 0
+par 28 0
+par 29 0
+par 30 0
+par 31 0
+par 32 0
+
+[STRINGS]
+#
+# -----------------------------------------------------
+# Названия уровней Стадии 1. Не отображаются во FreeDM.
+# -----------------------------------------------------
+#
+HUSTR_E1M1_RUS = U1E1
+HUSTR_E1M2_RUS = U1E2
+HUSTR_E1M3_RUS = U1E3
+HUSTR_E1M4_RUS = U1E4
+HUSTR_E1M5_RUS = U1E5
+HUSTR_E1M6_RUS = U1E6
+HUSTR_E1M7_RUS = U1E7
+HUSTR_E1M8_RUS = U1E8
+HUSTR_E1M9_RUS = U1E9
+HUSTR_E2M1_RUS = U2E1
+HUSTR_E2M2_RUS = U2E2
+HUSTR_E2M3_RUS = U2E3
+HUSTR_E2M4_RUS = U2E4
+HUSTR_E2M5_RUS = U2E5
+HUSTR_E2M6_RUS = U2E6
+HUSTR_E2M7_RUS = U2E7
+HUSTR_E2M8_RUS = U2E8
+HUSTR_E2M9_RUS = U2E9
+HUSTR_E3M1_RUS = U3E1
+HUSTR_E3M2_RUS = U3E2
+HUSTR_E3M3_RUS = U3E3
+HUSTR_E3M4_RUS = U3E4
+HUSTR_E3M5_RUS = U3E5
+HUSTR_E3M6_RUS = U3E6
+HUSTR_E3M7_RUS = U3E7
+HUSTR_E3M8_RUS = U3E8
+HUSTR_E3M9_RUS = U3E9
+HUSTR_E4M1_RUS = U4E1
+HUSTR_E4M2_RUS = U4E2
+HUSTR_E4M3_RUS = U4E3
+HUSTR_E4M4_RUS = U4E4
+HUSTR_E4M5_RUS = U4E5
+HUSTR_E4M6_RUS = U4E6
+HUSTR_E4M7_RUS = U4E7
+HUSTR_E4M8_RUS = U4E8
+HUSTR_E4M9_RUS = U4E9
+#
+# -------------
+# Уровни FreeDM
+# -------------
+#
+#HUSTR_1_RUS = ДМ01: Технологический тест
+#HUSTR_2_RUS = ДМ02: Станция "Природа"
+#HUSTR_3_RUS = ДМ03: Вопрошания Клаверии
+#HUSTR_4_RUS = ДМ04: Сталь
+#HUSTR_5_RUS = ДМ05: Убежище Ксиндажа
+#HUSTR_6_RUS = ДМ06: Гробница Ледемира
+#HUSTR_7_RUS = ДМ07: Главная крепость
+#HUSTR_8_RUS = ДМ08: База артефактов
+#HUSTR_9_RUS = ДМ09: Забытые руины
+#HUSTR_10_RUS = ДМ10: Подстанция 45
+#HUSTR_11_RUS = ДМ11: Врата ада
+#HUSTR_12_RUS = ДМ12: Каньон
+#HUSTR_13_RUS = ДМ13: Священное упокоение
+#HUSTR_14_RUS = ДМ14: Бесхозный магазин
+#HUSTR_15_RUS = ДМ15: Склад припасов АГМ
+#HUSTR_16_RUS = ДМ16: Одноствольный
+#HUSTR_17_RUS = ДМ17: Технопанк
+#HUSTR_18_RUS = ДМ18: Энергетический комплекс
+#HUSTR_19_RUS = ДМ19: Техноостров
+#HUSTR_20_RUS = ДМ20: Склад
+#HUSTR_21_RUS = ДМ21: Оборотное водоснабжение
+#HUSTR_22_RUS = ДМ22: Квартет
+#HUSTR_23_RUS = ДМ23: Конфронтация
+#HUSTR_24_RUS = ДМ24: Затопленная база
+#HUSTR_25_RUS = ДМ25: Двор особняка
+#HUSTR_26_RUS = ДМ26: Только зеленый
+#HUSTR_27_RUS = ДМ27: Изгнание
+#HUSTR_28_RUS = ДМ28: Оружейный завод
+#HUSTR_29_RUS = ДМ29: Командный бой
+#HUSTR_30_RUS = ДМ30: Последний герой
+#HUSTR_31_RUS = ДМ31: Форт Макабр
+#HUSTR_32_RUS = ДМ32: Аберрация
+HUSTR_1_RUS = lv01: nt[yjkjubxtcrbq ntcn
+HUSTR_2_RUS = lv02: cnfywbz ^ghbhjlf^
+HUSTR_3_RUS = lv03: djghjifybz rkfdthbb
+HUSTR_4_RUS = lv04: cnfkm
+HUSTR_5_RUS = lv05: e,t;bot rcbylf;f
+HUSTR_6_RUS = lv06: uhj,ybwf ktltvbhf
+HUSTR_7_RUS = lv07: ukfdyfz rhtgjcnm
+HUSTR_8_RUS = lv08: ,fpf fhntafrnjd
+HUSTR_9_RUS = lv09: pf,snst hebys
+HUSTR_10_RUS = lv10: gjlcnfywbz 45
+HUSTR_11_RUS = lv11: dhfnf flf
+HUSTR_12_RUS = lv12: rfymjy
+HUSTR_13_RUS = lv13: cdzotyyjt egjrjtybt
+HUSTR_14_RUS = lv14: ,tc[jpysq vfufpby
+HUSTR_15_RUS = lv15: crkfl ghbgfcjd fuv
+HUSTR_16_RUS = lv16: jlyjcndjkmysq
+HUSTR_17_RUS = lv17: nt[yjgfhr
+HUSTR_18_RUS = lv18: 'ythutnbxtcrbq rjvgktrc
+HUSTR_19_RUS = lv19: nt[yjjcnhjd
+HUSTR_20_RUS = lv20: crkfl
+HUSTR_21_RUS = lv21: j,jhjnyjt djljcyf,;tybt
+HUSTR_22_RUS = lv22: rdfhntn
+HUSTR_23_RUS = lv23: rjyahjynfwbz
+HUSTR_24_RUS = lv24: pfnjgktyyfz ,fpf
+HUSTR_25_RUS = lv25: ldjh jcj,yzrf
+HUSTR_26_RUS = lv26: njkmrj ptktysq
+HUSTR_27_RUS = lv27: bpuyfybt
+HUSTR_28_RUS = lv28: jhe;tqysq pfdjl
+HUSTR_29_RUS = lv29: rjvfylysq ,jq
+HUSTR_30_RUS = lv30: gjcktlybq uthjq
+HUSTR_31_RUS = lv31: ajhn vfrf,h
+HUSTR_32_RUS = lv32: f,thhfwbz

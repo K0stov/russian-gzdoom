@@ -318,11 +318,11 @@ E1TEXT =
 	"\n"
 	"Это место пахнет как гнилое мясо, а\n"
 	"выглядит как потерянная база на Деймосе.\n"
-	"Похоже, Вы застряли на «Берегах ада», и\n"
+	"Похоже, Вы застряли на «Берегах Ада», и\n"
 	"единственный путь теперь — пройти через это.\n"
 	"\n"
 	"Чтобы продолжить погружение в игру,\n"
-	"пройдите эпизод «Берега ада» и его\n"
+	"пройдите эпизод «Берега Ада» и его\n"
 	"замечательный сиквел «Инферно»!";
 E2TEXT =
 	"У Вас получилось! Ужасный Лорд-\n"
@@ -814,7 +814,7 @@ OB_MPPLASMARIFLE = "Игрок %k расплавил плазмометом игрока %o.";
 OB_MPBFG_BOOM = "Игрок %k расщепил игрока %o с помощью BFG.";
 OB_MPBFG_SPLASH = "Игрок %o не успел спрятаться от BFG игрока %k.";
 OB_MPTELEFRAG = "Игрок %k телефрагнул игрока %o.";
-OB_RAILGUN = "Игроку %o показал свой рельсотрон игрок %k.";
+OB_RAILGUN = "Игрок %k показал свой рельсотрон игроку %o.";
 OB_MPBFG_MBF = "Игрока %o сжег %k с BFG.";
 
 OB_MPSTAFF = "Игрок %o сел на посох игрока %k.";
@@ -854,7 +854,7 @@ OB_MPPUNCHDAGGER = "Игрок %o был непреднамеренно заколот кинжалом %k.";
 OB_MPELECTRICBOLT = "Игрок %o был прибит к стене %k.";
 OB_MPPOISONBOLT = "Игрок %o получил смертельную дозу гнева %k.";
 OB_MPASSAULTGUN = "Игрок %o изрешечен штурмовой винтовкой %k.";
-OB_MPMINIMISSILELAUNCHER = "Игрок %o проглатил ракету %k.";
+OB_MPMINIMISSILELAUNCHER = "Игрок %o проглотил ракету %k.";
 OB_MPSTRIFEGRENADE = "Игрок %o инвертируется H-E гранатой %k.";
 OB_MPPHOSPHOROUSGRENADE = "Игрок %o принял горячую ванну из чистого фосфора %k.";
 OB_MPFLAMETHROWER = "Игрок %k поджарил игрока %o.";
@@ -2167,7 +2167,7 @@ CMPTMNU_DEHHEALTH			= "Настройки здоровья DEH как в Doom2.exe";
 CMPTMNU_MUSHROOM			= "Оригинальная скорость A_Mushroom в модах DEH";
 CMPTMNU_MAPACTIONBEHAVIOR	= "Поведение уровней/действий";
 CMPTMNU_USEBLOCKING			= "Все специальные линии могут блокировать <use>";
-CMPTMNU_ANYBOSSDEATH		= "Любой A_BossDeath активирует special в уровне";
+CMPTMNU_ANYBOSSDEATH		= "Любой A_BossDeath активирует special на уровне";
 CMPTMNU_NODOORLIGHT			= "Отключить световой эффект на дверях из BOOM";
 CMPTMNU_LIGHT				= "Искать соседнего света как в Doom";
 CMPTMNU_SHORTTEX			= "Искать кратчайшие текстуры как в Doom";
@@ -2323,7 +2323,7 @@ VIDMNU_ASPECT1610		= "16:10";
 NETMNU_TITLE					= "НАСТРОЙКИ СЕТИ";
 NETMNU_LOCALOPTIONS				= "Локальные настройки";
 NETMNU_MOVEPREDICTION			= "Предсказание движения";
-NETMNU_LINESPECIALPREDICTION	= "Предсказание действий в уровне";
+NETMNU_LINESPECIALPREDICTION	= "Предсказание действий на уровне";
 NETMNU_PREDICTIONLERPSCALE		= "Предсказание масштаба лэрпа"; // ??
 NETMNU_LERPTHRESHOLD			= "Порог лэрпа"; // ??
 NETMNU_HOSTOPTIONS				= "Настройки хоста";
