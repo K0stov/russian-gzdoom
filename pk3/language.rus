@@ -2971,3 +2971,6 @@ MSG_TALISMANRED = "You have a feeling that it wasn't to be touched...";
 MSG_TALISMANGREEN = "Whatever it is, it doesn't belong in this world...";
 MSG_TALISMANBLUE = "It must do something...";
 MSG_TALISMANPOWER = "You have super strength!";
+
+
+GZDRT_LANGUAGE = "язык";
