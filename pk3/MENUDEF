@@ -1,0 +1,15 @@
+OptionMenu "LanguageOptions" {
+    Title "$GZDRT_LANGUAGE"
+    StaticText " "
+    Command "Русский (RU)", "language rus"
+    Command "English (US)", "language enu"
+    Command "English (GB)", "language eng"
+    Command "French (FR)", "language fr"
+    Command "Italian (ITA)", "language ita"
+    Command "Portuguese (PTB)", "language ptb"
+}
+
+AddOptionMenu "OptionsMenu" {
+    StaticText " "
+    Submenu "$GZDRT_LANGUAGE", "LanguageOptions"
+}
