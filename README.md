@@ -3,7 +3,7 @@
 # Перевод GZDoom на русский язык
 ![https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png](https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png)
 
-### Текущая версия: 0.6
+### Текущая версия: [0.6.2](https://github.com/SashaTheRed/gzdoom-russian-translation/releases/tag/0.6.2)
 
 Приветствую!
 
@@ -17,7 +17,7 @@
 	- [*Hexen: Deathkings of the Dark Citadel*](https://ru.wikipedia.org/wiki/Hexen#Deathkings_of_the_Dark_Citadel) (в разработке)
 - [*Strife: Quest for the Sigil*](https://ru.wikipedia.org/wiki/Strife) (некоторые дополнительные материалы непереведены)
 
-С этим переводом также появляется возможность писать русскими буквами в игре и в файлах вместе с английскими. GZDoom использует кодовую страницу [ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) для шрифтов, и кириллица доступна в GZDoom после добавления и переименования графических шрифтов в соответствии с их размещением в кириллической кодовой странице [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251).
+С этим переводом также появляется возможность писать русскими буквами в игре и в файлах вместе с английскими. GZDoom использует кодировку [ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) для шрифтов, и кириллица доступна в GZDoom после добавления и переименования графических шрифтов в соответствии с их размещением в кириллической кодировке [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251).
 
 ## Инструкция:
 
@@ -30,11 +30,11 @@
 ## Примечания:
 - Буква Ё формально поддерживается, но работает некорректно среди некоторых других букв. В данном переводе она используется только для уточнения слов, смысл которых, без буквы Ё, изменяется.
 	- Пример: «Игрока %o см**ё**л Крестоносец» в сравнении с вариантом «Игрока %o см**е**л Крестоносец»
-- Если Вы желаете открыть языковой файл [*language.rus*](pk3/language.rus) в архиве .pk3, экспортируйте его с архива и открывайте с помощью редактора кода, поддерживающего кодовую страницу [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251), например [Notepad++](https://notepad-plus-plus.org/download/) или [Visual Studio Code](https://code.visualstudio.com/).
+- Если Вы желаете открыть языковой файл [*language.rus*](pk3/language.rus) в архиве .pk3, экспортируйте его с архива и открывайте с помощью редактора кода, поддерживающего кодировку [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251), например [Notepad++](https://notepad-plus-plus.org/download/) или [Visual Studio Code](https://code.visualstudio.com/).
 - Буквы Ч и Я ведут себя немного странно: в *Doom* и *Strife* они работают только в верхнем регистре при написании в заглавных шрифтах (*bigfont.lmp в файле [*zd-extra.pk3*](https://github.com/coelckers/gzdoom/tree/master/wadsrc_extra/static)).
-	- Это объясняется отсутствием поддержки строчных вариантов этих букв в кодовой странице GZDoom — потому в bigfont-строках будет использован верхний регистр для вышеупомянутых букв, или для всей строки целиком.
+	- Это объясняется отсутствием поддержки строчных вариантов этих букв в кодировке GZDoom — потому в bigfont-строках будет использован верхний регистр для вышеупомянутых букв, или для всей строки целиком.
 	- К счастью, это не применяется к обычным, малым шрифтам, поэтому ими можно писать свободно. Зато эти две буквы присутствуют парами в архиве: буква Ч существует и как *stcfn215.lmp*, и как *stcfn247.lmp*, а Я — и как *stcfn223.lmp*, и как *stcfn255.lmp*.
-- Некрологи в строках 820—863 в файле [*language.rus*](pk3/language.rus#L820) сформулированы забавно — я буду благодарен за помощь с их улучшением примерно по такой структуре: «Игрока %o убил %k»
+- Некрологи в строках 820—863 в файле [*language.rus*](pk3/language.rus#L820) сформулированы забавно — я буду благодарен за помощь с их улучшением примерно по такой структуре: «Игрок %k убил игрока %o»
 
 ---
 
@@ -50,7 +50,7 @@
 
 # English translation for GZDoom
 
-### Current version: 0.6
+### Current version: [0.6.2](https://github.com/SashaTheRed/gzdoom-russian-translation/releases/tag/0.6.2)
 
 Welcome!
 
@@ -64,7 +64,7 @@ This is a Russian translation for the source port [GZDoom](https://zdoom.org/ind
 	- [*Hexen: Deathkings of the Dark Citadel*](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic#Deathkings_of_the_Dark_Citadel) (in progress)
 - [*Strife: Quest for the Sigil*](https://en.wikipedia.org/wiki/Strife_(1996_video_game)) (some extra materials are untranslated)
 
-This translation allows the user to write with all letters in both the Russian and English alphabets. GZDoom uses the [ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) codepage for fonts, and the Cyrillic alphabet becomes usable in GZDoom after adding and naming graphical characters in line with their placement in the Cyrillic codepage [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251).
+This translation allows the user to write with all letters in both the Russian and English alphabets. GZDoom uses the [ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) codepage for fonts, and the Cyrillic alphabet becomes usable in GZDoom after adding and naming graphical characters in line with their placement in the Cyrillic codepage [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251).
 
 ## Instructions:
 
@@ -77,7 +77,7 @@ Done!
 ## Notes:
 - The letter Ё is officially supported, but works incorrectly around some other letters. In this translation, the letter is used only to clarify words whose meanings would be changed without it.
 	- Example: “Игрока %o см**ё**л Крестоносец” in comparison with “Игрока %o см**е**л Крестоносец”
-- If you wish to open the language file [*language.rus*](pk3/language.rus) in the .pk3 archive, export it from the archive and open it using a code editor that supports the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) codepage, such as [Notepad++](https://notepad-plus-plus.org/download/) or [Visual Studio Code](https://code.visualstudio.com/).
+- If you wish to open the language file [*language.rus*](pk3/language.rus) in the .pk3 archive, export it from the archive and open it using a code editor that supports the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251) codepage, such as [Notepad++](https://notepad-plus-plus.org/download/) or [Visual Studio Code](https://code.visualstudio.com/).
 - The letters Ч and Я behave somewhat strangely: in *Doom* and *Strife*, they work only in uppercase when written in header texts (*bigfont.lmp in the file [*zd-extra.pk3*](https://github.com/coelckers/gzdoom/tree/master/wadsrc_extra/static)).
 	- This is due to a lack of support for lowercase variants of these letters in GZDoom’s codepage; therefore, only the uppercase is used for the aforementioned letters in bigfont strings or for the whole string as a whole.
 	- Fortunately, this does not apply to regular, small fonts; as such, they can be written freely. On the other hand, these two letters come in pairs in the archive: the letter Ч exists as both *stcfn215.lmp* and *stcfn247.lmp*, and the letter Я appears as *stcfn223.lmp* and *stcfn255.lmp*.
