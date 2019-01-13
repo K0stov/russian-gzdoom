@@ -23,14 +23,14 @@
 
 ## Инструкция:
 
-1. Скачать последнюю версию [*russian.pk3*](https://github.com/SashaTheRed/gzdoom-russian-translation/releases) и загрузить её в GZDoom
+1. Скачать последнюю версию файла [*russian.pk3*](https://github.com/SashaTheRed/gzdoom-russian-translation/releases), поместить в папку с GZDoom и загрузить в игру
 	- Если вы хотите, чтобы файл загрузился автоматически при запуске GZDoom, найдите следующий пункт в файле *gzdoom-\<пользователь\>.ini*:
 ```
 [Global.Autoload]
 ```
 Добавьте следующую строку под ним:
 ```
-Path=*путь к папке с файлом*\russian.pk3
+Path=russian.pk3
 ```
 2. После загрузки GZDoom должен использовать русский язык по умолчанию, если он является системным — если же нет, выберите его в Options → Language → Русский (RU)
 
@@ -39,8 +39,8 @@ Path=*путь к папке с файлом*\russian.pk3
 ## Примечания:
 - Буква Ё формально поддерживается, но работает некорректно среди некоторых других букв. В данном переводе она используется только для уточнения слов, смысл которых, без буквы Ё, меняется.
 	- Пример: «Игрока %o см**ё**л Крестоносец» вместо «Игрока %o см**е**л Крестоносец»
-- Если Вы желаете открыть языковой файл [*language.rus*](pk3/language.rus) в архиве .pk3, [скачайте его с репозитория](https://raw.githubusercontent.com/SashaTheRed/gzdoom-russian-translation/master/pk3/language.rus) (с помощью клавиш Ctrl + S) и откройте с редактором кода, поддерживающим кодировку [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251), например [Notepad++](https://notepad-plus-plus.org/download/) или [Visual Studio Code](https://code.visualstudio.com/).
-	- Наиболее эффективный способ отправления отредактированного языкового файла для включения в переводе — сделать pull request.
+- Если Вы желаете открыть языковой файл [*language.rus*](pk3/language.rus) для редактирования, [скачайте его с репозитория](https://raw.githubusercontent.com/SashaTheRed/gzdoom-russian-translation/master/pk3/language.rus) (с помощью клавиш Ctrl + S) и откройте с редактором кода, поддерживающим кодировку [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251), например [Notepad++](https://notepad-plus-plus.org/download/) или [Visual Studio Code](https://code.visualstudio.com/).
+	- Наиболее эффективный способ отправления отредактированного языкового файла для включения в переводе — отправить pull request.
 - Буквы Ч и Я ведут себя немного странно: в *Doom* и *Strife* они работают только в верхнем регистре при написании в заглавных шрифтах (*bigfont.lmp в файле [*zd-extra.pk3*](https://github.com/coelckers/gzdoom/tree/master/wadsrc_extra/static)).
 	- Это объясняется отсутствием поддержки строчных вариантов этих букв в кодировке GZDoom — потому в bigfont-строках будет использован верхний регистр для вышеупомянутых букв, или для всей строки целиком.
 	- К счастью, это не применяется к обычным, малым шрифтам, поэтому там можно писать свободно. Так же, эти две буквы присутствуют парами в архиве: буква Ч существует и как *stcfn215.lmp*, и как *stcfn247.lmp*, а Я — и как *stcfn223.lmp*, и как *stcfn255.lmp*.
@@ -77,14 +77,14 @@ This translation allows the user to write (nearly) all letters in both the Russi
 
 ## Instructions:
 
-1. Download the latest release version of [*russian.pk3*](https://github.com/SashaTheRed/gzdoom-russian-translation/releases) and load it in GZDoom
+1. Download the latest release version of [*russian.pk3*](https://github.com/SashaTheRed/gzdoom-russian-translation/releases), place it in the GZDoom folder and load it ingame
 	- If you wish the file to load automatically when launching GZDoom, find the following section in the file *gzdoom-\<user\>.ini*:
 ```
 [Global.Autoload]
 ```
 Copy and paste this line underneath the above section:
 ```
-Path=*path to folder with file*\russian.pk3
+Path=russian.pk3
 ```
 2. After loading, GZDoom should be set to use Russian by default if it is the system language—if not, select it under Options → Language → Русский (RU)
 
