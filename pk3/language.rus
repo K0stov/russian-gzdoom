@@ -1929,7 +1929,7 @@ HUDMNU_SCALEFULLSCREENHUD		= "Масштаб. полноэкранного интерфейса";
 HUDMNU_OLDOUCH					= "Старая формула для портрета";
 HUDMNU_HEXENFLASHES				= "Тип вспышки оружия в Hexen";
 HUDMNU_POISONFLASHES			= "Тип вспышки яда";
-HUDMNU_ICEFLASHES				= "Тип вспышки при ледяной смерти";
+HUDMNU_ICEFLASHES				= "Тип вспышки при смерти от льда";
 HUDMNU_HAZARDFLASHES			= "Тип вспышки при скоплении яда";
 HUDMNU_SCALEOPT					= "Настройки масштабирования";
 

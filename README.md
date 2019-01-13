@@ -1,11 +1,9 @@
-### [Русский](#russian)
+### [Русский](#перевод-gzdoom-на-русский-язык)
 
-### [English](#english)
+### [English](#russian-translation-for-gzdoom)
 
 # Перевод GZDoom на русский язык
 ![https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png](https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png)
-
-<a name="russian"></a>
 
 ### Текущая версия перевода: [0.6.2](https://github.com/SashaTheRed/gzdoom-russian-translation/releases/tag/0.6.2)
 
@@ -32,7 +30,7 @@
 ```
 Добавьте следующую строку под ним:
 ```
-Path=*path to file*\russian.pk3
+Path=*путь к папке с файлом*\russian.pk3
 ```
 2. После загрузки GZDoom должен использовать русский язык по умолчанию, если он является системным — если же нет, выберите его в Options → Language → Русский (RU)
 
@@ -58,8 +56,6 @@ Path=*path to file*\russian.pk3
 *Данный перевод частично основан на проекте [Russian Doom](https://github.com/JNechaevsky/russian-doom), созданном Юлианом Нечаевским, и на [переводе Strife: Quest for the Sigil](http://arc.iddqd.ru/14072015/viewtopic.php?t=5331), созданном Ameba, theleo\_ua и bed.intruder. С разрешения авторов, в моём переводе используется их творчество.*
 
 ---
-
-<a name="english"></a>
 
 # Russian translation for GZDoom
 
@@ -88,7 +84,7 @@ This translation allows the user to write (nearly) all letters in both the Russi
 ```
 Copy and paste this line underneath the above section:
 ```
-Path=*path to file*\russian.pk3
+Path=*path to folder with file*\russian.pk3
 ```
 2. After loading, GZDoom should be set to use Russian by default if it is the system language—if not, select it under Options → Language → Русский (RU)
 
