@@ -1788,7 +1788,7 @@ CNTRLMNU_LOOKDOWN				= "Смотреть вниз";
 CNTRLMNU_CENTERVIEW				= "Отцентрировать взгляд";
 CNTRLMNU_RUN					= "Бег";
 CNTRLMNU_TOGGLERUN				= "Бежать/идти";
-CNTRLMNU_STRAFE					= "Стрейф";
+CNTRLMNU_STRAFE					= "Движение боком";
 CNTRLMNU_SCOREBOARD				= "Таблица очков";
 CNTRLMNU_TOGGLESCOREBOARD		= "Таблица очков (перекл.)";
 CNTRLMNU_CHAT					= "Чат";
@@ -1839,11 +1839,11 @@ MOUSEMNU_SMOOTHMOUSE		= "Плавное перемещение";
 MOUSEMNU_TURNSPEED			= "Скорость поворота";
 MOUSEMNU_MOUSELOOKSPEED		= "Скорость обзора";
 MOUSEMNU_FORWBACKSPEED		= "Скорость передвижения";
-MOUSEMNU_STRAFESPEED		= "Скорость стрейфа";
+MOUSEMNU_STRAFESPEED		= "Скорость движения боком";
 MOUSEMNU_ALWAYSMOUSELOOK	= "Обзор мышью";
 MOUSEMNU_INVERTMOUSE		= "Инвертирование мыши";
 MOUSEMNU_LOOKSPRING			= "Передвижение мышью";
-MOUSEMNU_LOOKSTRAFE			= "Стрейф мышью";
+MOUSEMNU_LOOKSTRAFE			= "Движение боком мышью";
 
 // Joystick Menu
 
@@ -2364,7 +2364,7 @@ OPTVAL_NONE					= "Откл.";
 OPTVAL_TURNING				= "Поворот";
 OPTVAL_LOOKINGUPDOWN		= "Взгляд вверх/вниз";
 OPTVAL_MOVINGFORWARD		= "Движение вперед";
-OPTVAL_STRAFING				= "Стрейф";
+OPTVAL_STRAFING				= "Движение боком";
 OPTVAL_MOVINGUPDOWN			= "Движение вверх/вниз";
 OPTVAL_INVERTED				= "Инвертировано";
 OPTVAL_NOTINVERTED			= "Прямо";
