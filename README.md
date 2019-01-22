@@ -19,11 +19,11 @@
 	- [*Hexen: Deathkings of the Dark Citadel*](https://ru.wikipedia.org/wiki/Hexen#Deathkings_of_the_Dark_Citadel) (в разработке)
 - [*Strife: Quest for the Sigil*](https://ru.wikipedia.org/wiki/Strife) (некоторые дополнительные материалы непереведены)
 
-С этим переводом также появляется возможность использовать (почти) все русские буквы в игре и в файлах, вместе с английскими. GZDoom использует кодировку шрифтов [ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) с добавлением символов кириллицы из кодировки [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251). В игре доступны как английский, так и русский наборы символов.
+С этим переводом также появляется возможность использовать (почти) все русские буквы в игре и в файлах, вместе с английскими. GZDoom использует кодировку шрифтов [Windows 1252](https://en.wikipedia.org/wiki/Windows_1252), а перевод добавляет символы кириллицы из кодировки [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251). В игре доступны как английский, так и русский наборы символов.
 
 ## Инструкция:
 
-1. Скачать последнюю версию файла [*russian.pk3*](https://github.com/Nemrtvi/gzdoom-russian-translation/releases), поместить в папку с GZDoom и загрузить в игру
+1. Скачать последнюю версию файла [*russian.pk3*](https://github.com/Nemrtvi/gzdoom-russian-translation/releases), поместить в папку с GZDoom и перетащить файл на *gzdoom.exe*
 	- Если вы хотите, чтобы файл загрузился автоматически при запуске GZDoom, найдите следующий пункт в файле *gzdoom-\<пользователь\>.ini*:
 ```
 [Global.Autoload]
@@ -32,9 +32,11 @@
 ```
 Path=russian.pk3
 ```
-2. После загрузки GZDoom должен использовать русский язык по умолчанию, если он является системным — если же нет, выберите его в Options → Language → Русский (RU)
+2. После загрузки GZDoom должен использовать русский язык по умолчанию, если он является системным — если же нет, выберите его в **Options → Language → Русский (RU)**
 
 Готово!
+
+---
 
 ## Примечания:
 - Буква Ё формально поддерживается, но работает некорректно среди некоторых других букв. В данном переводе она используется только для уточнения слов, смысл которых, без буквы Ё, меняется.
@@ -44,8 +46,6 @@ Path=russian.pk3
 - Буквы Ч и Я ведут себя немного странно: в *Doom* и *Strife* они работают только в верхнем регистре при написании в заглавных шрифтах (*bigfont.lmp в файле [*zd-extra.pk3*](https://github.com/coelckers/gzdoom/tree/master/wadsrc_extra/static)).
 	- Это объясняется отсутствием поддержки строчных вариантов этих букв в кодировке GZDoom — потому в bigfont-строках будет использован верхний регистр для вышеупомянутых букв, или для всей строки целиком.
 	- К счастью, это не применяется к обычным, малым шрифтам, поэтому там можно писать свободно. Так же, эти две буквы присутствуют парами в архиве: буква Ч существует и как *stcfn215.lmp*, и как *stcfn247.lmp*, а Я — и как *stcfn223.lmp*, и как *stcfn255.lmp*.
-
----
 
 [Тема на форуме ZDoom](https://forum.zdoom.org/viewtopic.php?f=19&t=58872)
 
@@ -73,7 +73,7 @@ This is a Russian translation for the source port [GZDoom](https://zdoom.org/ind
 	- [*Hexen: Deathkings of the Dark Citadel*](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic#Deathkings_of_the_Dark_Citadel) (in progress)
 - [*Strife: Quest for the Sigil*](https://en.wikipedia.org/wiki/Strife_(1996_video_game)) (some extra materials are untranslated)
 
-This translation allows the user to write (nearly) all letters in both the Russian and English alphabets. GZDoom is based on the [ISO 8859-1](https://en.wikipedia.org/wiki/ISO/IEC_8859-1) encoding for fonts, and by adding Cyrillic characters based on the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251) encoding, both the English and Russian alphabets can be used ingame.
+This translation allows the user to write (nearly) all letters in both the Russian and English alphabets. GZDoom is based on the [Windows 1252](https://en.wikipedia.org/wiki/Windows_1252) encoding for fonts, and by adding Cyrillic characters based on the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251) encoding, both the English and Russian alphabets can be used ingame.
 
 ## Instructions:
 
@@ -86,20 +86,20 @@ Copy and paste this line underneath the above section:
 ```
 Path=russian.pk3
 ```
-2. After loading, GZDoom should be set to use Russian by default if it is the system language—if not, select it under Options → Language → Русский (RU)
+2. After loading, GZDoom should be set to use Russian by default if it is the system language—if not, select it under **Options → Language → Русский (RU)**
 
 Done!
 
+---
+
 ## Notes:
 - The letter Ё is officially supported, but works incorrectly around some other letters. In this translation, the letter is used only to clarify words whose meanings would be changed without it.
-	- Example: “Игрока %o см**ё**л Крестоносец” in comparison with “Игрока %o см**е**л Крестоносец”
+	- Example: “Игрока %o см**ё**л Крестоносец” compared to “Игрока %o см**е**л Крестоносец”
 - If you wish to open the language file [*language.rus*](pk3/language.rus) in the .pk3 archive, [download it from the repository](https://raw.githubusercontent.com/Nemrtvi/gzdoom-russian-translation/master/pk3/language.rus) (using the keys Ctrl + S) and open it using a code editor that supports the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251) encoding, such as [Notepad++](https://notepad-plus-plus.org/download/) or [Visual Studio Code](https://code.visualstudio.com/).
 	- The most efficient way of contributing an edited language file to the translation is to make a pull request.
 - The letters Ч and Я behave somewhat strangely: in *Doom* and *Strife*, they work only in uppercase when written in header texts (*bigfont.lmp in the file [*zd-extra.pk3*](https://github.com/coelckers/gzdoom/tree/master/wadsrc_extra/static)).
 	- This is due to a lack of support for lowercase variants of these letters in GZDoom’s encoding; therefore, only the uppercase is used for the aforementioned letters in bigfont strings or for the whole string as a whole.
 	- Fortunately, this does not apply to regular, small fonts; as such, they can be written freely. On the other hand, these two letters come in pairs in the archive: the letter Ч exists as both *stcfn215.lmp* and *stcfn247.lmp*, and the letter Я appears as *stcfn223.lmp* and *stcfn255.lmp*.
-
----
 
 [ZDoom forum topic](https://forum.zdoom.org/viewtopic.php?f=19&t=58872)
 

@@ -1608,7 +1608,7 @@ TXT_RANDOM_BEGGAR_01 = "У тебя не найдется мелочи для бедняка?";
 TXT_RANDOM_BEGGAR_02 = "На что уставился, незнакомец?";
 TXT_RANDOM_BEGGAR_03 = "У тебя случайно не найдется немного лишней еды?";
 TXT_RANDOM_BEGGAR_04 = "Вы, люди с поверхности, никогда не поймете нас.";
-TXT_RANDOM_BEGGAR_05 = "Ха, стражники не могут найти нас. Это дураки даже не знают, что мы существуем.";
+TXT_RANDOM_BEGGAR_05 = "Ха, стражники не могут найти нас. Эти дураки даже не знают, что мы существуем.";
 TXT_RANDOM_BEGGAR_06 = "Наступит день, когда все, кроме слуг Ордена, будут вынуждены присоединиться к нам.";
 TXT_RANDOM_BEGGAR_07 = "Смотри сколько влезет, но знай, что когда-нибудь так будет выглядеть и твое лицо.";
 TXT_RANDOM_BEGGAR_08 = "Ничто так не выводит из себя, как болтун с поверхности!";
@@ -2129,7 +2129,7 @@ GMPLYMNU_WEAPONSSTAY		= "Оставлять оружие после подбора";
 GMPLYMNU_ALLOWPOWERUPS		= "Разрешить бонусы";
 GMPLYMNU_ALLOWHEALTH		= "Разрешить бонусы к здоровью";
 GMPLYMNU_ALLOWARMOR			= "Разрешить броню";
-GMPLYMNU_SPAWNFARTHEST		= "Спаун подальше от остальных";
+GMPLYMNU_SPAWNFARTHEST		= "Восстановление подальше от остальных";
 GMPLYMNU_SAMEMAP			= "Зациклить уровень";
 GMPLYMNU_FORCERESPAWN		= "Моментальное восстановление";
 GMPLYMNU_ALLOWEXIT			= "Разрешить выход";
@@ -2147,7 +2147,7 @@ GMPLYMNU_KEEPARMOR			= "Сохранять броню";
 GMPLYMNU_KEEPPOWERUPS		= "Сохранять супер-бонусы";
 GMPLYMNU_KEEPAMMO			= "Сохранять патроны";
 GMPLYMNU_LOSEHALFAMMO		= "Терять половину патронов";
-GMPLYMNU_SPAWNWHEREDIED		= "Воскрешение на мести смерти";
+GMPLYMNU_SPAWNWHEREDIED		= "Восстановление на месте смерти";
 
 // Compatibility Options
 CMPTMNU_TITLE				= "НАСТРОЙКИ СОВМЕСТИМОСТИ";
