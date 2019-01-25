@@ -1738,11 +1738,11 @@ OPTMNU_CONTROLS				= "Управление";
 OPTMNU_MOUSE				= "Мышь";
 OPTMNU_JOYSTICK				= "Джойстик";
 OPTMNU_PLAYER				= "Игрок";
-OPTMNU_GAMEPLAY				= "Настройки игры";
+OPTMNU_GAMEPLAY				= "Геймплей";
 OPTMNU_COMPATIBILITY		= "Совместимость";
 OPTMNU_AUTOMAP				= "Автокарта";
 OPTMNU_HUD					= "HUD";
-OPTMNU_MISCELLANEOUS		= "Дополнительные настройки";
+OPTMNU_MISCELLANEOUS		= "Дополнительно";
 OPTMNU_NETWORK				= "Сеть";
 OPTMNU_SOUND				= "Звук";
 OPTMNU_DISPLAY				= "Экран";
@@ -2093,7 +2093,7 @@ SCRBRDMNU_DEATHMATCH		= "Настройки Deathmatch";
 SCRBRDMNU_TEAMDEATHMATCH	= "Настройки командного Deathmatch";
 
 // Gameplay Menu
-GMPLYMNU_TITLE				= "НАСТРОЙКИ ИГРЫ";
+GMPLYMNU_TITLE				= "НАСТРОЙКИ ГЕЙМПЛЕЯ";
 GMPLYMNU_TEAMPLAY			= "Командный режим";
 GMPLYMNU_TEAMDAMAGE			= "Множитель урона по своим";
 GMPLYMNU_SMARTAUTOAIM		= "Умное автоприцеливание";
@@ -2114,7 +2114,7 @@ GMPLYMNU_NOAUTOAIM			= "Разрешить автоприцеливание";
 GMPLYMNU_ALLOWSUICIDE		= "Разрешить суицид";
 GMPLYMNU_ALLOWJUMP			= "Прыжки";
 GMPLYMNU_ALLOWCROUCH		= "Приседание";
-GMPLYMNU_ALLOWFREELOOK		= "Обзор мыши";
+GMPLYMNU_ALLOWFREELOOK		= "Обзор мышью";
 GMPLYMNU_ALLOWFOV			= "Разрешить изменение FOV";
 GMPLYMNU_BFGFREEAIM			= "Разрешить прицеливание с BFG";
 GMPLYMNU_ALLOWAUTOMAP		= "Разрешить использование автокарты";
@@ -2212,8 +2212,8 @@ SNDMNU_BACKEND			= "Звуковая система";
 SNDMNU_OPENAL			= "Настройки OpenAL";
 SNDMNU_RESTART			= "Перезапустить звук";
 SNDMNU_ADVANCED			= "Расширенные настройки";
-SNDMNU_MODREPLAYER		= "Параметры модуля воспроизведениЯ";
-SNDMNU_MIDIPLAYER		= "Настройки Midi-проигрывателЯ";
+SNDMNU_MODREPLAYER		= "ПАРАМЕТРЫ МОДУЛЯ ВОСПРОИЗВЕДЕНИЯ";
+SNDMNU_MIDIPLAYER		= "НАСТРОЙКИ MIDI-ПРОИГРЫВАТЕЛЯ";
 
 // OpenAL Options
 OPENALMNU_TITLE				= "НАСТРОЙКИ OPENAL";
@@ -2222,7 +2222,7 @@ OPENALMNU_ENABLEEFX			= "Включить EFX";
 OPENALMNU_RESAMPLER			= "Ресемплер";
 
 // Advanced Sound Options
-ADVSNDMNU_TITLE				= "Дополнительные настройки";
+ADVSNDMNU_TITLE				= "РАСШИРЕННЫЕ НАСТРОЙКИ";
 ADVSNDMNU_SAMPLERATE		= "Частота дискретизации";
 ADVSNDMNU_HRTF				= "HRTF";
 ADVSNDMNU_OPLSYNTHESIS		= "Синтез OPL";
@@ -2288,7 +2288,7 @@ RNDMNU_TITLE			= "СМЕНИТЬ РЕНДЕРЕР";
 RNDMNU_RENDERER			= "Аппаратное ускорение";
 RNDMNU_TRUECOLOR		= "Полноцветный програмный";
 RNDMNU_POLY			 	= "Поли-рендерер (экспериментальный)";
-RNDMNU_CANVAS			= "Canvas для программного рендеринга";
+RNDMNU_CANVAS			= "Холст для программного рендеринга";
 
 // Video Options
 VIDMNU_TITLE			= "ВИДЕОРЕЖИМ";
