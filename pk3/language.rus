@@ -35,7 +35,7 @@ QUITMSG14 = "Тебе повезло, что я не вмажу тебе\nза то, что ты выходишь.";
 QUITMSG15 = "Куда ты собрался?\nА как же восстание?!";
 QUITMSG16 = "Резня прекращается...\nНа самом интересном месте!";
 QUITMSG17 = "Но на тебя вся надежда —\nты мой единственный шанс!";
-QUITMSG18 = "Никто не бросает Дрозда.";
+QUITMSG18 = "Никто не бросает Птицу.";
 QUITMSG19 = "Я думала, ты другой...";
 QUITMSG20 = "Отлично! Пострелял и смылся!";
 QUITMSG21 = "Ты можешь уйти...\nно не можешь спрятаться...";
@@ -1486,9 +1486,9 @@ TXT_QUEST_27 = "Компьютер взорван";
 TXT_KILLED_BISHOP = "Епископ убит!";
 TXT_KILLED_ORACLE = "Оракл убит!";
 TXT_KILLED_MACIL = "Мэйсил убит!";
-TXT_KILLED_LOREMASTER = "Хранитель Знания убит!";
+TXT_KILLED_LOREMASTER = "Хранитель Мудрости убит!";
 
-TXT_YOUFOOL = "Придурок. Ты сигнализацию включил!";
+TXT_YOUFOOL = "Придурок. Ты включил сигнализацию!";
 TXT_YOUREDEAD = "Считай, ты мертв; ты включил сигнализацию.";
 
 // Strife pickup messages
@@ -1507,7 +1507,7 @@ TXT_SHADOWARMOR = "Получена теневая броня.";
 TXT_ENVSUIT = "Получен защитный костюм.";
 TXT_GUARDUNIFORM = "Получена униформа стражника.";
 TXT_OFFICERSUNIFORM = "Получена униформа офицера.";
-TXT_FTHROWERPARTS = "Подобраны запчасти для огнемета.";
+TXT_FTHROWERPARTS = "Получены запчасти для огнемета.";
 TXT_REPORT = "Получен отчет.";
 TXT_INFO = "Получена сводка.";
 TXT_TARGETER = "Получен прицел.";
@@ -1558,15 +1558,15 @@ TXT_NEWKEY5 = "Получен новый ключ 5.";
 TXT_ORACLEPASS = "Получен пропуск оракула.";
 
 TXT_HEGRENADES = "Получена связка гранат.";
-TXT_PHGRENADES = "Получена связка зажигательных гранат.";
+TXT_PHGRENADES = "Получена связка фосфорных гранат.";
 TXT_CLIPOFBULLETS = "Получена обойма пуль.";
 TXT_BOXOFBULLETS = "Получена коробка пуль.";
-TXT_MINIMISSILES = "Подобраны мини-ракеты.";
+TXT_MINIMISSILES = "Получены мини-ракеты.";
 TXT_CRATEOFMISSILES = "Получен ящик мини-ракет.";
 TXT_ENERGYPOD = "Получена энергоячейка.";
 TXT_ENERGYPACK = "Получен энергоблок.";
-TXT_POISONBOLTS = "Подобраны отравленные стрелы.";
-TXT_ELECTRICBOLTS = "Подобраны шоковые стрелы.";
+TXT_POISONBOLTS = "Получены ядовитые болты.";
+TXT_ELECTRICBOLTS = "Получены электрические болты.";
 TXT_AMMOSATCHEL = "Получен амуничный рюкзак.";
 
 // Random dialogs
@@ -1679,10 +1679,10 @@ CSKILL_HARD			= "Экстремальная грязь";
 CSKILL_NIGHTMARE	= "Сверхсклизский!";
 
 SSKILL_BABY			= "Разминка";
-SSKILL_EASY			= "Рекрут";
+SSKILL_EASY			= "Новичок";
 SSKILL_NORMAL		= "Ветеран";
-SSKILL_HARD			= "Военспец";
-SSKILL_NIGHTMARE	= "Крововая баня";
+SSKILL_HARD			= "Элита";
+SSKILL_NIGHTMARE	= "Кровавая бойня";
 
 MNU_WETNURSE		= "Нянечка надобна мне";
 MNU_YELLOWBELLIES	= "Не столь мужественен я";
@@ -1871,7 +1871,7 @@ PLYRMNU_SEEBACK			= "\nПовернуть";
 
 // Display Options
 DSPLYMNU_TITLE					= "НАСТРОЙКИ ЭКРАНА";
-DSPLYMNU_SCOREBOARD				= "Настройки таблицы очков";
+DSPLYMNU_SCOREBOARD				= "Таблица очков";
 DSPLYMNU_SCREENSIZE				= "Размер экрана";
 DSPLYMNU_BRIGHTNESS				= "Яркость";
 DSPLYMNU_VSYNC					= "Вертикальная синхронизация";
@@ -1934,7 +1934,7 @@ HUDMNU_HAZARDFLASHES			= "Тип вспышки при скоплении яда";
 HUDMNU_SCALEOPT					= "Настройки масштабирования";
 
 // Scaling options
-SCALEMNU_TITLE					= "Настройки МасштабированиЯ";
+SCALEMNU_TITLE					= "НАСТРОЙКИ МАСШТАБИРОВАНИЯ";
 SCALEMNU_OVERRIDE				= "Задать специальные настройки";
 SCALEMNU_MESSAGES 				= "Сообщения";
 SCALEMNU_CONSOLE				= "Консоль";
@@ -1998,7 +1998,7 @@ AUTOMAPMNU_TITLE				= "Настройки автокарты";
 AUTOMAPMNU_COLORSET				= "Цвета автокарты";
 AUTOMAPMNU_CUSTOMCOLORS			= "Настроить цвета автокарты";
 AUTOMAPMNU_SETCUSTOMCOLORS		= "Выбор цветов";
-AUTOMAPMNU_CONTROLS				= "Настроить управление";
+AUTOMAPMNU_CONTROLS				= "Управление";
 AUTOMAPMNU_ROTATE				= "Вращающаяся автокарта";
 AUTOMAPMNU_OVERLAY				= "Прозрачная автокарта";
 AUTOMAPMNU_TEXTURED				= "Текстуры на автокарте";
@@ -2048,12 +2048,12 @@ MAPCOLORMNU_NOTSEENCOLOR 				= "Необнаруженные стены";
 MAPCOLORMNU_LOCKEDCOLOR 				= "Запертые двери";
 MAPCOLORMNU_INTRALEVELCOLOR				= "Телепорт в пределах уровня";
 MAPCOLORMNU_INTERLEVELCOLOR 			= "Телепорт на другой уровень";
-MAPCOLORMNU_SECRETSECTORCOLOR 			= "Тайникный сектор";
+MAPCOLORMNU_SECRETSECTORCOLOR 			= "Тайный сектор";
 MAPCOLORMNU_UNEXPLOREDSECRETCOLOR 		= "Необнаруженный тайник";
 MAPCOLORMNU_SPECIALWALLCOLOR			= "Специальные триггер-линии";
 MAPCOLORMNU_CHEATMODE					= "Чит-режим";
 MAPCOLORMNU_TSWALLCOLOR					= "Невидимые двусторонние стены";
-MAPCOLORMNU_SECRETWALLCOLOR				= "Тайникные стены";
+MAPCOLORMNU_SECRETWALLCOLOR				= "Тайные стены";
 MAPCOLORMNU_THINGCOLOR					= "Объекты";
 MAPCOLORMNU_MONSTERCOLOR				= "Монстры";
 MAPCOLORMNU_NONCOUNTINGMONSTERCOLOR 	= "Неучитываемые монстры";
@@ -2291,7 +2291,7 @@ RNDMNU_POLY			 	= "Поли-рендерер (экспериментальный)";
 RNDMNU_CANVAS			= "Холст для программного рендеринга";
 
 // Video Options
-VIDMNU_TITLE			= "ВИДЕОРЕЖИМ";
+VIDMNU_TITLE			= "НАСТРОЙКИ ВИДЕОРЕЖИМА";
 VIDMNU_RENDERMODE		= "Режим рендеринга";
 VIDMNU_FULLSCREEN		= "Полный экран";
 VIDMNU_HIDPI			= "Поддержка Retina/HiDPI";
@@ -2311,8 +2311,8 @@ VIDMNU_CUSTOMX			= "Польз. Длина";
 VIDMNU_CUSTOMY			= "Польз. Высота";
 VIDMNU_APPLYW			= "Сохранить Изменения (Оконный Режим)";
 VIDMNU_APPLYFS			= "Сохранить Изменения (Полный Экран)";
-VIDMNU_RESPRESET		= "Выбрать разрешение";
-VIDMNU_RESPRESETTTL		= "Задать разрешение";
+VIDMNU_RESPRESET		= "Выбор пресета разрешения";
+VIDMNU_RESPRESETTTL		= "ПОЛЬЗОВАТЕЛЬСКИЕ ПРЕСЕТЫ РАЗРЕШЕНИЯ";
 VIDMNU_RESPRESETHEAD	= "Доступные разрешения";
 VIDMNU_ASPECT43			= "4:3";
 VIDMNU_ASPECT54			= "5:4";
@@ -2477,7 +2477,7 @@ OPTVAL_GENSOPN2				= "GENS YM2612";
 OPTVAL_SOUNDSYSTEM			= "Аудиосистема";
 OPTVAL_FOO_DUMB				= "foo_dumb";
 OPTVAL_ALIASING				= "Алиасинг";
-OPTVAL_LINEAR				= "Линейное/ая";
+OPTVAL_LINEAR				= "Линейный/ое/ая";
 OPTVAL_NEAREST				= "Ближайший";
 OPTVAL_PCF_LOW				= "PCF (Низкий)";
 OPTVAL_PCF_MEDIUM			= "PCF (Средний)";
@@ -2508,8 +2508,8 @@ OPTVAL_SWPOLYTC				= "Полноцветный полирендер";
 OPTVAL_DEDICATED			= "Высокая производительность";
 OPTVAL_INTEGRATED			= "Энергосбережение";
 OPTVAL_VANILLA				= "Ванильный";
-OPTVAL_VTFZDOOM				= "ZDoom (форсировано)";
-OPTVAL_VTFVANILLA			= "Vanilla (форсировано)";
+OPTVAL_VTFZDOOM				= "ZDoom (форсирована)";
+OPTVAL_VTFVANILLA			= "Vanilla (форсирована)";
 OPTVAL_VTAZDOOM				= "Auto (предпочитать ZDoom)";
 OPTVAL_VTAVANILLA			= "Auto (предпочитать Preferred)";
 OPTVAL_SCALENEAREST			= "Масштаб. (Nearest)";
@@ -2789,7 +2789,7 @@ DSPLYMNU_HWGAMMA	= "Аппаратная гамма";
 
 // OpenGL Options
 GLMNU_TITLE		= "НАСТРОЙКИ OPENGL";
-GLMNU_DYNLIGHT	= "Настройки динамического освещения";
+GLMNU_DYNLIGHT	= "Динамическое освещение";
 GLMNU_TEXOPT	= "Настройки текстур";
 GLMNU_PREFS		= "Предпочтения";
 
@@ -2811,8 +2811,8 @@ GLTEXMNU_TRIMSPREDGE	= "Обрезание краев спрайтов";
 GLTEXMNU_SORTDRAWLIST 	= "Сортировать списки текстур";
 
 // Dynamic Light Options
-GLLIGHTMNU_TITLE					= "ДИНАМИЧЕСКИЙ СВЕТ";
-GLLIGHTMNU_LIGHTSENABLED			= "Динамический свет (OpenGL)";
+GLLIGHTMNU_TITLE					= "ДИНАМИЧЕСКОЕ ОСВЕЩЕНИЕ";
+GLLIGHTMNU_LIGHTSENABLED			= "Динамическое освещение (OpenGL)";
 GLLIGHTMNU_LIGHTDEFS				= "Включить определения света";
 GLLIGHTMNU_CLIPLIGHTS				= "Обрезать свет";
 GLLIGHTMNU_LIGHTSPRITES				= "Освещение спрайтов";
@@ -2937,7 +2937,7 @@ OPTVAL_EXTREME				= "Крайний";
 OPTVAL_OBVERSEFIRST			= "Лицевой";
 OPTVAL_REVERSEFIRST			= "Обратный";
 
-DSPLYMNU_TCOPT		= "Настройки полноцветности";
+DSPLYMNU_TCOPT		= "Полноцветность";
 
 TCMNU_TITLE		= "НАСТРОЙКИ ПОЛНОЦВЕТНОСТИ";
 
@@ -2945,7 +2945,7 @@ TCMNU_TRUECOLOR				= "Полноцветный вывод";
 TCMNU_MINFILTER				= "Линейная фильтрация при уменьшении";
 TCMNU_MAGFILTER				= "Линейная фильтрация при увеличении";
 TCMNU_MIPMAP					= "Использовать мип-маппинг";
-TCMNU_DYNLIGHTS				= "Динамический свет (программный)";
+TCMNU_DYNLIGHTS				= "Динамическое освещение (программное)";
 
 // SVE strings:
 
