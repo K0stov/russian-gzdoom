@@ -1,7 +1,7 @@
 ### [Русский](#перевод-gzdoom-на-русский-язык)
 ### Текущая версия перевода: [0.7.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.7.0)
 
-### [English](#russian-translation-for-gzdoom)
+### [English](#russian-translation-of-gzdoom)
 ### Current translation version: [0.7.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.7.0)
 
 ## Перевод GZDoom на русский язык
