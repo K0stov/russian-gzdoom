@@ -879,6 +879,9 @@ STARTUP3 = "";
 STARTUP4 = "";
 STARTUP5 = "";
 
+// Save file comment
+SAVECOMMENT_TIME = "время";
+
 // Таблица очков
 SCORE_ITEMS = "Предметы";
 SCORE_BONUS = "Бонус";
@@ -1479,6 +1482,8 @@ TXT_DOES_NOT_WORK = "Похоже, это не работает";
 
 // Strife Quest messages
 
+TXT_FINDHELP = "НАЙДИ ПОМОЩЬ";
+
 TXT_QUEST_14 = "Кристалл взорван";
 TXT_QUEST_16 = "Ворота взорваны";
 TXT_QUEST_27 = "Компьютер взорван";
@@ -1488,8 +1493,8 @@ TXT_KILLED_ORACLE = "Оракл убит!";
 TXT_KILLED_MACIL = "Мэйсил убит!";
 TXT_KILLED_LOREMASTER = "Хранитель Мудрости убит!";
 
-TXT_YOUFOOL = "Придурок. Ты включил сигнализацию!";
-TXT_YOUREDEAD = "Считай, ты мертв; ты включил сигнализацию.";
+TXT_YOUFOOL = "Глупец. Ты включил сигнализацию!";
+TXT_YOUREDEAD = "Ты поднял тревогу! Готовься к смерти!";
 
 // Strife pickup messages
 
@@ -2306,7 +2311,7 @@ VIDMNU_ENTERTEXT		= "Нажмите ENTER для установки режима";
 VIDMNU_TESTTEXT1		= "T для просмотра режима в течение 5 секунд";
 VIDMNU_TESTTEXT2		= "Пожалуйста, подождите 5 секунд...";
 VIDMNU_USELINEAR		= "Линейное Масшт. (Полный Экран)";
-VIDMNU_CUSTOMRES		= "Пользовательское разрешение";
+VIDMNU_CUSTOMRES		= "Масштаб. пикселов";
 VIDMNU_CUSTOMX			= "Польз. Длина";
 VIDMNU_CUSTOMY			= "Польз. Высота";
 VIDMNU_APPLYW			= "Сохранить Изменения (Оконный Режим)";
@@ -2565,7 +2570,7 @@ NOTSET				= "Не задан";
 SAFEMESSAGE			= "Вы уверены?";
 MNU_COLORPICKER		= "Выбор цветов";
 
-WI_FINISHED			= "завершен";
+WI_FINISHED			= "Уровень завершен";
 WI_ENTERING			= "Загружается уровень:";
 
 AM_MONSTERS			= "Монстры:";

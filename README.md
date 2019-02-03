@@ -36,7 +36,17 @@ Path=russian.pk3
 
 Готово!
 
+### Дополнения
+
+(загружаются после главного файла)
+
+- Русская озвучка *Hexen: Beyond Heretic* ([Пример](https://www.youtube.com/watch?v=X0qw1KC07LU))
+	1. [с качеством оригинальной игры](https://www.dropbox.com/s/psieluqgootdwho/rus_hexen_voice.pk3?dl=1)
+	2. [с высоким качеством](https://www.dropbox.com/s/46r5ugr6zidklqf/rus_hexen_voice_hq.pk3?dl=1)
+- [Русская озвучка *Strife: Quest for the Sigil*](https://forum.zdoom.org/viewtopic.php?f=46&t=63476) (**в процессе разработки**)
+
 ### Примечания
+
 - Буква Ё формально поддерживается, но работает некорректно среди некоторых других букв. В данном переводе она используется только для уточнения слов, смысл которых, без буквы Ё, меняется.
 	- Пример: «Игрока %o см**ё**л Крестоносец» вместо «Игрока %o см**е**л Крестоносец»
 - Если Вы желаете открыть языковой файл [*language.rus*](pk3/language.rus) для редактирования, [скачайте его с репозитория](https://raw.githubusercontent.com/Nemrtvi/gzdoom-russian-translation/master/pk3/language.rus) (с помощью клавиш Ctrl + S) и откройте с редактором кода, поддерживающим кодировку [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251), например [Notepad++](https://notepad-plus-plus.org/download/) или [Visual Studio Code](https://code.visualstudio.com/).
@@ -86,7 +96,17 @@ Path=russian.pk3
 
 Done!
 
+### Addons
+
+(loaded after the main file)
+
+- Russian voiceover for *Hexen: Beyond Heretic* ([Example](https://www.youtube.com/watch?v=X0qw1KC07LU))
+	1. [with quality of the original game](https://www.dropbox.com/s/psieluqgootdwho/rus_hexen_voice.pk3?dl=1)
+	2. [with high quality](https://www.dropbox.com/s/46r5ugr6zidklqf/rus_hexen_voice_hq.pk3?dl=1)
+- [Russian voiceover for *Strife: Quest for the Sigil*](https://forum.zdoom.org/viewtopic.php?f=46&t=63476) (**work in progress**)
+
 ### Notes
+
 - The letter Ё is officially supported, but works incorrectly around some other letters. In this translation, the letter is used only to clarify words whose meanings would be changed without it.
 	- Example: “Игрока %o см**ё**л Крестоносец” compared to “Игрока %o см**е**л Крестоносец”
 - If you wish to open the language file [*language.rus*](pk3/language.rus) in the .pk3 archive, [download it from the repository](https://raw.githubusercontent.com/Nemrtvi/gzdoom-russian-translation/master/pk3/language.rus) (using the keys Ctrl + S) and open it using a code editor that supports the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251) encoding, such as [Notepad++](https://notepad-plus-plus.org/download/) or [Visual Studio Code](https://code.visualstudio.com/).
