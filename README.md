@@ -9,10 +9,10 @@
 
 ## Приветствую!
 
-Это — русский перевод для движка [GZDoom](https://zdoom.org/index). Перевод всё ещё находится в разработке и поддерживает следующие игры:
+Это — допонительный проект для русского перевода движка [GZDoom](https://zdoom.org/index). Проект предназначен для загрузки вместе с GZDoom при использовании русского языка. Поддерживаются следующие игры:
 - [*The Ultimate DOOM*](https://ru.wikipedia.org/wiki/Doom_(игра,_1993))
 - [*DOOM II: Hell on Earth*](https://ru.wikipedia.org/wiki/Doom_II:_Hell_on_Earth)
-	- [*Final DOOM*](https://ru.wikipedia.org/wiki/Final_Doom) (Оба эпизода)
+	- [*Final DOOM*](https://ru.wikipedia.org/wiki/Final_Doom) (оба эпизода)
 - [*Freedoom*](https://freedoom.github.io/) (в разработке)
 - [*Heretic: Shadow of the Serpent Riders*](https://ru.wikipedia.org/wiki/Heretic)
 - [*Hexen: Beyond Heretic*](https://ru.wikipedia.org/wiki/Hexen)
@@ -54,10 +54,10 @@
 
 ## Welcome!
 
-This is a Russian translation of the source port [GZDoom](https://zdoom.org/index). The translation is still a work in progress and supports the following games:
+This is an extension of the Russian translation in [GZDoom](https://zdoom.org/index). This project is meant to be loaded alongside GZDoom when using the Russian language. The following games are supported:
 - [*The Ultimate DOOM*](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
 - [*DOOM II: Hell on Earth*](https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth)
-	- [*Final DOOM*](https://en.wikipedia.org/wiki/Final_Doom) (Both episodes)
+	- [*Final DOOM*](https://en.wikipedia.org/wiki/Final_Doom) (both episodes)
 - [*Freedoom*](https://freedoom.github.io/) (in progress)
 - [*Heretic: Shadow of the Serpent Riders*](https://en.wikipedia.org/wiki/Heretic)
 - [*Hexen: Beyond Heretic*](https://en.wikipedia.org/wiki/Hexen)
