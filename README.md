@@ -1,13 +1,13 @@
 ### [Русский](#перевод-gzdoom-на-русский-язык)
-### Текущая версия перевода: [0.7.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.7.0)
+### Текущая версия перевода: [0.8.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.8.0)
 
 ### [English](#russian-translation-of-gzdoom)
-### Current translation version: [0.7.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.7.0)
+### Current translation version: [0.8.0](https://github.com/Nemrtvi/gzdoom-russian-translation/releases/tag/0.8.0)
 
-## Перевод GZDoom на русский язык
+# Перевод GZDoom на русский язык
 ![https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png](https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png)
 
-### Приветствую!
+## Приветствую!
 
 Это — русский перевод для движка [GZDoom](https://zdoom.org/index). Перевод всё ещё находится в разработке и поддерживает следующие игры:
 - [*The Ultimate DOOM*](https://ru.wikipedia.org/wiki/Doom_(игра,_1993))
@@ -16,27 +16,18 @@
 - [*Freedoom*](https://freedoom.github.io/) (в разработке)
 - [*Heretic: Shadow of the Serpent Riders*](https://ru.wikipedia.org/wiki/Heretic)
 - [*Hexen: Beyond Heretic*](https://ru.wikipedia.org/wiki/Hexen)
-	- [*Hexen: Deathkings of the Dark Citadel*](https://ru.wikipedia.org/wiki/Hexen#Deathkings_of_the_Dark_Citadel) (в разработке)
+	- [*Hexen: Deathkings of the Dark Citadel*](https://ru.wikipedia.org/wiki/Hexen#Deathkings_of_the_Dark_Citadel)
 - [*Strife: Quest for the Sigil*](https://ru.wikipedia.org/wiki/Strife) (некоторые дополнительные материалы непереведены)
 
-С этим переводом также появляется возможность использовать (почти) все русские буквы в игре и в файлах, вместе с английскими. GZDoom использует кодировку шрифтов [Windows-1252](https://en.wikipedia.org/wiki/Windows_1252), а перевод добавляет символы кириллицы из кодировки [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251). В игре доступны как английский, так и русский наборы символов.
+## Инструкция
 
-### Инструкция
+1. Скачать и загрузить последнюю версию файла [*russian.pk3*](https://github.com/Nemrtvi/gzdoom-russian-translation/releases)
 
-1. Скачать последнюю версию файла [*russian.pk3*](https://github.com/Nemrtvi/gzdoom-russian-translation/releases), поместить в папку с GZDoom и перетащить файл на *gzdoom.exe*
-	- Если вы хотите, чтобы файл загрузился автоматически при запуске GZDoom, найдите следующий пункт в файле *gzdoom-\<пользователь\>.ini*:
-```
-[Global.Autoload]
-```
-Добавьте следующую строку под ним:
-```
-Path=russian.pk3
-```
 2. После загрузки GZDoom должен использовать русский язык по умолчанию, если он является системным — если же нет, выберите его в **Options → Language → Русский (RU)**
 
 Готово!
 
-### Дополнения
+## Дополнения
 
 (загружаются после главного файла)
 
@@ -45,17 +36,12 @@ Path=russian.pk3
 	2. [с высоким качеством](https://www.dropbox.com/s/46r5ugr6zidklqf/rus_hexen_voice_hq.pk3?dl=1)
 - [Русская озвучка *Strife: Quest for the Sigil*](https://forum.zdoom.org/viewtopic.php?f=46&t=63476) (**в процессе разработки**)
 
-### Примечания
+## Примечание
 
-- Буква Ё формально поддерживается, но работает некорректно среди некоторых других букв. В данном переводе она используется только для уточнения слов, смысл которых, без буквы Ё, меняется.
-	- Пример: «Игрока %o см**ё**л Крестоносец» вместо «Игрока %o см**е**л Крестоносец»
-- Если Вы желаете открыть языковой файл [*language.rus*](pk3/language.rus) для редактирования, [скачайте его с репозитория](https://raw.githubusercontent.com/Nemrtvi/gzdoom-russian-translation/master/pk3/language.rus) (с помощью клавиш Ctrl + S) и откройте с редактором кода, поддерживающим кодировку [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251), например [Notepad++](https://notepad-plus-plus.org/download/) или [Visual Studio Code](https://code.visualstudio.com/).
-	- Наиболее эффективный способ отправления отредактированного языкового файла для включения в переводе — отправить pull request.
-- Буквы Ч и Я ведут себя немного странно: в *Doom* и *Strife* они работают только в верхнем регистре при написании в заглавных шрифтах (*bigfont.lmp в файле [*zd-extra.pk3*](https://github.com/coelckers/gzdoom/tree/master/wadsrc_extra/static)).
-	- Это объясняется отсутствием поддержки строчных вариантов этих букв в кодировке GZDoom — потому в bigfont-строках будет использован верхний регистр для вышеупомянутых букв, или для всей строки целиком.
-	- К счастью, это не применяется к обычным, малым шрифтам, поэтому там можно писать свободно. Так же, эти две буквы присутствуют парами в архиве: буква Ч существует и как *stcfn215.lmp*, и как *stcfn247.lmp*, а Я — и как *stcfn223.lmp*, и как *stcfn255.lmp*.
+Если Вы желаете открыть языковой файл [*language.rus*](pk3/language.rus) для редактирования, [скачайте его с репозитория](https://raw.githubusercontent.com/Nemrtvi/gzdoom-russian-translation/master/pk3/language.rus) (с помощью клавиш Ctrl + S) и откройте с редактором кода, поддерживающим кодировку [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251), например [Notepad++](https://notepad-plus-plus.org/download/) или [Visual Studio Code](https://code.visualstudio.com/).
+- Наиболее эффективный способ отправления отредактированного языкового файла для включения в переводе — отправить pull request.
 
-### Прочее
+## Прочее
 
 [Тема на форуме ZDoom](https://forum.zdoom.org/viewtopic.php?f=19&t=58872)
 
@@ -65,9 +51,9 @@ Path=russian.pk3
 
 *Данный перевод частично основан на проекте [Russian Doom](https://github.com/JNechaevsky/russian-doom), созданном Юлианом Нечаевским, и на [переводе Strife: Quest for the Sigil](http://arc.iddqd.ru/14072015/viewtopic.php?t=5331), созданном Ameba, theleo\_ua и bed.intruder. С разрешения авторов, в моём переводе используется их творчество.*
 
-## Russian translation of GZDoom
+# Russian translation of GZDoom
 
-### Welcome!
+## Welcome!
 
 This is a Russian translation of the source port [GZDoom](https://zdoom.org/index). The translation is still a work in progress and supports the following games:
 - [*The Ultimate DOOM*](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
@@ -76,27 +62,18 @@ This is a Russian translation of the source port [GZDoom](https://zdoom.org/inde
 - [*Freedoom*](https://freedoom.github.io/) (in progress)
 - [*Heretic: Shadow of the Serpent Riders*](https://en.wikipedia.org/wiki/Heretic)
 - [*Hexen: Beyond Heretic*](https://en.wikipedia.org/wiki/Hexen)
-	- [*Hexen: Deathkings of the Dark Citadel*](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic#Deathkings_of_the_Dark_Citadel) (in progress)
+	- [*Hexen: Deathkings of the Dark Citadel*](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic#Deathkings_of_the_Dark_Citadel)
 - [*Strife: Quest for the Sigil*](https://en.wikipedia.org/wiki/Strife_(1996_video_game)) (some extra materials are untranslated)
 
-This translation allows the user to write (nearly) all letters in both the Russian and English alphabets. GZDoom is based on the [Windows-1252](https://en.wikipedia.org/wiki/Windows_1252) encoding for fonts, and by adding Cyrillic characters based on the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251) encoding, both the English and Russian alphabets can be used ingame.
+## Instructions
 
-### Instructions
+1. Download and load the latest release version of [*russian.pk3*](https://github.com/Nemrtvi/gzdoom-russian-translation/releases) in GZDoom
 
-1. Download the latest release version of [*russian.pk3*](https://github.com/Nemrtvi/gzdoom-russian-translation/releases), place it in the GZDoom folder and load it ingame
-	- If you wish the file to load automatically when launching GZDoom, find the following section in the file *gzdoom-\<user\>.ini*:
-```
-[Global.Autoload]
-```
-Copy and paste this line underneath the above section:
-```
-Path=russian.pk3
-```
-2. After loading, GZDoom should be set to use Russian by default if it is the system language—if not, select it under **Options → Language → Русский (RU)**
+2. After loading, GZDoom should be set to use Russian by default if it is the system language—if not, select it under **Настройки → Language → Русский (RU)**
 
 Done!
 
-### Addons
+## Addons
 
 (loaded after the main file)
 
@@ -105,17 +82,12 @@ Done!
 	2. [with high quality](https://www.dropbox.com/s/46r5ugr6zidklqf/rus_hexen_voice_hq.pk3?dl=1)
 - [Russian voiceover for *Strife: Quest for the Sigil*](https://forum.zdoom.org/viewtopic.php?f=46&t=63476) (**work in progress**)
 
-### Notes
+## Note
 
-- The letter Ё is officially supported, but works incorrectly around some other letters. In this translation, the letter is used only to clarify words whose meanings would be changed without it.
-	- Example: “Игрока %o см**ё**л Крестоносец” compared to “Игрока %o см**е**л Крестоносец”
-- If you wish to open the language file [*language.rus*](pk3/language.rus) in the .pk3 archive, [download it from the repository](https://raw.githubusercontent.com/Nemrtvi/gzdoom-russian-translation/master/pk3/language.rus) (using the keys Ctrl + S) and open it using a code editor that supports the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251) encoding, such as [Notepad++](https://notepad-plus-plus.org/download/) or [Visual Studio Code](https://code.visualstudio.com/).
-	- The most efficient way of contributing an edited language file to the translation is to make a pull request.
-- The letters Ч and Я behave somewhat strangely: in *Doom* and *Strife*, they work only in uppercase when written in header texts (*bigfont.lmp in the file [*zd-extra.pk3*](https://github.com/coelckers/gzdoom/tree/master/wadsrc_extra/static)).
-	- This is due to a lack of support for lowercase variants of these letters in GZDoom’s encoding; therefore, only the uppercase is used for the aforementioned letters in bigfont strings or for the whole string as a whole.
-	- Fortunately, this does not apply to regular, small fonts; as such, they can be written freely. On the other hand, these two letters come in pairs in the archive: the letter Ч exists as both *stcfn215.lmp* and *stcfn247.lmp*, and the letter Я appears as *stcfn223.lmp* and *stcfn255.lmp*.
+If you wish to open the language file [*language.rus*](pk3/language.rus) in the .pk3 archive, [download it from the repository](https://raw.githubusercontent.com/Nemrtvi/gzdoom-russian-translation/master/pk3/language.rus) (using the keys Ctrl + S) and open it using a code editor that supports the [Windows-1251](https://en.wikipedia.org/wiki/Windows-1251) (cp1251) encoding, such as [Notepad++](https://notepad-plus-plus.org/download/) or [Visual Studio Code](https://code.visualstudio.com/).
+- The most efficient way of contributing an edited language file to the translation is to make a pull request.
 
-### Other
+## Other
 
 [ZDoom forum topic](https://forum.zdoom.org/viewtopic.php?f=19&t=58872)
 
