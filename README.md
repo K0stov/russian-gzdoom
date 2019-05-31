@@ -32,6 +32,7 @@
 
 (загружаются после основного файла)
 
+- [Русский перевод *SIGIL*](https://www.dropbox.com/s/0noi9rv62wu82pk/sigil_rus.pk3?dl=1) (загружается после [SIGIL.WAD](https://www.romerogames.ie/si6il) — не совместим с файлом SIGIL_COMPAT.wad)
 - Русская озвучка *Hexen: Beyond Heretic* ([Предпросмотр](https://www.youtube.com/watch?v=X0qw1KC07LU))
 	1. [с качеством оригинальной игры](https://www.dropbox.com/s/psieluqgootdwho/rus_hexen_voice.pk3?dl=1)
 	2. [с высоким качеством](https://www.dropbox.com/s/46r5ugr6zidklqf/rus_hexen_voice_hq.pk3?dl=1)
@@ -80,6 +81,7 @@ Done!
 
 (loaded after the main file)
 
+- [Russian translation of *SIGIL*](https://www.dropbox.com/s/0noi9rv62wu82pk/sigil_rus.pk3?dl=1) (loaded after [SIGIL.WAD](https://www.romerogames.ie/si6il) — not compatible with SIGIL_COMPAT.wad)
 - Russian voiceover for *Hexen: Beyond Heretic* ([Preview](https://www.youtube.com/watch?v=X0qw1KC07LU))
 	1. [with quality of the original game](https://www.dropbox.com/s/psieluqgootdwho/rus_hexen_voice.pk3?dl=1)
 	2. [with high quality](https://www.dropbox.com/s/46r5ugr6zidklqf/rus_hexen_voice_hq.pk3?dl=1)
