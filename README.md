@@ -15,7 +15,6 @@ The following games are supported:
 - [The Ultimate DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
 - [DOOM II: Hell on Earth](https://en.wikipedia.org/wiki/Doom_II:_Hell_on_Earth)
 	- [Final DOOM](https://en.wikipedia.org/wiki/Final_Doom)
-- [Freedoom](https://freedoom.github.io/) (in progress)
 - [Heretic: Shadow of the Serpent Riders](https://en.wikipedia.org/wiki/Heretic)
 - [Hexen: Beyond Heretic](https://en.wikipedia.org/wiki/Hexen)
 	- [Hexen: Deathkings of the Dark Citadel](https://en.wikipedia.org/wiki/Hexen:_Beyond_Heretic#Deathkings_of_the_Dark_Citadel)
