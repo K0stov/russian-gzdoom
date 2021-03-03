@@ -1,6 +1,9 @@
 <h3 align="center"> <a href="#russian-gzdoom"><b>English</b></a> | <a href="#gzdoom-на-русском-языке"><b>Русский</b></a></h3>
 
-![https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png](https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png)
+<p align="center">
+    <img src="https://u.cubeupload.com/SashaRed/ScreenshotDoom201901.png" width="416" height="234"> <img src="https://u.cubeupload.com/SashaRed/ScreenshotHeretic202.png" width="416" height="234">
+    <img src="https://u.cubeupload.com/SashaRed/ScreenshotHexen20190.png" width="416" height="234"> <img src="https://u.cubeupload.com/SashaRed/ScreenshotStrife2021.png" width="416" height="234">
+</p>
 
 # Russian GZDoom
 
