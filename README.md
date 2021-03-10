@@ -9,7 +9,7 @@
 
 ## Summary
 
-This project aims to extend the Russian translation featured in the [GZDoom](https://zdoom.org) engine with the purpose of fully translating the engine and the games that it supports. It encompasses graphical materials not included in GZDoom (e.g. status bar, text screens, in-game items with text inscriptions), but also several other aspects for which translations can be downloaded as addons.
+This project aims to extend the Russian translation featured in the [GZDoom](https://zdoom.org) engine with the purpose of fully translating the engine and the games that it supports. It encompasses graphical materials not included in GZDoom (e.g. status bar, text screens, in-game items with text inscriptions), but also several other aspects available as downloadable addons.
 
 The following games are supported:
 - [The Ultimate DOOM](https://en.wikipedia.org/wiki/Doom_(1993_video_game))
@@ -33,11 +33,11 @@ Done!
 
 (load after main file)
 
-- [Russian translation of *SIGIL*](https://www.dropbox.com/s/0noi9rv62wu82pk/sigil_rus.pk3?dl=1) (load after [SIGIL.WAD](https://romero.com/sigil) — not compatible with SIGIL_COMPAT.wad)
+- [Russian translation of *SIGIL*](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_sigil.pk3) (load after version 1.2.1 of [SIGIL.WAD](https://romero.com/sigil) — not compatible with SIGIL_COMPAT.wad)
 - Russian voiceover for *Hexen: Beyond Heretic* ([preview](https://www.youtube.com/watch?v=X0qw1KC07LU))
-	1. [old-school audio quality](https://www.dropbox.com/s/psieluqgootdwho/rus_hexen_voice.pk3?dl=1)
-	2. [high quality](https://www.dropbox.com/s/46r5ugr6zidklqf/rus_hexen_voice_hq.pk3?dl=1)
-- [Russian voiceover for *Strife: Quest for the Sigil*](https://sites.google.com/view/kostov-en/strife) (**is downloaded separately from the project**)
+	1. [old-school audio quality](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_hexen_voc.pk3)
+	2. [high quality](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_hexen_voc_hq.pk3)
+- [Russian voiceover for *Strife: Quest for the Sigil*](https://sites.google.com/view/kostov-en/strife) <sub>(is downloaded separately from the project)</sub>
 
 ## Note
 
@@ -47,17 +47,17 @@ If you wish to help improve the official Russian GZDoom translation, please read
 
 [ZDoom forum topic](https://forum.zdoom.org/viewtopic.php?f=19&t=58872)
 
-[Doom Power forum topic](https://i.iddqd.ru/viewtopic.php?t=1492) *(in Russian)*
+[Doom Power forum topic](https://i.iddqd.ru/viewtopic.php?t=1492) <sub>(rus.)</sub>
 
 This project is partially based on [Russian Doom](https://github.com/JNechaevsky/russian-doom), created by Julian Nechaevsky, and on a [previous Russian translation of *Strife: Quest for the Sigil*](http://arc.iddqd.ru/14072015/viewtopic.php?t=5331) created by Ameba, theleo_ua and bed.intruder. These individuals have consented to their work being used in this project.
 
-Thanks to [Andrew Grischenko (Xordiah)](https://soundcloud.com/xordiah) for participating in the voiceover of *Hexen: Beyond Heretic*.
+Thanks to [Andrew Grischenko (Xordiah)](https://soundcloud.com/xordiah) for participating in voicing over *Hexen: Beyond Heretic*.
 
 # GZDoom на русском языке
 
 ## Описание
 
-Данный проект представляет из себя дополнение к имеющемуся переводу движка [GZDoom](https://zdoom.org) на русский. Цель — осуществить максимальный русскоязычный перевод движка и содержания поддерживаемых им игр. Проект охватывает перевод графических материалов, недоступных в GZDoom (напр. строки состояния, текстовых экранов, внутриигровых предметов с текстом), но также и некоторых других элементов, переводы которых доступны в виде дополнений.
+Данный проект представляет из себя дополнение к имеющемуся переводу движка [GZDoom](https://zdoom.org) на русский язык. Цель — осуществить максимальный русскоязычный перевод движка и содержания поддерживаемых им игр. Проект охватывает перевод графических материалов, недоступных в GZDoom (напр. строки состояния, текстовых экранов, внутриигровых предметов с текстом), но также и некоторых других элементов, переводы которых доступны в виде дополнений.
 
 Поддерживаются следующие игры:
 - [The Ultimate DOOM](https://ru.wikipedia.org/wiki/Doom_(игра,_1993))
@@ -71,9 +71,9 @@ Thanks to [Andrew Grischenko (Xordiah)](https://soundcloud.com/xordiah) for part
 
 ## Инструкции
 
-1. Скачать файл [*russian_x.x.x.pk3*](https://github.com/Nemrtvi/gzdoom-russian-translation/releases) и перетащить на gzdoom.exe  (также можно воспользоваться командой ```gzdoom.exe -file russian.pk3```)
+1. Скачать файл [*russian_x.x.x.pk3*](https://github.com/Nemrtvi/gzdoom-russian-translation/releases) и перетащить на gzdoom.exe (также можно воспользоваться командой ```gzdoom.exe -file russian.pk3```)
 
-2. Изменить язык GZDoom в: **Options → Miscellaneous Options → Language → Русский**
+2. Изменить язык GZDoom: **Options → Miscellaneous Options → Language → Русский**
 
 Готово!
 
@@ -81,15 +81,15 @@ Thanks to [Andrew Grischenko (Xordiah)](https://soundcloud.com/xordiah) for part
 
 (загружать после основного файла)
 
-- [Перевод на русский проекта *SIGIL*](https://www.dropbox.com/s/0noi9rv62wu82pk/sigil_rus.pk3?dl=1) (загружается после [SIGIL.WAD](https://romero.com/sigil); не совместим с файлом SIGIL_COMPAT.wad)
-- Русская озвучка игры *Hexen: Beyond Heretic* ([предпросмотр](https://www.youtube.com/watch?v=X0qw1KC07LU))
-	1. [с классическим качеством](https://www.dropbox.com/s/psieluqgootdwho/rus_hexen_voice.pk3?dl=1)
-	2. [с высоким качеством](https://www.dropbox.com/s/46r5ugr6zidklqf/rus_hexen_voice_hq.pk3?dl=1)
-- [Русская озвучка *Strife: Quest for the Sigil*](https://sites.google.com/view/kostov-ru/strife) (**скачается отдельно от проекта**)
+- [Перевод проекта *SIGIL*](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_sigil.pk3) (загружается после версии 1.2.1 файла [SIGIL.WAD](https://romero.com/sigil); не совместим с файлом SIGIL_COMPAT.wad)
+- Озвучка игры *Hexen: Beyond Heretic* ([предпросмотр](https://www.youtube.com/watch?v=X0qw1KC07LU))
+	1. [с классическим качеством](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_hexen_voc.pk3)
+	2. [с высоким качеством](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_hexen_voc_hq.pk3)
+- [Озвучка *Strife: Quest for the Sigil*](https://sites.google.com/view/kostov-ru/strife) <sub>(скачается отдельно от проекта)</sub>
 
 ## Примечание
 
-Если вы желаете помочь улучшить русский перевод GZDoom, для которого проект предназначен, прочитайте [эту тему](https://forum.zdoom.org/viewtopic.php?f=49&t=63737).
+Если вы желаете помочь улучшить перевод GZDoom, для которого проект предназначен, прочитайте [эту тему](https://forum.zdoom.org/viewtopic.php?f=49&t=63737).
 
 ## Прочее
 
