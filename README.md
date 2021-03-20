@@ -87,7 +87,7 @@ Thanks to [Andrew Grischenko (Xordiah)](https://soundcloud.com/xordiah) for part
 	1. [В оригинальном качестве](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_hexen_voc.pk3) (11 025 Гц).
 	2. [В высоком качестве](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_hexen_voc_hq.pk3) (44 100 Гц).
 - [Перевод проекта *SIGIL*](https://github.com/K0stov/russian-gzdoom/releases/download/1.0.0/russian_sigil.pk3) (загружается после версии 1.2.1 файла [SIGIL.WAD](https://romero.com/sigil); не совместим с файлом SIGIL_COMPAT.wad)
-- [Озвучка *Strife: Quest for the Sigil*](https://sites.google.com/view/kostov-ru/strife) (скачается отдельно от проекта)
+- [Озвучка *Strife: Quest for the Sigil*](https://sites.google.com/view/kostov-ru/strife) (скачивается отдельно от основного проекта)
 
 ## Примечание
 
