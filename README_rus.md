@@ -52,4 +52,4 @@
 
 Проект частично основан на проекте [Русский Doom](https://github.com/JNechaevsky/russian-doom), разрабатываемом Юлианом Нечаевским, а также на [переводе *Strife: Quest for the Sigil*](http://arc.iddqd.ru/14072015/viewtopic.php?t=5331) за авторством мододелов Ameba, theleo\_ua и bed.intruder. С разрешения авторов в моём проекте используется их творчество.
 
-Благодарим [Андрею «Xordiah» Грищенко](https://soundcloud.com/xordiah) за участие в озвучке *Hexen: Beyond Heretic*.
+Благодарим [Андрея «Xordiah» Грищенко](https://soundcloud.com/xordiah) за участие в озвучке *Hexen: Beyond Heretic*.
